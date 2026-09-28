@@ -10485,10 +10485,10 @@
      "text": "Fair-haired immortals"
     }
    ],
-   "clue": "The name of the land might be the sound these things regularly make.",
+   "clue": "Le nom du pays pourrait être le son que ces choses font régulièrement.",
    "id": "114708",
    "isEasy": false,
-   "question": "In [i]Gulliver’s Travels[/i] by Jonathan Swift, who lives in Houyhnhnm Land?",
+   "question": "Dans [i]Les Voyages de Gulliver[/i] de Jonathan Swift, qui vit à Houyhnhnm Land ?",
    "theme": "FOREST"
   },
   {
@@ -10496,25 +10496,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "That’s a filigree"
+     "text": "C'est un filigrane"
     },
     {
      "correct": false,
-     "text": "That’s an interstitial"
+     "text": "C'est un interstitiel"
     },
     {
      "correct": false,
-     "text": "That’s a plumb bob"
+     "text": "C'est un fil à plomb"
     },
     {
      "correct": true,
-     "text": "That’s a drop cap"
+     "text": "C'est une lettrine"
     }
    ],
-   "clue": "If someone thinks it’s “filigree,” disagree",
+   "clue": "Si quelqu’un pense que c’est du « filigrane », n’est pas d’accord",
    "id": "114715",
    "isEasy": false,
-   "question": "When a paragraph begins with a big ole decorative capital letter, what’s that called?",
+   "question": "Quand un paragraphe commence par une grande lettre majuscule décorative, comment ça s’appelle ?",
    "theme": "DESERT"
   },
   {
@@ -10522,25 +10522,25 @@
    "choices": [
     {
      "correct": true,
-     "text": "Netherlands"
+     "text": "Pays-Bas"
     },
     {
      "correct": false,
-     "text": "Sweden"
+     "text": "Suède"
     },
     {
      "correct": false,
-     "text": "Germany"
+     "text": "Allemagne"
     },
     {
      "correct": false,
-     "text": "Australia"
+     "text": "Australie"
     }
    ],
-   "clue": "The William in question was “William of Orange”",
+   "clue": "Le William en question était « Guillaume d’Orange »",
    "id": "114717",
    "isEasy": false,
-   "question": "When translated to English, which country’s national anthem is just titled “William”?",
+   "question": "Lorsqu'il est traduit en anglais, l'hymne national de quel pays s'intitule simplement "William"?",
    "theme": "MOUNTAIN"
   },
   {
@@ -10548,25 +10548,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "A cobbler"
+     "text": "Un cordonnier"
     },
     {
      "correct": true,
-     "text": "A cooper"
+     "text": "Un tonnelier"
     },
     {
      "correct": false,
-     "text": "A milliner"
+     "text": "Une modiste"
     },
     {
      "correct": false,
-     "text": "A glazier"
+     "text": "Un vitrier"
     }
    ],
-   "clue": "Call a cobbler for shoes and a glazier for glass",
+   "clue": "Appelez un cordonnier pour les chaussures et un vitrier pour le verre",
    "id": "114724",
    "isEasy": false,
-   "question": "Dang it, my dope new barrel just broke. Who should I call to fix my barrel?",
+   "question": "Bon sang, mon nouveau baril vient de casser. Qui dois-je appeler pour réparer mon baril ?",
    "theme": "FOREST"
   },
   {
@@ -10574,26 +10574,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "The Hundred Years’ War"
+     "text": "La guerre de Cent Ans"
     },
     {
      "correct": false,
-     "text": "World War II"
+     "text": "Seconde Guerre mondiale"
     },
     {
      "correct": true,
-     "text": "The War of 1812"
+     "text": "La guerre de 1812"
     },
     {
      "correct": false,
-     "text": "World War I"
+     "text": "Première Guerre mondiale"
     }
    ],
-   "clue": "It went down before WWI.",
+   "clue": "Il est tombé avant la Première Guerre mondiale.",
    "countrySpecific": false,
    "id": "114734",
    "isEasy": false,
-   "question": "Mon Dieu! This war WASN’T fought on French soil!",
+   "question": "Mon Dieu! Cette guerre N’A PAS ÉTÉ menée sur le sol français !",
    "theme": "CASTLE"
   },
   {
@@ -10601,25 +10601,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Egg"
+     "text": "Œuf"
     },
     {
      "correct": true,
-     "text": "Ginger"
+     "text": "Gingembre"
     },
     {
      "correct": false,
-     "text": "Butter"
+     "text": "Beurre"
     },
     {
      "correct": false,
-     "text": "White wine"
+     "text": "Vin blanc"
     }
    ],
-   "clue": "Not an animal by-product.",
+   "clue": "Il ne s'agit pas d'un sous-produit animal.",
    "id": "114735",
    "isEasy": false,
-   "question": "In cooking, which of these common ingredients is an “aromatic”?",
+   "question": "En cuisine, lequel de ces ingrédients courants est un « aromatique »?",
    "theme": "FOREST"
   },
   {
@@ -10627,25 +10627,25 @@
    "choices": [
     {
      "correct": true,
-     "text": "Iron Maiden"
+     "text": "Fille de fer"
     },
     {
      "correct": false,
-     "text": "Black Sabbath"
+     "text": "Sabbat noir"
     },
     {
      "correct": false,
-     "text": "Judas Priest"
+     "text": "Judas Prêtre"
     },
     {
      "correct": false,
-     "text": "The Grateful Dead"
+     "text": "Les morts reconnaissants"
     }
    ],
-   "clue": "How Ironic!",
+   "clue": "Quelle ironie!",
    "id": "114737",
    "isEasy": false,
-   "question": "Eddie the Head is the skeletal mascot for what band? (You’ll see him on all their album art.)",
+   "question": "Eddie the Head est la mascotte squelettique de quel groupe ? (Vous le verrez sur toutes leurs pochettes d’album.)",
    "theme": "CEMETERY"
   },
   {
@@ -10653,25 +10653,25 @@
    "choices": [
     {
      "correct": true,
-     "text": "Death"
+     "text": "La mort"
     },
     {
      "correct": false,
-     "text": "God"
+     "text": "Dieu"
     },
     {
      "correct": false,
-     "text": "The Devil"
+     "text": "Le Diable"
     },
     {
      "correct": false,
-     "text": "Herself"
+     "text": "Se"
     }
    ],
-   "clue": "Appropriately, it was published posthumously.",
+   "clue": "À juste titre, il a été publié à titre posthume.",
    "id": "114747",
    "isEasy": false,
-   "question": "In her famous poem, who kindly stopped for Emily Dickinson?",
+   "question": "Dans son célèbre poème, qui a gentiment arrêté Emily Dickinson ?",
    "theme": "FOREST"
   },
   {
@@ -10679,25 +10679,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Brain"
+     "text": "Cerveau"
     },
     {
      "correct": false,
-     "text": "Heart"
+     "text": "Cœur"
     },
     {
      "correct": true,
-     "text": "Stomach"
+     "text": "Estomac"
     },
     {
      "correct": false,
-     "text": "Eyes"
+     "text": "Yeux"
     }
    ],
-   "clue": "Don’t worry, they have a heart and a brain",
+   "clue": "Ne t'inquiète pas, ils ont un cœur et un cerveau",
    "id": "114753",
    "isEasy": false,
-   "question": "Which organ is the majestic seahorse missing?",
+   "question": "Quel organe manque-t-il au majestueux hippocampe ?",
    "theme": "CASTLE"
   },
   {
@@ -10705,25 +10705,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]The Scarlet Pimpernel[/i]"
+     "text": "[i]Le mouron écarlate[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Man in the Iron Mask[/i]"
+     "text": "[i]L'homme au masque de fer[/i]"
     },
     {
      "correct": true,
-     "text": "[i]The Count of Monte Cristo[/i]"
+     "text": "[i]Le Comte de Monte-Cristo[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Phantom of the Opera[/i]"
+     "text": "[i]Le Fantôme de l'Opéra[/i]"
     }
    ],
-   "clue": "I Count three wrong answers",
+   "clue": "Je compte trois mauvaises réponses",
    "id": "114754",
    "isEasy": false,
-   "question": "You know the literary hero Edmond Dantès? Or, as he’s better known...",
+   "question": "Vous connaissez le héros littéraire Edmond Dantès ? Ou, comme il est mieux connu...",
    "theme": "CASTLE"
   },
   {
@@ -10746,11 +10746,11 @@
      "text": "Nevada"
     }
    ],
-   "clue": "Think territory, not state",
+   "clue": "Pensez territoire, pas État",
    "countrySpecific": true,
    "id": "114755",
    "isEasy": false,
-   "question": "Where in the U.S. do cars drive on the left side of the road?",
+   "question": "Où aux États-Unis les voitures roulent-elles du côté gauche de la route ?",
    "theme": "DESERT"
   },
   {
@@ -10758,25 +10758,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Almonds"
+     "text": "Amandes"
     },
     {
      "correct": false,
-     "text": "Avocado"
+     "text": "Avocat"
     },
     {
      "correct": true,
-     "text": "Applesauce"
+     "text": "Compote de pommes"
     },
     {
      "correct": false,
-     "text": "Aloe juice"
+     "text": "Jus d'aloès"
     }
    ],
-   "clue": "It’s in the fruit family",
+   "clue": "C'est dans la famille des fruits",
    "id": "114756",
    "isEasy": false,
-   "question": "If you’re gathering supplies for the BRAT diet, what would you need to buy for the “A”?",
+   "question": "Si vous rassemblez des fournitures pour le régime BRAT, que devrez-vous acheter pour le « A » ?",
    "theme": "FOREST"
   },
   {
@@ -10784,25 +10784,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "It’s the LARGEST RODENT in the Western Hemisphere"
+     "text": "C’est le PLUS GROS RONGEUR de l’hémisphère occidental"
     },
     {
      "correct": true,
-     "text": "It’s the LARGEST MARSUPIAL in the Western Hemisphere"
+     "text": "C'est le PLUS GRAND MARSUPIAL de l'hémisphère occidentale"
     },
     {
      "correct": false,
-     "text": "It’s the LARGEST CANINE in the Western Hemisphere"
+     "text": "C’est le PLUS GRAND CANIN de l’hémisphère occidental"
     },
     {
      "correct": false,
-     "text": "It’s the SMALLEST BEAR in the Western Hemisphere"
+     "text": "C'est le PLUS PETIT OURS de l'hémisphère occidental"
     }
    ],
    "clue": "Ya know, like a kangaroo",
    "id": "114757",
    "isEasy": false,
-   "question": "Chonky Creature Check: Which of these statements about opossums is true?",
+   "question": "Chonky Creature Check : Laquelle de ces affirmations sur les opossums est vraie ?",
    "theme": "FOREST"
   },
   {
@@ -10810,11 +10810,11 @@
    "choices": [
     {
      "correct": false,
-     "text": "Soccer"
+     "text": "Football"
     },
     {
      "correct": false,
-     "text": "Baseball"
+     "text": "Base-ball"
     },
     {
      "correct": true,
@@ -10825,10 +10825,10 @@
      "text": "Bowling"
     }
    ],
-   "clue": "It’s one of the sports with sticks and helmets",
+   "clue": "C'est un des sports avec des bâtons et des casques",
    "id": "114758",
    "isEasy": false,
-   "question": "Canada’s two national sports are ice hockey and which of the following?",
+   "question": « Les deux sports nationaux du Canada sont le hockey sur glace, et lequel des suivants ? »,
    "theme": "MOUNTAIN"
   },
   {
@@ -10836,26 +10836,26 @@
    "choices": [
     {
      "correct": false,
-     "text": "Calcium carbonate"
+     "text": "Carbonate de calcium"
     },
     {
      "correct": false,
-     "text": "Chloride"
+     "text": "Chlorure"
     },
     {
      "correct": true,
-     "text": "Fluoride"
+     "text": "Fluorure"
     },
     {
      "correct": false,
-     "text": "Baking soda"
+     "text": "Bicarbonate de soude"
     }
    ],
-   "clue": "Sometimes you gotta ride out the “flu”",
+   "clue": « Parfois, il faut surmonter la « grippe » »,
    "countrySpecific": false,
    "id": "114759",
    "isEasy": false,
-   "question": "All-chemy! What is the active ingredient found in standard-issue tubes of Crest, Colgate and Aquafresh toothpastes?",
+   "question": "Tout chimique ! Quel est l'ingrédient actif présent dans les tubes standards des dentifrices Crest, Colgate et Aquafresh ?",
    "theme": "CASTLE"
   },
   {
@@ -10863,25 +10863,25 @@
    "choices": [
     {
      "correct": true,
-     "text": "The Masters Tournament"
+     "text": "Le Tournoi des Maîtres"
     },
     {
      "correct": false,
-     "text": "The U.S. Open"
+     "text": "L'US Open"
     },
     {
      "correct": false,
-     "text": "The PGA Championship"
+     "text": "Le championnat PGA"
     },
     {
      "correct": false,
-     "text": "The Ryder Cup"
+     "text": "La Ryder Cup"
     }
    ],
-   "clue": "Not the U.S. Open",
+   "clue": "Pas l'US Open",
    "id": "114761",
    "isEasy": false,
-   "question": "Which golf tournament awards champions with a green jacket?",
+   "question": "Quel tournoi de golf récompense les champions avec une veste verte ?",
    "theme": "DESERT"
   },
   {
@@ -10889,25 +10889,25 @@
    "choices": [
     {
      "correct": true,
-     "text": "Gah! My leg fell asleep!"
+     "text": "Gah ! Ma jambe s'est endormie !"
     },
     {
      "correct": false,
-     "text": "Yikes! I got a sunburn!"
+     "text": "Ouais ! J'ai eu un coup de soleil !"
     },
     {
      "correct": false,
-     "text": "Ah! My hair’s falling out!"
+     "text": "Ah ! Mes cheveux tombent !"
     },
     {
      "correct": false,
-     "text": "Zzz! I’m sleepwalking!"
+     "text": "Zzz ! Je suis somnambule !"
     }
    ],
-   "clue": "It’s a sleeping one... but not the real sleeping one",
+   "clue": "C'est celui qui dort... mais pas le vrai qui dort",
    "id": "114762",
    "isEasy": false,
-   "question": "If one of your party suffers from “paresthesia,” they might say…",
+   "question": "Si l'un des membres de votre groupe souffre de "paresthésie", il pourrait dire...",
    "theme": "CASTLE"
   },
   {
@@ -10930,10 +10930,10 @@
      "text": "J.D. Salinger"
     }
    ],
-   "clue": "This is how you Win against Bald-faced lies!",
+   "clue": "C'est comme ça qu'on gagne contre les mensonges flagrants !",
    "id": "114765",
    "isEasy": false,
-   "question": "Deception Fail! “I can’t believe what you say, because I see what you do” is a quote from an essay by…",
+   "question": "La tromperie échoue ! "Je ne peux pas croire ce que vous dites, parce que je vois ce que vous faites" est une citation tirée d'un essai de…",
    "theme": "MOUNTAIN"
   },
   {
@@ -10941,25 +10941,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "A whale"
+     "text": "Une baleine"
     },
     {
      "correct": false,
-     "text": "A sunset"
+     "text": "Un coucher de soleil"
     },
     {
      "correct": false,
-     "text": "A flock of birds"
+     "text": "Une volée d'oiseaux"
     },
     {
      "correct": true,
-     "text": "Mount Fuji"
+     "text": "Mont Fuji"
     }
    ],
-   "clue": "Try and Mount an attack on the monster",
+   "clue": "Essayez de monter une attaque sur le monstre",
    "id": "114767",
    "isEasy": false,
-   "question": "You know that big wave painting, Hokusai’s [i]The Great Wave off Kanagawa[/i]? What’s in the background?",
+   "question": "Vous connaissez cette grande peinture de vague, [i]La Grande Vague de Kanagawa[/i] de Hokusai ? Qu'y a-t-il en arrière-plan ?",
    "theme": "MOUNTAIN"
   },
   {
@@ -10967,25 +10967,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]I Love Lucy[/i]"
+     "text": "[i]J'aime Lucy[/i]"
     },
     {
      "correct": true,
-     "text": "[i]The Honeymooners[/i]"
+     "text": "[i]Les jeunes mariés[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Gilligan’s Island[/i]"
+     "text": "[i]L'île de Gilligan[/i]"
     },
     {
      "correct": false,
-     "text": "[i]The Man from U.N.C.L.E.[/i]"
+     "text": "[i]L'homme d'U.N.C.L.E.[/i]"
     }
    ],
-   "clue": "Wife, I will physically harm you into outer space!",
+   "clue": "Femme, je vais te faire du mal physiquement dans l'espace !",
    "id": "114768",
    "isEasy": false,
-   "question": "“This is where Ralph dresses up like a man from space!” What classic TV show is Marty talking about in [i]Back to the Future[/i]?",
+   "question": « C'est ici que Ralph s'habille comme un homme venu de l'espace ! » De quelle série télévisée classique Marty parle-t-il dans [i]Retour vers le futur[/i] ?",
    "theme": "CEMETERY"
   },
   {
@@ -10993,11 +10993,11 @@
    "choices": [
     {
      "correct": true,
-     "text": "Chimpanzees"
+     "text": "Chimpanzés"
     },
     {
      "correct": false,
-     "text": "Gorillas"
+     "text": "Gorilles"
     },
     {
      "correct": false,
@@ -11005,13 +11005,13 @@
     },
     {
      "correct": false,
-     "text": "Human beings"
+     "text": "Les êtres humains"
     }
    ],
-   "clue": "Knows everything from “A” to “Zee”",
+   "clue": "Sait tout, de "A" à "Zee"",
    "id": "114769",
    "isEasy": false,
-   "question": "Dr. Jane Goodall was considered the world’s foremost expert on which type of ape?",
+   "question": "Le Dr Jane Goodall était considérée comme la plus grande experte au monde sur quel type de singe ?",
    "theme": "FOREST"
   },
   {
@@ -11019,25 +11019,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Bowler"
+     "text": "Quilleurs"
     },
     {
      "correct": true,
-     "text": "Boater"
+     "text": "Canotiere"
     },
     {
      "correct": false,
-     "text": "Boxtop"
+     "text": "Coffret"
     },
     {
      "correct": false,
      "text": "Beret"
     }
    ],
-   "clue": "It would float like a boat",
+   "clue": "Ça flotterait comme un bateau",
    "id": "114771",
    "isEasy": false,
-   "question": "A magical straw hat with a flat top and ribbon band would be a blessed...",
+   "question": "Un chapeau de paille magique avec un dessus plat et un ruban serait une bénédiction...",
    "theme": "CASTLE"
   },
   {
@@ -11060,10 +11060,10 @@
      "text": "Four Seasons"
     }
    ],
-   "clue": "More like the Four Options",
+   "clue": "Plutôt les quatre options",
    "id": "114772",
    "isEasy": false,
-   "question": "Your party needs lodging! Select the global hotel chain that was founded in Canada!",
+   "question": "Votre fête a besoin d'hébergement ! Sélectionnez la chaîne hôtelière mondiale fondée au Canada !",
    "theme": "FOREST"
   },
   {
@@ -11071,25 +11071,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Whale shark"
+     "text": "Requin baleine"
     },
     {
      "correct": false,
-     "text": "Mako shark"
+     "text": "Semaine du requin"
     },
     {
      "correct": false,
-     "text": "Salmon shark"
+     "text": "Requin saumon"
     },
     {
      "correct": true,
-     "text": "Wobbegong"
+     "text": 《沃伯贡》
     }
    ],
-   "clue": "Woe to the wrong answers",
+   "clue": "Malheur aux mauvaises réponses",
    "id": "114773",
    "isEasy": false,
-   "question": "Not all sharks must keep swimming! Which of these sharks hunts by burying itself in sand and staying still?",
+   "question": "Tous les requins ne doivent pas continuer à nager ! Lequel de ces requins chasse en s'enfouissant dans le sable et en restant immobile ?",
    "theme": "DESERT"
   },
   {
@@ -11097,25 +11097,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "The names of months"
+     "text": "Les noms des mois"
     },
     {
      "correct": false,
-     "text": "The length of weeks"
+     "text": "La durée des semaines"
     },
     {
      "correct": false,
-     "text": "The number of days"
+     "text": "Le nombre de jours"
     },
     {
      "correct": true,
-     "text": "The frequency of leap years"
+     "text": "La fréquence des années bissextiles"
     }
    ],
-   "clue": "No idea? Take a leap of faith",
+   "clue": "Aucune idée ? Faites un acte de foi",
    "id": "114774",
    "isEasy": false,
-   "question": "What’s the only difference between the Gregorian and Julian calendars?",
+   "question": "Quelle est la seule différence entre les calendriers grégorien et julien ?",
    "theme": "CEMETERY"
   },
   {
@@ -11138,11 +11138,11 @@
      "text": "Taco Bell"
     }
    ],
-   "clue": "No Fire sauce for kids",
+   "clue": "Sauce No Fire pour les enfants",
    "countrySpecific": true,
    "id": "114775",
    "isEasy": false,
-   "question": "As of 2025, which fast food restaurant has NO kids’ meals on their menu?",
+   "question": "En 2025, quel fast-food ne propose AUCUN repas pour enfants à son menu ?",
    "theme": "CEMETERY"
   },
   {
@@ -11165,10 +11165,10 @@
      "text": "60 seconds"
     }
    ],
-   "clue": "It’s less than a minute",
+   "clue": "C'est moins d'une minute",
    "id": "114776",
    "isEasy": false,
-   "question": "If there are no runners on base, how many seconds does a baseball pitcher have to throw the ball?",
+   "question": "S'il n'y a pas de coureurs sur les buts, de combien de secondes dispose un lanceur de baseball pour lancer la balle ?",
    "theme": "DESERT"
   },
   {
@@ -11176,7 +11176,7 @@
    "choices": [
     {
      "correct": false,
-     "text": "Mercury"
+     "text": "Mercure"
     },
     {
      "correct": false,
@@ -11188,13 +11188,13 @@
     },
     {
      "correct": false,
-     "text": "Earth"
+     "text": "Terre"
     }
    ],
-   "clue": "You can’t find it on Google Maps",
+   "clue": "Vous ne pouvez pas le trouver sur Google Maps",
    "id": "114777",
    "isEasy": false,
-   "question": "On which planet can you find Olympus Mons, the largest volcano in our solar system?",
+   "question": "Sur quelle planète peut-on trouver l'Olympus Mons, le plus grand volcan de notre système solaire ?",
    "theme": "MOUNTAIN"
   },
   {
@@ -11202,25 +11202,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "Venom"
+     "text": "Venin"
     },
     {
      "correct": true,
-     "text": "Antibiotics"
+     "text": "Antibiotiques"
     },
     {
      "correct": false,
-     "text": "Milk"
+     "text": "Lait"
     },
     {
      "correct": false,
-     "text": "Tears"
+     "text": "Larmes"
     }
    ],
-   "clue": "It’s like they make their own penicillin",
+   "clue": "C'est comme s'ils fabriquaient leur propre pénicilline",
    "id": "114778",
    "isEasy": false,
-   "question": "What are porcupine quills covered in?",
+   "question": "De quoi sont recouvertes les piquants de porc-épic ?",
    "theme": "FOREST"
   },
   {
@@ -11228,25 +11228,25 @@
    "choices": [
     {
      "correct": false,
-     "text": "[i]South Pacific[/i]"
+     "text": "[i]Pacifique Sud[/i]"
     },
     {
      "correct": true,
-     "text": "[i]Miss Saigon[/i]"
+     "text": "[i]Mlle Saigon[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Come From Away[/i]"
+     "text": "[je]Viens de loin[/i]"
     },
     {
      "correct": false,
-     "text": "[i]Hamilton[/i]"
+     "text": “[i]汉密尔顿[/i]”
     }
    ],
-   "clue": "It’s set during the Vietnam War",
+   "clue": "Ça se passe pendant la guerre du Vietnam",
    "id": "114779",
    "isEasy": false,
-   "question": "What Broadway musical typically has a helicopter onstage during act two?",
+   "question": "Quelle comédie musicale de Broadway a généralement un hélicoptère sur scène pendant le deuxième acte ?",
    "theme": "CASTLE"
   }
  ]
