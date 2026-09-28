@@ -1,0 +1,42 @@
+{
+    "localized" : "true",
+    "items": [
+        {
+            "title":"PAUSE_RESUME",
+            "action":"doResumeGame",
+            "description":"PAUSE_RESUME_DESCRIPTION",
+            "value":0
+        },
+        {
+            "title":"PAUSE_SETTINGS",
+            "action":"doSettings",
+            "description":"PAUSE_SETTINGS_DESCRIPTION",
+            "isValid": "context != \"menu\" AND context != \"lobby\" AND context != \"postgame\"",
+            "value":1
+        },
+        {
+            "title":"PAUSE_RESTART",
+            "action":"doRestartGame",
+            "description":"PAUSE_RESTART_DESCRIPTION",
+            "value":2,
+            "hideWhenTSValueIs":{ "id": "canRestartGame", "value": false },
+            "confirmation":"PAUSE_CONFIRMATION_RESTART"
+        },
+        {
+            "title":"PAUSE_BACK_TO_PACK",
+            "action":"doBackToPack",
+            "description":"PAUSE_BACK_TO_PACK_DESCRIPTION",
+            "value":3,
+            "isValid": "isBundle AND canGoBackToPack",
+            "confirmation":"PAUSE_CONFIRMATION_BACK_TO_PACK"
+        },
+        {
+            "title":"PAUSE_EXIT_TO_DESKTOP",
+            "action":"doExitToDesktop",
+            "description":"PAUSE_EXIT_TO_DESKTOP_DESCRIPTION",
+            "value":4,
+            "isValid":"needExitbutton",
+            "confirmation":"PAUSE_CONFIRMATION_EXIT"
+        }
+    ]
+}

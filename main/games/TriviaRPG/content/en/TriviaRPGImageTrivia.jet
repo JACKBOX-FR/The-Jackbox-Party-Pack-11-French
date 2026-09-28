@@ -972,12 +972,12 @@
     {
      "altText": "Gold Coin",
      "correct": false,
-     "hint": "Lucky doesn’t have any gold coins"
+     "hint": "Lucky n'a pas de pièces d'or"
     },
     {
      "altText": "White Cloud",
      "correct": false,
-     "hint": "No white clouds... they would just look like normal marshmallows"
+     "hint": "Pas de nuages ​​blancs... ils ressembleraient juste à des guimauves normales"
     }
 ],
 "id": "112630",
@@ -2384,81 +2384,81 @@
      "hint": "Spiders? Even Moses had his limits...."
     },
     {
-     "altText": "Darkness",
+     "altText": "Obscurité",
      "correct": true,
-     "hint": "This covers the entire land"
+     "hint": "Cela couvre tout le territoire"
     },
     {
-     "altText": "Frogs",
+     "altText": "Grenouilles",
      "correct": true,
-     "hint": "This one almost gets Pharaoh to change his mind..."
+     "hint": "Celui-ci fera presque changer d’avis Pharaon…"
     },
     {
-     "altText": "Tornado",
+     "altText": "Tornade",
      "correct": false,
-     "hint": "You’re thinking of the Book of Job"
+     "hint": "Vous pensez au Livre de Job"
     }
    ],
    "id": "114740",
    "isEasy": false,
-   "question": "The Plagues of Egypt (From the Book of Exodus)"
+   "question": "Les plaies d'Égypte (extrait du livre de l'Exode)"
   },
   {
    "choices": [
     {
-     "altText": "Mushrooms",
+     "altText": "Champignons",
      "correct": false,
-     "hint": "Not much flora in this recipe"
+     "hint": "Pas beaucoup de flore dans cette recette"
     },
     {
-     "altText": "White Wine",
+     "altText": "Vin blanc",
      "correct": false,
-     "hint": "You can eat this and drive"
+     "hint": "Tu peux manger ça et conduire"
     },
     {
-     "altText": "Spinach",
+     "altText": "Épinard",
      "correct": false,
-     "hint": "You’re thinking of Quiche Florentine"
+     "hint": "Vous pensez à Quiche Florentine"
     },
     {
      "altText": "Bacon",
      "correct": true,
-     "hint": "Yep, chopped up into little bits"
+     "hint": "Oui, coupé en petits morceaux"
     },
     {
-     "altText": "Eggs",
+     "altText": "Œufs",
      "correct": true,
-     "hint": "“Quiche” basically means “egg pie”"
+     "hint": "« Quiche » signifie essentiellement « tarte aux œufs »"
     },
     {
      "altText": "Gruyère Cheese",
      "correct": true,
-     "hint": "Cheese was added in 20th-century recipes"
+     "hint": "Le fromage a été ajouté aux recettes du XXe siècle"
     },
     {
      "altText": "Shortening",
      "correct": true,
-     "hint": "The opposite of Tall-ening"
+     "hint": "Le contraire de Tall-ending"
     },
     {
      "altText": "Mayo",
      "correct": false,
-     "hint": "Mayo has eggs, so this would be redundant"
+     "hint": "Mayo a des œufs, donc ce serait redondant"
     },
     {
      "altText": "Lobster",
      "correct": false,
-     "hint": "Not a seafood dish"
+     "hint": "Pas un plat de fruits de mer"
     },
     {
      "altText": "Butter",
      "correct": true,
-     "hint": "This is Julia’s trademark"
+     "hint": "C'est la marque de fabrique de Julia"
     }
    ],
    "id": "114741",
    "isEasy": false,
-   "question": "Traditional Quiche Lorraine Ingredients (Using Julia Childs’ recipe)"
+   "question": "Ingrédients de la quiche lorraine traditionnelle (selon la recette de Julia Childs)"
   },
   {
    "choices": [

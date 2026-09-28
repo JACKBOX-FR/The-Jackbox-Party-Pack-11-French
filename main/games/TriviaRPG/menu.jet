@@ -1,0 +1,32 @@
+{
+    "localized" : "true",
+    "items": [
+        {
+            "title":"PLAY",
+            "action":"doPlayGame",
+            "value":0
+        },
+        {
+            "title":"SETTINGS",
+            "action":"doSettings",
+            "value":1
+        },
+        {
+            "title":"CREDITS",
+            "action":"doCredits",
+            "value":2
+        },
+        {
+            "title":"BACK",
+            "action":"doBackToPack",
+            "value":3,
+            "isValid": "isBundle AND canGoBackToPack"
+        },
+        {
+            "title":"EXIT",
+            "action":"doBackToPack",
+            "value":4,
+            "isValid": "!isBundle OR !canGoBackToPack"
+        }
+    ]
+}
