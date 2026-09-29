@@ -923,7 +923,7 @@
         "Zap",
         "Turbo"
        ],
-       "category": "Perosnnages de [i]American Gladiators[/i] dans les 90s"
+       "category": "Personnages de [i]American Gladiators[/i] dans les 90s"
       }
      ]
     }
@@ -1270,23 +1270,23 @@
      "topics": [
       {
        "answers": [
-        "Beekini",
-        "Rocket Skates",
-        "Woodchipper",
-        "Bungie Boogie",
-        "Jet Engine",
-        "Butt X-ray"
+"Beekini", 
+"Patins fusée", 
+"Bécheuse à bois", 
+"Bungie Boogie", 
+"Moteur à réaction", 
+" Radiographie des fesses »
        ],
-       "category": "[i]Jackass[/i] Stunt"
+       "category": "[i]Jackass[/i] Cascade"
       },
       {
        "answers": [
-        "Naked and Famous",
-        "Corpse Reviver No. 2",
-        "Monkey Gland",
-        "Jungle Bird",
-        "Rusty Nail",
-        "Zombie"
+"Nu et célèbre", 
+"Corpse Reviver No. 2", 
+"Glande de singe", 
+"Oiseau de la jungle", 
+"Clou rouillé", 
+"Zombies"
        ],
        "category": "Cocktail"
       }
@@ -1296,23 +1296,23 @@
      "topics": [
       {
        "answers": [
-        "Indy Nosebone",
-        "Kickflip",
-        "Melon",
-        "Fandangle",
-        "Big Hitter II",
-        "Wall Plant"
+        "Indy Nezbone", 
+        "Kickflip", 
+        "Melons", 
+        "Fandangle", 
+        "Grand frappeur II", 
+        "Plante murale"
        ],
-       "category": "[i]Tony Hawk Pro Skater[/i] Trick"
+       "category": "[i]Tony Hawk Pro Skater[/i] Astuce"
       },
       {
        "answers": [
-        "Bee’s Knees",
-        "French 75",
-        "Grasshopper",
-        "Moscow Mule",
-        "Paper Plane",
-        "Sidecar"
+"Les genoux d'abeille", 
+"Français 75", 
+"Sauterelle", 
+"Mule de Moscou", 
+"Avion en papier", 
+"Side-car"
        ],
        "category": "Cocktail"
       }
@@ -1322,30 +1322,30 @@
      "topics": [
       {
        "answers": [
-        "Paper Cuts",
-        "Alligator Tightrope",
-        "BMX Tug-of-War",
-        "The High Five",
-        "The Fish Hook",
-        "Pin the Tail on the Donkey"
+"Découpes de papier", 
+"Corde raide alligator", 
+" Tir à la corde BMX ", 
+"Les High Five", 
+"L'hameçon", 
+"Épinglez la queue de l'âne"
        ],
-       "category": "[i]Jackass[/i] Stunt"
+       "category": "[i]Jackass[/i] Cascade"
       },
       {
        "answers": [
-        "Pizza Guy",
-        "Coffin",
-        "Hospital Flip",
-        "Switcheroo",
-        "Rocket Air",
-        "Benihana"
+ "Le gars de la pizza", 
+"Cercueil", 
+"Retour à l'hôpital", 
+" Switcheroo ", 
+"Fusée-Air", 
+"Benihana"
        ],
-       "category": "[i]Tony Hawk Pro Skater[/i] Trick"
+       "category": "[i]Tony Hawk Pro Skater[/i] Astuce"
       }
      ]
     }
    ],
-   "theme": "MOUNTAIN",
+   "theme": "MONTAGNE",
    "x": true
   },
   {
@@ -1356,25 +1356,25 @@
      "topics": [
       {
        "answers": [
-        "The Talisman",
-        "The Lawnmower Man",
-        "Doctor Sleep",
-        "The Outsider",
-        "The Running Man",
-        "Mr. Mercedes"
+"Le Talisman", 
+"L'homme tondeuse à gazon", 
+"Docteur Sommeil", 
+"L'étranger", 
+"L'homme qui court", 
+"M. Mercedes"
        ],
-       "category": "Stephen King Story"
+       "category": "Histoire de Stephen King"
       },
       {
        "answers": [
-        "The Greek Freak",
-        "The Admiral",
-        "Slim Reaper",
-        "The Answer",
-        "The Bald Mamba",
-        "The Worm"
+"Le monstre grec", 
+"L'Amiral", 
+"Faucheuse mince", 
+"La réponse", 
+"Le Mamba Chauve", 
+"Le ver"
        ],
-       "category": "NBA Player Nickname"
+       "category": "Surnom du joueur NBA"
       }
      ]
     },
@@ -1382,25 +1382,25 @@
      "topics": [
       {
        "answers": [
-        "The Dead Zone",
-        "Christine",
-        "The Monkey",
-        "Needful Things",
-        "Finders Keepers",
-        "Never Flinch"
+"La Zone Morte", 
+"Christine", 
+"Le Singe", 
+"Choses nécessaires", 
+"Gardiens des chercheurs", 
+"Ne bronchez jamais"
        ],
-       "category": "Stephen King Story"
+       "category": "Histoire de Stephen King"
       },
       {
        "answers": [
-        "The Lighthouse",
-        "The Farewell",
-        "Climax",
-        "Bring Her Back",
-        "The Witch",
-        "Under the Skin"
+"Le Phare", 
+"L'adieu", 
+"Climax", 
+"Ramenez-la", 
+"La Sorcière", 
+"Sous la peau"
        ],
-       "category": "A24 Film"
+       "category": "Film A24"
       }
      ]
     },
@@ -1408,30 +1408,30 @@
      "topics": [
       {
        "answers": [
-        "Ant-Man",
-        "Reign Man",
-        "White Chocolate",
-        "Agent Zero",
-        "The Hick from French Lick",
-        "The Process"
+"Ant-Man", 
+"L'Homme Règne", 
+"Chocolat Blanc", 
+"Agent Zéro", 
+"Le Hick de French Lick", 
+"Le processus"
        ],
-       "category": "NBA Player Nickname"
+       "category": "Surnom du joueur NBA"
       },
       {
        "answers": [
-        "The Iron Claw",
-        "The Brutalist",
-        "The Sixth",
-        "The Green Knight",
-        "Saint Maud",
-        "Lean on Pete"
+"La Griffe de Fer", 
+"Le Brutaliste", 
+"Le sixième", 
+"Le Chevalier Vert", 
+"Sainte Maud", 
+"Appuyez-vous sur Pete"
        ],
-       "category": "A24 Film"
+       "category": "Film A24"
       }
      ]
     }
    ],
-   "theme": "CEMETERY"
+   "theme": "CIMETIÈRE"
   },
   {
    "countrySpecific": true,
@@ -1441,25 +1441,25 @@
      "topics": [
       {
        "answers": [
-        "Godiva Chocolate",
-        "Spicy Ginger",
-        "Very Cherry Ghirardelli",
-        "Steak Diane",
-        "SkinnyLicious",
-        "Grilled Asparagus"
+"Chocolat Godiva", 
+"Gingembre épicé", 
+"Très cerise Ghirardelli", 
+"Steak Diane", 
+"SkinnyLicious", 
+"Asperges Grillées"
        ],
-       "category": "Words on The Cheesecake Factory Menu"
+       "category": "Mots sur le menu de la Cheesecake Factory"
       },
       {
        "answers": [
-        "Alaska",
-        "June Jambalaya",
-        "Shea Couleé",
-        "Silky Nutmeg Ganache",
-        "Honey Davenport",
-        "BenDeLaCreme"
+"Alaska", 
+"Juin Jambalaya", 
+"Karité Coulée", 
+"Ganache soyeuse à la noix de muscade", 
+"Chérie Davenport", 
+"BenDeLaCrème"
        ],
-       "category": "[i]RuPaul’s Drag Race[/i] Contestant"
+       "category": "[i]RuPaul's Drag Race[/i] Concurrent"
       }
      ]
     },
@@ -1467,14 +1467,14 @@
      "topics": [
       {
        "answers": [
-        "Peach Bellini",
-        "Paloma Rosa",
-        "Truffle Aioli",
-        "Soup of the Day",
-        "Mortadella Panino",
-        "Costoletta"
+"Pêche Bellini",
+"Paloma Rosa",
+"Aïoli à la Truffe",
+"Soupe du jour",
+"Sandwich à la mortadelle",
+"Couper"
        ],
-       "category": "Words on The Cheesecake Factory Menu"
+       "category": "Mots sur le menu de la Cheesecake Factory"
       },
       {
        "answers": [
@@ -1485,7 +1485,7 @@
         "Honey Ryder",
         "Solitaire"
        ],
-       "category": "Bond Girls"
+       "category": "Filles d'obligations"
       }
      ]
     },
@@ -1500,7 +1500,7 @@
         "Nymphia Wind",
         "Kahmora Hall"
        ],
-       "category": "[i]RuPaul’s Drag Race[/i] Contestant"
+       "category": "[i]RuPaul's Drag Race[/i] Concurrent"
       },
       {
        "answers": [
@@ -1511,12 +1511,12 @@
         "Tatiana Romanova",
         "Giacinta “Jinx” Johnson"
        ],
-       "category": "Bond Girls"
+       "category": "Filles d'obligations"
       }
      ]
     }
    ],
-   "theme": "CASTLE",
+   "theme": "CHÂTEAU",
    "x": true
   },
   {
@@ -1526,14 +1526,14 @@
      "topics": [
       {
        "answers": [
-        "Industrial",
-        "Helix",
-        "Orbital",
-        "Auricle",
-        "Tragus",
-        "Anti-Tragus"
+"Industriel"
+"Hélix"
+"Orbitale"
+"Auricule"
+"Tragus"
+"Anti Tragus"
        ],
-       "category": "Type of Ear Piercing"
+       "category": "Type de perçage d'oreille"
       },
       {
        "answers": [
@@ -1544,7 +1544,7 @@
         "Sideswipe",
         "Galvatron"
        ],
-       "category": "Character in [i]Transformers[/i] Franchise"
+       "category": "Personnage dans [in]Transformers[/a] Franchisee"
       }
      ]
     },
@@ -1552,14 +1552,14 @@
      "topics": [
       {
        "answers": [
-        "Snakebite",
-        "Lobe",
-        "Scapha",
-        "Daith",
-        "Conch",
-        "Snug"
+"Morsure de serpent",
+"Lobé", 
+"Scapha", 
+"Daith", 
+"Conque", 
+"Confortable"
        ],
-       "category": "Type of Ear Piercing"
+       "category": "Type de perçage d'oreille"
       },
       {
        "answers": [
@@ -1570,7 +1570,7 @@
         "Oriel",
         "Bretèche"
        ],
-       "category": "Part of a Medieval Castle"
+       "category": "Partie d'un château médiéval"
       }
      ]
     },
@@ -1578,30 +1578,30 @@
      "topics": [
       {
        "answers": [
-        "Ironhide",
-        "Wheeljack",
-        "Ramjet",
-        "Grimlock",
-        "Cliffjumper",
-        "Bonecrusher"
+"Peau de fer", 
+"Weljack", 
+"Statoréacteur", 
+"Grimlock", 
+"Sauteur de falaise", 
+"Broyeur d'os"
        ],
-       "category": "Character in [i]Transformers[/i] Franchise"
+       "category": "Personnage dans la franchise [i]Transformers[/i]"
       },
       {
        "answers": [
-        "Barbican",
-        "Machicolation",
-        "Bastion",
-        "Ravelin",
-        "Murder Hole",
-        "Bartizan"
+"Barbacane", 
+" Machicolis ", 
+"Bastion", 
+"Ravelin", 
+"Trou du meurtre", 
+"Bartizan"
        ],
-       "category": "Part of Medieval Castle"
+       "category": "Une partie du château médiéval"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "countrySpecific": true,
@@ -1611,23 +1611,23 @@
      "topics": [
       {
        "answers": [
-        "Jacqueline Kennedy: The White House Years",
-        "The Eighteenth-Century Woman",
-        "China: Through the Looking Glass",
-        "Costumes of Royal India",
-        "The World of Balenciaga"
+"Jacqueline Kennedy : Les années de la Maison Blanche", 
+"La femme du XVIIIe siècle", 
+"La Chine : de l'autre côté du miroir", 
+"Costumes de l'Inde royale", 
+"Le monde de Balenciaga"
        ],
-       "category": "Met Gala Themes"
+       "category": "Thèmes du gala du Met"
       },
       {
        "answers": [
-        "Pattern and Paradox: The Quilts of Amish Women",
-        "Journey of Color",
-        "Designing Peace",
-        "Nature by Design: Botanical Lessons",
-        "Making a Statement"
+"Modèle et paradoxe : les courtepointes des femmes Amish", 
+"Voyage de couleur", 
+"Concevoir la paix", 
+"La nature dès la conception : leçons de botanique", 
+"Faire une déclaration"
        ],
-       "category": "Smithsonian Museum Exhibits"
+       "category": "Expositions du musée Smithsonian"
       }
      ]
     },
@@ -1635,23 +1635,23 @@
      "topics": [
       {
        "answers": [
-        "Dance",
-        "Man and the Horse",
-        "La Belle Époque",
-        "Goddess: The Classical Mode",
-        "American Women of Style"
+"Danse", 
+"L'homme et le cheval", 
+"La Belle Époque", 
+"Déesse : le mode classique", 
+"Femmes américaines de style"
        ],
-       "category": "Met Gala Themes"
+       "category": "Thèmes du gala du Met"
       },
       {
        "answers": [
-        "Belles de Jour",
-        "Petty in Pink",
-        "Hi, Society",
-        "Summer Kind of Wonderful",
-        "Last Tango, Then Paris"
+"Belles de Jour", 
+"Petit en rose", 
+"Bonjour, Société", 
+"Un été plutôt merveilleux", 
+"Dernier Tango, puis Paris"
        ],
-       "category": "[i]Gossip Girl[/i] Episodes"
+       "category": "[i]Gossip Girl[/i] Épisodes"
       }
      ]
     },
@@ -1659,28 +1659,28 @@
      "topics": [
       {
        "answers": [
-        "Early Flight",
-        "America’s Listening",
-        "Taking the Stage",
-        "The Value of Money",
-        "Down These Mean Streets"
+"Premier vol", 
+"L'Amérique à l'écoute", 
+"Monter sur scène", 
+"La valeur de l'argent", 
+"Dans ces rues méchantes"
        ],
-       "category": "Smithsonian Museum Exhibits"
+       "category": "Expositions du musée Smithsonian"
       },
       {
        "answers": [
-        "The Age of Dissonance",
-        "Raiders of the Lost Art",
-        "Salon of the Dead",
-        "Portrait of a Lady Alexander",
-        "Bonfire of the Vanity"
+"L'ère de la dissonance", 
+"Les aventuriers de l'art perdu", 
+"Salon des Morts", 
+"Portrait de dame Alexandre", 
+"Bûcher de la vanité"
        ],
-       "category": "[i]Gossip Girl[/i] Episodes"
+       "category": "[i]Gossip Girl[/i] Épisodes"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "countrySpecific": true,
@@ -1696,7 +1696,7 @@
         "Vivian Kensington",
         "Aaron Callahan"
        ],
-       "category": "Characters in [i]Legally Blonde[/i]"
+       "category": "Personnages dans [i]Légalement Blonde[/i]"
       },
       {
        "answers": [
@@ -1706,7 +1706,7 @@
         "Julia Collins",
         "Victoria Groce"
        ],
-       "category": "Jeopardy! Champions"
+       "category": "Péril! Champions"
       }
      ]
     },
@@ -1720,17 +1720,17 @@
         "Enid Wexler",
         "David Kidney"
        ],
-       "category": "Characters in [i]Legally Blonde[/i]"
+       "category": "Personnages dans [i]Légalement Blonde[/i]"
       },
       {
        "answers": [
-        "Adrian Beltre",
-        "Nellie Fox",
-        "Sandy Koufax",
-        "Kiki Cuyler",
-        "Dazzy Vance"
+   "Adrien Beltré", 
+"Nellie Renard", 
+"Sandy Koufax", 
+"Kiki Cuyler", 
+"Dazzy Vance"
        ],
-       "category": "Baseball Hall of Fame Players"
+       "category": "Joueurs du Temple de la renommée du baseball"
       }
      ]
     },
@@ -1738,13 +1738,13 @@
      "topics": [
       {
        "answers": [
-        "Jim Rice",
-        "Trevor Hoffman",
-        "Greg Maddux",
-        "Nolan Ryan",
-        "Duke Snider"
+"Jim Riz", 
+"Trevor Hoffman", 
+"Greg Maddux", 
+"Nolan Ryan", 
+"Duc Snider"
        ],
-       "category": "Baseball Hall of Fame Players"
+       "category": "Joueurs du Temple de la renommée du baseball"
       },
       {
        "answers": [
@@ -1754,12 +1754,12 @@
         "Jason Zuffranieri",
         "Yogesh Raut"
        ],
-       "category": "Jeopardy! Champions"
+       "category": "Péril! Champions"
       }
      ]
     }
    ],
-   "theme": "MOUNTAIN"
+   "theme": "MONTAGNE"
   },
   {
    "countrySpecific": true,
@@ -1769,23 +1769,23 @@
      "topics": [
       {
        "answers": [
-        "A Taste of Danger",
-        "Mystery on the Menu",
-        "The Invisible Intruder",
-        "The Witch Tree Symbol",
-        "Enemy Match"
+"Un avant-goût du danger", 
+"Mystère au menu", 
+"L'intrus invisible", 
+"Le symbole de l'arbre sorcier", 
+"Match ennemi"
        ],
-       "category": "Nancy Drew Books"
+       "category": "Livres de Nancy Drew"
       },
       {
        "answers": [
-        "Betrayers, Fakes and Fraudsters",
-        "Murder in Plain Sight",
-        "Backstab and Betrayal",
-        "The Weight of Deceit",
-        "Cabins in the Woods"
+"Traîtres, faux et fraudeurs", 
+"Meurtre à la vue de tous", 
+"Poignardage et trahison", 
+"Le poids de la tromperie", 
+"Cabines dans les bois"
        ],
-       "category": "The Traitors Episodes"
+       "category": "Les épisodes des traîtres"
       }
      ]
     },
@@ -1793,23 +1793,23 @@
      "topics": [
       {
        "answers": [
-        "The Mystery at Lilac Inn",
-        "The Thirteenth Pearl",
-        "The Mystery of the 99 Steps",
-        "Password to Larkspur Lane",
-        "The Whispering Statue"
+"Le mystère de l'auberge Lilas", 
+"La Treizième Perle", 
+"Le mystère des 99 marches", 
+"Mot de passe pour Larkspur Lane", 
+"La statue qui murmure"
        ],
-       "category": "Nancy Drew Books"
+       "category": "Livres de Nancy Drew"
       },
       {
        "answers": [
-        "Crystal Caper",
-        "Mystery of the Abbey",
-        "Ticket to Ride",
-        "The Vale of Eternity",
-        "The Night Cage"
+"Câpres de cristal", 
+"Mystère de l'Abbaye", 
+"Ticket to Ride", 
+"La Vallée de l'Éternité", 
+"La cage de nuit"
        ],
-       "category": "Board Games"
+       "category": "Jeux de société"
       }
      ]
     },
@@ -1817,28 +1817,28 @@
      "topics": [
       {
        "answers": [
-        "A Silent Assassin",
-        "Trust No One",
-        "Suspicion and Sabotage",
-        "Murder They Wrote",
-        "A Killer Move"
+"Un assassin silencieux", 
+"Ne faites confiance à personne", 
+"Suspicion et sabotage", 
+"Le meurtre qu'ils ont écrit", 
+"Un coup mortel"
        ],
-       "category": "The Traitors Episodes"
+       "category": "Les épisodes des traîtres"
       },
       {
        "answers": [
-        "Mansions of Madness",
-        "Love is Dead",
-        "Betrayal at House on the Hill",
-        "The Castles of Burgundy",
-        "Deep Regrets"
+"Demeures de folie", 
+"L'amour est mort", 
+"Trahison à la Maison sur la Colline", 
+"Les Châteaux de Bourgogne", 
+"De profonds regrets"
        ],
-       "category": "Board Games"
+       "category": "Jeux de société"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "countrySpecific": true,
@@ -1848,14 +1848,14 @@
      "topics": [
       {
        "answers": [
-        "Spy",
-        "Redemption",
-        "Blitz",
-        "The Bank Job",
-        "Chaos",
-        "Snatch"
+"Espion", 
+"Rédemption", 
+"Blitz", 
+"Le métier de banque", 
+"Chaos", 
+"Arracher"
        ],
-       "category": "Movie Starring Jason Statham"
+       "category": "Film avec Jason Statham"
       },
       {
        "answers": [
@@ -1866,7 +1866,7 @@
         "Opposites Attract",
         "30 for 30"
        ],
-       "category": "Kendrick Lamar Song"
+       "category": "Chanson de Kendrick Lamar"
       }
      ]
     },
@@ -1874,25 +1874,25 @@
      "topics": [
       {
        "answers": [
-        "Wild Card",
-        "Safe",
-        "13",
-        "War",
-        "Turn It Up",
-        "The One"
+"Carte sauvage", 
+"Sûr", 
+"13", 
+"Guerre", 
+"Montez le volume", 
+"Celui-là"
        ],
-       "category": "Movie Starring Jason Statham"
+       "category": "Film avec Jason Statham"
       },
       {
        "answers": [
-        "Cover Up",
-        "Check Out",
-        "Flip Flop",
-        "It’s in the Bag",
-        "Make Your Move",
-        "Money Game"
+"Couvrez-vous", 
+"Départ", 
+"Tongs", 
+"C'est dans le sac", 
+"Faites votre geste", 
+"Jeu d'argent"
        ],
-       "category": "Price is Right Game"
+       "category": "Le prix est correct"
       }
      ]
     },
@@ -1907,23 +1907,23 @@
         "For Sale?",
         "Good Credit"
        ],
-       "category": "Kendrick Lamar Song"
+       "category": "Chanson de Kendrick Lamar"
       },
       {
        "answers": [
-        "Bullseye",
-        "Double Cross",
-        "Golden Road",
-        "Let ‘em Roll",
-        "3 Strikes",
-        "Temptation"
+"Dans le mille", 
+"Double croix", 
+"La route d'or", 
+"Laissez-les rouler", 
+"3 coups", 
+"Tentation"
        ],
-       "category": "Price is Right Game"
+       "category": "Le prix est correct"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "id": "113320",
@@ -1932,25 +1932,25 @@
      "topics": [
       {
        "answers": [
-        "Joy",
-        "Boo",
-        "Russell",
-        "Dory",
-        "Hopper",
-        "Buzz"
+"Joie", 
+"Bouh", 
+"Russell", 
+"Dory", 
+"Trémie", 
+"Buzz"
        ],
-       "category": "Pixar Character"
+       "category": "Personnage Pixar"
       },
       {
        "answers": [
-        "Steeler",
-        "Flint",
-        "Spirit",
-        "Scarlett",
-        "Helix",
-        "Clutch"
+"Acier", 
+"Silex", 
+"Esprit", 
+"Scarlett", 
+"Hélix", 
+"Embrayage"
        ],
-       "category": "G.I. Joe Character"
+       "category": "G.I. Personnage de Joe"
       }
      ]
     },
@@ -1958,14 +1958,14 @@
      "topics": [
       {
        "answers": [
-        "Dash",
-        "Merida",
-        "Crush",
-        "Frozone",
-        "Remy",
-        "Syndrome"
+" Tiret ", 
+"Mérida", 
+"Écraser", 
+"Frozone", 
+"Rémy", 
+"Syndrome"
        ],
-       "category": "Pixar Character"
+       "category": "Personnage Pixar"
       },
       {
        "answers": [
@@ -1976,7 +1976,7 @@
         "Durango",
         "Probe"
        ],
-       "category": "Ford Vehicle"
+       "category": "Véhicule Ford"
       }
      ]
     },
@@ -1984,14 +1984,14 @@
      "topics": [
       {
        "answers": [
-        "Roadblock",
-        "Firefly",
-        "Destro",
-        "Stalker",
-        "Banzai",
-        "Dart"
+"Barrage routier", 
+"Luciole", 
+"Détruire", 
+"Harceleur", 
+"Banzaï", 
+"Fléchette"
        ],
-       "category": "G.I. Joe Character"
+       "category": "G.I. Personnage de Joe"
       },
       {
        "answers": [
@@ -2002,7 +2002,7 @@
         "Scorpio",
         "Freestyle"
        ],
-       "category": "Ford Vehicle"
+       "category": "Véhicule Ford"
       }
      ]
     }
@@ -2016,25 +2016,25 @@
      "topics": [
       {
        "answers": [
-        "Shoot-through",
-        "Good Morning",
-        "Farmer’s Carry",
-        "Burpee",
-        "Skin the Cat",
-        "Wall Walk"
+"Tournage", 
+"Bonjour", 
+"Le transport du fermier", 
+"Burpee", 
+"Écorcher le chat", 
+"Promenade sur le mur"
        ],
-       "category": "CrossFit Exercise"
+       "category": "Exercice CrossFit"
       },
       {
        "answers": [
-        "Throw the Baby",
-        "One-handed Star",
-        "Walk the Dog",
-        "Horizontal Boingy-boing",
-        "Houdini Mount",
-        "Brent"
+"Jetez le bébé", 
+"Étoile à une main", 
+"Promener le chien", 
+"Boingy-boing horizontal", 
+"Mont Houdini", 
+"Brent"
        ],
-       "category": "Yo-Yo Trick"
+       "category": "Astuce Yo-Yo"
       }
      ]
     },
@@ -2042,25 +2042,25 @@
      "topics": [
       {
        "answers": [
-        "Split Jerk",
-        "Hang Snatch",
-        "Turkish Get-up",
-        "Box Jump",
-        "Air Squat",
-        "Thruster"
+"Jerk divisé", 
+"Pendez Snatch", 
+"Lève-toi turc", 
+"Saut de boîte", 
+"Squat aérien", 
+"Propulseur"
        ],
-       "category": "CrossFit Exercise"
+       "category": "Exercice CrossFit"
       },
       {
        "answers": [
-        "Arabesque",
-        "Lasso Lift",
-        "Layback Spin",
-        "Lutz Jump",
-        "Russian Split Jump",
-        "Three Turn"
+"Arabesques", 
+"Lasso Ascenseur", 
+"Tour de repos", 
+"Saut de Lutz", 
+"Saut divisé russe", 
+"Trois tours"
        ],
-       "category": "Figure Skating Move"
+       "category": "Mouvement de patinage artistique"
       }
      ]
     },
@@ -2068,30 +2068,30 @@
      "topics": [
       {
        "answers": [
-        "Double Trapeze",
-        "Leg Wrap Trap",
-        "Behind-the-back Orbits",
-        "Pinwheel",
-        "Crazy 8",
-        "Brain Twister"
+"Double Trapèze", 
+"Piège à envelopper les jambes", 
+"Derrière les orbites arrière", 
+"Moulinet", 
+"Fou 8", 
+"Tordre de cerveau"
        ],
-       "category": "Yo-Yo Trick"
+       "category": "Le truc du Yo-Yo"
       },
       {
        "answers": [
-        "Camel Spin",
-        "Death Spiral",
-        "Haircutter Spin",
-        "Triple Axel",
-        "Rocker Turn",
-        "Shoot-the-duck"
+"Tour de chameau", 
+"Spirale de la mort", 
+"Tournage du coupe-cheveux", 
+"Triple Axel", 
+"Tour à bascule", 
+"Tirez sur le canard"
        ],
-       "category": "Figure Skating Move"
+       "category": "Mouvement de patinage artistique"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "id": "113530",
@@ -2100,14 +2100,14 @@
      "topics": [
       {
        "answers": [
-        "Mongraal",
-        "TheGrefg",
-        "Tarik",
-        "Rubius",
-        "Ibai",
-        "Juansguarnizo"
+"Mongraal",
+"LeGrefg",
+"Tarik",
+"Rubius",
+"Ibaï",
+"Juansguarnizo"
        ],
-       "category": "Popular Twitch Streamer"
+       "category": "Streamer Twitch populaire"
       },
       {
        "answers": [
@@ -2118,7 +2118,7 @@
         "Dejsa",
         "Nordkisa"
        ],
-       "category": "IKEA Product"
+       "category": "Produit IKEA"
       }
      ]
     },
@@ -2133,18 +2133,18 @@
         "Alanzoka",
         "Sykkuno"
        ],
-       "category": "Popular Twitch Streamer"
+       "category": "流光 Twitch 很受欢迎"
       },
       {
        "answers": [
-        "Rodian",
-        "Ewok",
-        "Zabrak",
-        "Anzellan",
-        "Wookiee",
-        "Sarlacc"
+"Rodien", 
+"Ewok", 
+"Zabrak", 
+"Anzellan", 
+"Wookie", 
+"Sarlacc"
        ],
-       "category": "Alien Species in [i]Star Wars[/i]"
+       "category": "Espèces exotiques dans [i]Star Wars[/i]"
       }
      ]
     },
@@ -2159,23 +2159,23 @@
         "Hauga",
         "Vedbo"
        ],
-       "category": "IKEA Product"
+       "category": "Produit IKEA"
       },
       {
        "answers": [
-        "Gungan",
-        "Togruta",
-        "Jawa",
-        "Hutt",
-        "Tauntaun",
-        "Nautolan"
+"Gungan",
+"Togruta",
+"Java",
+"Cabane",
+"Toute l'année",
+"Nautolan"
        ],
-       "category": "Alien Species in [i]Star Wars[/i]"
+       "category": "Espèces exotiques dans [i]Star Wars[/i]"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "id": "113541",
@@ -2184,25 +2184,25 @@
      "topics": [
       {
        "answers": [
-        "Hinterland",
-        "Rillington Place",
-        "Wolf Hall",
-        "Shetland",
-        "Virdee",
-        "Wisting"
+"L'arrière-pays",
+"Place Rillington",
+"Salle des loups",
+"Shetland",
+"virdée",
+"Sifflement"
        ],
-       "category": "BBC Drama"
+       "category": "Drame de la BBC"
       },
       {
        "answers": [
-        "Harrenhal",
-        "Moat Cailin",
-        "The Riverlands",
-        "The Crownlands",
-        "Winterfell",
-        "Horn Hill"
+"Harrenhal", 
+"Douves Cailin", 
+"Les terres fluviales", 
+"Les Terres de la Couronne", 
+"Winterfell", 
+"Colline de la Corne"
        ],
-       "category": "Game of Thrones Location"
+       "category": "Emplacement de Game of Thrones"
       }
      ]
     },
@@ -2210,25 +2210,25 @@
      "topics": [
       {
        "answers": [
-        "Ridley Road",
-        "Poldark",
-        "Bannan",
-        "Campion",
-        "Granite Harbour",
-        "Middlemarch"
+"Route Ridley", 
+"Poldark", 
+"Bannan", 
+"Campion", 
+"Port de Granit", 
+"Marche du Milieu"
        ],
-       "category": "BBC Drama"
+       "category": "Drame de la BBC"
       },
       {
        "answers": [
-        "Tetley",
-        "Bigelow",
-        "Typhoo",
-        "Glengettie",
-        "Whittard",
-        "Tavalon"
+"Tetley", 
+"Bigelow", 
+"Typhon", 
+"Glengettie", 
+"Whittard", 
+"Tavalon"
        ],
-       "category": "Brand of Tea"
+       "category": "Marque de thé"
       }
      ]
     },
@@ -2236,30 +2236,30 @@
      "topics": [
       {
        "answers": [
-        "Tavalon",
-        "Casterly Rock",
-        "Pyke",
-        "Riverrun",
-        "Highgarden",
-        "Bear Island"
+"Tavalon", 
+"Casterly Rock", 
+"Pyke", 
+"Riverrun", 
+"Jardin Haut", 
+"L'Île aux Ours"
        ],
-       "category": "Game of Thrones Location"
+       "category": "Emplacement de Game of Thrones"
       },
       {
        "answers": [
-        "Vahdam",
-        "Twinings",
-        "Yorkshire",
-        "Dilmah",
-        "Numi",
-        "Luzianne"
+"Vahdam",
+"Jumelages",
+"Yorkshire",
+"Dilmah",
+"Numi",
+"Luzianne"
        ],
-       "category": "Brand of Tea"
+       "category": "Marque de thé"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "id": "113584",
@@ -2268,13 +2268,13 @@
      "topics": [
       {
        "answers": [
-        "Corfu",
-        "Ithaca",
-        "Thera",
-        "Paxos",
-        "Samothrace"
+"Corfou",
+"Ithaque",
+"Théra",
+"Paxos",
+"Samothrace"
        ],
-       "category": "Greek Islands"
+       "category": "Îles grecques"
       },
       {
        "answers": [
@@ -2284,7 +2284,7 @@
         "Kyndryl",
         "Oracle"
        ],
-       "category": "Major Software Companies"
+       "category": "Principales sociétés de logiciels"
       }
      ]
     },
@@ -2298,7 +2298,7 @@
         "Oca",
         "Ardor"
        ],
-       "category": "Energy Drinks"
+       "category": "Boissons énergisantes"
       },
       {
        "answers": [
@@ -2308,7 +2308,7 @@
         "Leucas",
         "Kéa"
        ],
-       "category": "Greek Islands"
+       "category": "Îles grecques"
       }
      ]
     },
@@ -2322,7 +2322,7 @@
         "Fiserv",
         "Atlassian"
        ],
-       "category": "Major Software Companies"
+       "category": "Principales sociétés de logiciels"
       },
       {
        "answers": [
@@ -2332,12 +2332,12 @@
         "Jocko Go",
         "Celsius"
        ],
-       "category": "Energy Drinks"
+       "category": "Boissons énergisantes"
       }
      ]
     }
    ],
-   "theme": "MOUNTAIN"
+   "theme": "MONTAGNE"
   },
   {
    "id": "113586",
@@ -2346,23 +2346,23 @@
      "topics": [
       {
        "answers": [
-        "Mappy",
-        "Tekken",
-        "Navarone",
-        "Rolling Thunder",
-        "Time Crisis"
+"Mappy",
+"Tekken",
+"Navarone",
+"Tonnerre qui roule",
+"Crise du temps"
        ],
-       "category": "Namco Classic Arcade Games"
+       "category": "Jeux d'arcade classiques Namco"
       },
       {
        "answers": [
-        "Eartheater",
-        "Flight Facilities",
-        "Orbital",
-        "Skepta",
-        "Clown Core"
+"Terre", 
+"Installations de vol", 
+"Orbitale", 
+"Scepta", 
+"Noyau de clown"
        ],
-       "category": "2024 Coachella Festival Lineup"
+       "category": "Programmation du festival Coachella 2024"
       }
      ]
     },
@@ -2370,23 +2370,23 @@
      "topics": [
       {
        "answers": [
-        "Sky Kid",
-        "Point Blank",
-        "Convoy",
-        "Blazer",
-        "Steel Gunner"
+"Enfant du ciel", 
+"À bout portant", 
+"Convoi", 
+"Blazer", 
+"Mitrailleur d'acier"
        ],
-       "category": "Namco Classic Arcade Games"
+       "category": "Jeux d'arcade classiques Namco"
       },
       {
        "answers": [
-        "Tombstone",
-        "True Grit",
-        "The Shootist",
-        "Hud",
-        "Silver Lode"
+"Pierre tombale", 
+"Le vrai courage", 
+"Le tireur", 
+"Hud", 
+« Filon d'argent »
        ],
-       "category": "Western Films"
+       "category": "Films occidentaux"
       }
      ]
     },
@@ -2394,28 +2394,28 @@
      "topics": [
       {
        "answers": [
-        "Gorgon City",
-        "Taking Back Sunday",
-        "Black Country, New Road",
-        "Mandy, Indiana",
-        "feeble little horse"
+"La ville des Gorgones", 
+"Reprendre le dimanche", 
+"Pays noir, nouvelle route", 
+"Mandy, Indiana", 
+"faible petit cheval"
        ],
-       "category": "2024 Coachella Festival Lineup"
+       "category": "Programmation du festival Coachella 2024"
       },
       {
        "answers": [
-        "The Magnificent Seven",
-        "Vera Cruz",
-        "A Fistful of Dollars",
-        "High Noon",
-        "The Wild Bunch"
+"Les Sept Magnifiques", 
+"Véra Cruz", 
+"Une poignée de dollars", 
+"Haut midi", 
+"La bande sauvage"
        ],
-       "category": "Western Films"
+       "category": "Films occidentaux"
       }
      ]
     }
    ],
-   "theme": "DESERT"
+   "theme": "DÉSERTE"
   },
   {
    "id": "113591",
@@ -2424,13 +2424,13 @@
      "topics": [
       {
        "answers": [
-        "Nutrish",
-        "Orijen",
-        "Diamond Naturals",
-        "Pedigree",
-        "Vital Essentials"
+"Nutrition", 
+"Orijen", 
+"Diamant Naturel", 
+"Période", 
+"Les essentiels vitaux"
        ],
-       "category": "Dog Food Labels"
+       "category": "Étiquettes de nourriture pour chiens"
       },
       {
        "answers": [
@@ -2441,7 +2441,7 @@
         "Rhode",
         "Kind Science"
        ],
-       "category": "Celebrity Beauty Brands"
+       "category": "Marques de beauté célèbres"
       }
      ]
     },
@@ -2456,17 +2456,17 @@
         "R3HAB",
         "Skrillex"
        ],
-       "category": "Famous DJs"
+       "category": "DJ célèbres"
       },
       {
        "answers": [
-        "Goop",
-        "LolaVie",
-        "Homecourt",
-        "SKKN",
-        "The Outset"
+"Goop", 
+"LolaVie", 
+"Cour d'accueil", 
+"SKKN", 
+"Le début"
        ],
-       "category": "Celebrity Beauty Brands"
+       "category": "Marques de beauté célèbres"
       }
      ]
     },
@@ -2480,7 +2480,7 @@
         "Ollie",
         "Jinx"
        ],
-       "category": "Dog Food Labels"
+       "category": "Étiquettes de nourriture pour chiens"
       },
       {
        "answers": [
@@ -2490,12 +2490,12 @@
         "W&W",
         "Alok"
        ],
-       "category": "Famous DJs"
+       "category": "DJ célèbres"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "id": "113658",
@@ -2504,14 +2504,14 @@
      "topics": [
       {
        "answers": [
-        "Toncantins",
-        "Borneo",
-        "Caramoan",
-        "Palau",
-        "Vanuatu",
-        "Fiji"
+"Toncantins",
+"Bornéo",
+"Caramoane",
+"Palau",
+"Vanuatu",
+"Fidji."
        ],
-       "category": "[i]Survivor[/i] Season Location"
+       "category": "[i]Survivant[/i] Emplacement de la saison"
       },
       {
        "answers": [
@@ -2522,7 +2522,7 @@
         "Shiba Inu",
         "Aptos"
        ],
-       "category": "Cryptocurrency"
+       "category": "Crypto-monnaie"
       }
      ]
     },
@@ -2533,11 +2533,11 @@
         "Gabon",
         "Kaôh Rōng",
         "Cagayan",
-        "San Juan del Sur",
-        "Cook Islands",
+        "San Juan du Sud",
+        "Îles Cook",
         "Marquesas"
        ],
-       "category": "[i]Survivor[/i] Season Location"
+       "category": "[i]Survivant[/i] Emplacement de la saison"
       },
       {
        "answers": [
@@ -2548,7 +2548,7 @@
         "L’Ambroisie",
         "Maaemo"
        ],
-       "category": "Three-Star Michelin Restaurant"
+       "category": "Restaurant trois étoiles Michelin"
       }
      ]
     },
@@ -2563,7 +2563,7 @@
         "Avalanche",
         "Bitcoin"
        ],
-       "category": "Cryptocurrency"
+       "category": "Crypto-monnaie"
       },
       {
        "answers": [
@@ -2574,7 +2574,7 @@
         "Geranium",
         "Noma"
        ],
-       "category": "Three-Star Michelin Restaurant"
+       "category": "Restaurant trois étoiles Michelin"
       }
      ]
     }
@@ -2588,25 +2588,25 @@
      "topics": [
       {
        "answers": [
-        "Summer of Soul",
-        "Man On Wire",
-        "Grey Gardens",
-        "The Cave",
-        "Spellbound",
-        "Searching for Sugar Man"
+"L'été de l'âme", 
+"L'homme sur le fil", 
+"Jardins gris", 
+"La Grotte", 
+"Envoûté", 
+"À la recherche de Sugar Man"
        ],
-       "category": "Oscar-nominated Documentary"
+       "category": "Documentaire nominé aux Oscars"
       },
       {
        "answers": [
-        "The Cat in a Shopping Bag",
-        "A Man Who Lived in Leeds",
-        "Somebody Fell From Aloft",
-        "The Bad News",
-        "What Do You Come For?",
-        "The Red Spot"
+"Le chat dans un sac à provisions", 
+"Un homme qui vivait à Leeds", 
+"Quelqu'un est tombé d'en haut", 
+"La mauvaise nouvelle", 
+"Pourquoi venez-vous?", 
+"La tache rouge"
        ],
-       "category": "A Scary Story to Tell in the Dark"
+       "category": "Une histoire effrayante à raconter dans le noir"
       }
      ]
     },
@@ -2614,25 +2614,25 @@
      "topics": [
       {
        "answers": [
-        "Exit Through the Gift Shop",
-        "My Octopus Teacher",
-        "Food, Inc.",
-        "Sicko",
-        "Waste Land",
-        "Super Size Me"
+"Sortez par la boutique de cadeaux", 
+"Mon professeur de poulpe", 
+"Alimentation, Inc.", 
+"Malade", 
+"Terres en friche", 
+"Super taille moi"
        ],
-       "category": "Oscar-nominated Documentary"
+       "category": "Documentaire nominé aux Oscars"
       },
       {
        "answers": [
-        "Amish Paradise",
-        "Headline News",
-        "Christmas at Ground Zero",
-        "Trapped in the Drive-Thru",
-        "First World Problems",
-        "Word Crimes"
+"Paradis Amish", 
+"Actualités à la une", 
+"Noël à Ground Zero", 
+"Pris au piège dans le Drive-Thru", 
+"Problèmes du Premier Monde", 
+"Crimes de mots"
        ],
-       "category": "A Weird Al Song"
+       "category": "Une chanson bizarre d'Al"
       }
      ]
     },
@@ -2640,30 +2640,30 @@
      "topics": [
       {
        "answers": [
-        "Wonderful Sausage",
-        "The Hearse Song",
-        "May I Carry Your Basket?",
-        "A New Horse",
-        "The Babysitter",
-        "Cemetery Soup"
+"Merveilleuse saucisse", 
+"La chanson du corbillard", 
+"Puis-je porter votre panier ?", 
+"Un nouveau cheval", 
+"La baby-sitter", 
+"Soupe du Cimetière"
        ],
-       "category": "A Scary Story to Tell in the Dark"
+       "category": "Une histoire effrayante à raconter dans le noir"
       },
       {
        "answers": [
-        "Handy",
-        "I Can’t Watch This",
-        "Pancreas",
-        "Ricky",
-        "Toothless People",
-        "The White Stuff"
+"Pratique", 
+"Je ne peux pas regarder ça", 
+"Pancréas", 
+"Ricky", 
+"Les gens édentés", 
+"Les trucs blancs"
        ],
-       "category": "A Weird Al Song"
+       "category": "Une chanson bizarre d'Al"
       }
      ]
     }
    ],
-   "theme": "CEMETERY"
+   "theme": "CIMETIÈRE"
   },
   {
    "id": "113795",
@@ -2672,25 +2672,25 @@
      "topics": [
       {
        "answers": [
-        "The Deck",
-        "Bear Brook",
-        "Betrayal",
-        "Bone Valley",
-        "Welcome to Your Fantasy",
-        "A Little Wicked"
+"Le pont", 
+"Le ruisseau de l'ours", 
+"Trahison", 
+"Vallée des Os", 
+"Bienvenue dans votre fantaisie", 
+"Un peu méchant"
        ],
-       "category": "True Crime Podcast"
+       "category": "Podcast sur le crime réel"
       },
       {
        "answers": [
-        "Are You the One?",
-        "Mr. Personality",
-        "Outback Jack",
-        "Forever Eden",
-        "The One That Got Away",
-        "It Takes a Church"
+"Es-tu le bon ?", 
+"Monsieur Personnalité", 
+"Jack de l'Outback", 
+"Éden pour toujours", 
+"Celui qui s'est enfui", 
+"Il faut une église"
        ],
-       "category": "Reality Dating Show"
+       "category": "Émission de télé-réalité"
       }
      ]
     },
@@ -2698,25 +2698,25 @@
      "topics": [
       {
        "answers": [
-        "The Swan",
-        "Farmer Wants a Wife",
-        "Daisy of Love",
-        "What Chili Wants",
-        "Love Village",
-        "Momma’s Boys"
+"Le Cygne", 
+"Le fermier veut une femme", 
+"Marguerite d'Amour", 
+"Ce que veut le Chili", 
+"Village de l'Amour", 
+"Les garçons de maman"
        ],
-       "category": "Reality Dating Show"
+       "category": "Émission de télé-réalité"
       },
       {
        "answers": [
-        "Valentine, Oh, Valentine",
-        "The Queen of Hearts",
-        "Hot Cross Buns",
-        "Bow-Wow-Wow",
-        "Dance to Your Daddy",
-        "The Turtle Dove’s Nest"
+"Valentin, oh, Valentin", 
+"La Reine de Cœur", 
+"Petits pains chauds", 
+"Bow-Wow-Wow", 
+"Danse avec ton papa", 
+"Le nid de la tourterelle"
        ],
-       "category": "Mother Goose Poem"
+       "category": "Poème de la Mère l'Oie"
       }
      ]
     },
@@ -2724,30 +2724,30 @@
      "topics": [
       {
        "answers": [
-        "Cry, Baby, Cry",
-        "Jack Be Nimble",
-        "The House That Jack Built",
-        "There Was a Crooked Man",
-        "The Great Brown Owl",
-        "Poor Dog Bright"
+"Pleure, bébé, pleure", 
+"Jack, sois agile", 
+"La maison que Jack a construite", 
+"Il y avait un homme tordu", 
+"La chouette brune", 
+"Pauvre chien brillant"
        ],
-       "category": "Mother Goose Poem"
+       "category": "Poème de la Mère l'Oie"
       },
       {
        "answers": [
-        "Sword and Scale",
-        "Rotten Mango",
-        "And That’s Why We Drink",
-        "Something Was Wrong",
-        "The Bakersfield Three",
-        "Run, Fool!"
+"Épée et balance", 
+"Mangue pourrie", 
+"Et c'est pourquoi nous buvons", 
+"Quelque chose n'allait pas", 
+"Les Trois de Bakersfield", 
+« Cours, imbécile !
        ],
-       "category": "True Crime Podcast"
+       "category": "Podcast sur le crime réel"
       }
      ]
     }
    ],
-   "theme": "CASTLE",
+   "theme": "CHÂTEAU",
    "x": true
   },
   {
@@ -2758,13 +2758,13 @@
      "topics": [
       {
        "answers": [
-        "Moses",
-        "Napoleon",
-        "Boxer",
-        "Minimus",
-        "Bluebell"
+"Moïse", 
+"Napoléon", 
+"Boxeur", 
+"Minime", 
+"Cloche bleue"
        ],
-       "category": "[i]Animal Farm[/i] Character"
+       "category": "[i]Ferme d'animaux[/i] Personnage"
       },
       {
        "answers": [
@@ -2774,7 +2774,7 @@
         "Philo",
         "Mango"
        ],
-       "category": "Streaming Service"
+       "category": "Service de diffusion en continu"
       }
      ]
     },
@@ -2782,23 +2782,23 @@
      "topics": [
       {
        "answers": [
-        "Old Major",
-        "Squealer",
-        "Benjamin",
-        "Clover",
-        "Mr. Whymper"
+"Vieux Major", 
+"Criquant", 
+"Benjamin", 
+"Clover", 
+"M. Whymper"
        ],
-       "category": "[i]Animal Farm[/i] Character"
+       "category": "[i]Ferme d'animaux[/i] Personnage"
       },
       {
        "answers": [
         "Lucky",
         "Sonny",
-        "Cookie Jarvis",
-        "Cornelius Rooster",
-        "Chip the Dog"
+        "Biscuit Jarvis",
+        "Cornelius Coq",
+        " Chip le chien "
        ],
-       "category": "Cereal Mascot"
+       "category": "Mascotte de céréales"
       }
      ]
     },
@@ -2812,7 +2812,7 @@
         "Aha",
         "Starz"
        ],
-       "category": "Streaming Service"
+       "category": "Service de diffusion en continu"
       },
       {
        "answers": [
@@ -2822,12 +2822,12 @@
         "Dig ‘Em",
         "Coco"
        ],
-       "category": "Cereal Mascot"
+       "category": "Mascotte de céréales"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "id": "113833",
@@ -2836,14 +2836,14 @@
      "topics": [
       {
        "answers": [
-        "Silo",
-        "Servant",
-        "Murderbot",
-        "Surface",
-        "See",
-        "Echo 3"
+    "Silos", 
+    "Serviteur", 
+    "Robot meurtrier", 
+    "Surface", 
+    "Voir", 
+    "Écho 3"
        ],
-       "category": "Apple TV Series"
+       "category": "Série Apple TV"
       },
       {
        "answers": [
@@ -2853,7 +2853,7 @@
         "Copland",
         "Time Capsule"
        ],
-       "category": "Discontinued Apple Product"
+       "category": "Produit Apple abandonné"
       }
      ]
     },
@@ -2861,14 +2861,14 @@
      "topics": [
       {
        "answers": [
-        "Palm Royale",
-        "Acapulco",
-        "Bad Monkey",
-        "Monarch",
-        "Dickinson",
+        "Palm Royale", 
+        "Acapulco", 
+        "Mauvais singe", 
+        "Monarque", 
+        "Dickinson", 
         "Pachinko"
        ],
-       "category": "Apple TV Series"
+       "category": "Série Apple TV"
       },
       {
        "answers": [
@@ -2878,7 +2878,7 @@
         "Northern Spy",
         "Gravenstein"
        ],
-       "category": "Type of Apple"
+       "category": "Type de pomme"
       }
      ]
     },
@@ -2889,10 +2889,10 @@
         "Lisa",
         "Pippin",
         "Ping",
-        "Round Mouse",
+        "Souris ronde",
         "Xserve"
        ],
-       "category": "Discontinued Apple Product"
+       "category": "Produit Apple abandonné"
       },
       {
        "answers": [
@@ -2903,12 +2903,12 @@
         "Idared",
         "Jazz"
        ],
-       "category": "Type of Apple"
+       "category": "Type de pomme"
       }
      ]
     }
    ],
-   "theme": "FOREST"
+   "theme": "FORÊT"
   },
   {
    "id": "114055",
@@ -2920,10 +2920,10 @@
         "VSX",
         "PINK",
         "Signature",
-        "Bombshell",
-        "Rapture"
+        "Bombe",
+        "Ravissement"
        ],
-       "category": "Victoria’s Secret product name"
+       "category": "Nom du produit Victoria's Secret"
       },
       {
        "answers": [
@@ -2933,7 +2933,7 @@
         "Galaxy",
         "Chocolate"
        ],
-       "category": "Model of Cellular Phone"
+       "category": "Modèle de téléphone cellulaire"
       }
      ]
     },
@@ -2947,17 +2947,17 @@
         "Wave",
         "Pixel"
        ],
-       "category": "Model of Cellular Phone"
+       "category": "Modèle de téléphone cellulaire"
       },
       {
        "answers": [
-        "Skinamarink",
-        "Grimcutty",
-        "Cuckoo",
-        "Pooka!",
-        "Companion"
+"Skinamarink", 
+"Grimcutty", 
+"Coucou", 
+"Pooka!", 
+"Compagnon"
        ],
-       "category": "Horror Film on Hulu"
+       "category": "Film d'horreur sur Hulu"
       }
      ]
     },
@@ -2965,28 +2965,28 @@
      "topics": [
       {
        "answers": [
-        "Tease",
-        "Dream Angels",
+        "Taquiner",
+        "Anges de rêve",
         "Insatiable",
-        "Temptation",
-        "Secret Dream"
+        "Tentation",
+        "Rêve secret"
        ],
-       "category": "Victoria’s Secret product name"
+       "category": "Nom du produit Victoria's Secret"
       },
       {
        "answers": [
-        "Little Monsters",
-        "Appendage",
-        "Matriarch",
-        "Fresh",
-        "Run"
+"Petits monstres", 
+"Appendice", 
+"Matriarche", 
+"Frais", 
+"Courir"
        ],
-       "category": "Horror Film on Hulu"
+       "category": "Film d'horreur sur Hulu"
       }
      ]
     }
    ],
-   "theme": "CEMETERY",
+   "theme": "CIMETIÈRE",
    "x": true
   },
   {
@@ -2997,25 +2997,25 @@
      "topics": [
       {
        "answers": [
-        "Bad Medicine",
-        "Cherry Pie",
-        "Dr. Feelgood",
-        "November Rain",
-        "Fantasy",
-        "Naughty Naughty"
+ "Mauvais médicament", 
+"Tarte aux cerises", 
+"Dr Feelgood", 
+"Pluie de novembre", 
+"Fantastique", 
+"Vilain Vilain"
        ],
-       "category": "Song Played on Hair Nation"
+       "category": "Chanson jouée sur Hair Nation"
       },
       {
        "answers": [
-        "Swagger",
-        "Timber",
-        "Prestige",
-        "Wolfthorn",
-        "Oasis",
-        "Aqua Reef"
+"Swagger", 
+"Bois", 
+"Prestige", 
+"Loupépine", 
+"Oasis", 
+"Aqua Récif"
        ],
-       "category": "Old Spice Scent"
+       "category": "Parfum d’épices anciennes"
       }
      ]
     },
@@ -3023,25 +3023,25 @@
      "topics": [
       {
        "answers": [
-        "Black Clover",
-        "Fire Force",
-        "Bleach",
-        "Wind Breaker",
-        "Berserk",
-        "Chainsaw Man"
+"Trèfle noir", 
+"Force de feu", 
+"Eau de Javel", 
+"Brise-vent", 
+"Berserk", 
+"L'homme à la tronçonneuse"
        ],
-       "category": "Anime on Crunchyroll"
+       "category": "Anime sur Crunchyroll"
       },
       {
        "answers": [
-        "Pure Sport",
-        "Deep Sea",
-        "Steel Titan",
-        "Raptorstrike",
-        "Krakengard",
-        "Sunrise"
+"Sport pur", 
+"Mer profonde", 
+"Titan d'acier", 
+"Frappe de raptor", 
+"Krakengard", 
+"Lever du soleil"
        ],
-       "category": "Old Spice Scent"
+       "category": "Parfum d’épices anciennes"
       }
      ]
     },
@@ -3049,14 +3049,14 @@
      "topics": [
       {
        "answers": [
-        "Lord of Mysteries",
-        "Demon Slayer",
-        "Hellsing",
-        "My Dress-Up Darling",
-        "The Seven Deadly Sins",
-        "A Condition Called Love"
+"Seigneur des Mystères", 
+"Tueur de démons", 
+"Hellsing", 
+"Mon chéri chéri", 
+"Les sept péchés capitaux", 
+"Une condition appelée amour"
        ],
-       "category": "Anime on Crunchyroll"
+       "category": "Anime sur Crunchyroll"
       },
       {
        "answers": [
@@ -3067,12 +3067,12 @@
         "Modern Day Cowboy",
         "Too Young to Fall in Love"
        ],
-       "category": "Song Played on Hair Nation"
+       "category": "Chanson jouée sur Hair Nation"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "id": "114084",
@@ -3081,25 +3081,25 @@
      "topics": [
       {
        "answers": [
-        "Totem of Undying",
-        "Bottle O’Enchanting",
-        "Nether Star",
-        "Phantom Membrane",
-        "End Crystal",
-        "Blaze Rod"
+"Totem de l'immortalité", 
+"Bottle O'Enchanting", 
+"Étoile du Néant", 
+"Membrane fantôme", 
+"Fin du cristal", 
+"Blaze Rod"
        ],
-       "category": "Minecraft Item"
+       "category": "Objet Minecraft"
       },
       {
        "answers": [
-        "Cosmic Control Rod",
-        "Casket of Ancient Winters",
-        "All-Black the Necrosword",
-        "Cosmic Cube",
-        "Eye of Agamotto",
-        "Stormbreaker"
+"Baguette de contrôle cosmique", 
+"Cercueil des hivers anciens", 
+"All-Black le Necrosword", 
+"Cube Cosmique", 
+"Oeil d'Agamotto", 
+"Brise-tempête"
        ],
-       "category": "Fictional Object in Marvel Comics"
+       "category": "Objet fictif dans Marvel Comics"
       }
      ]
     },
@@ -3107,25 +3107,25 @@
      "topics": [
       {
        "answers": [
-        "Sand Cloud",
-        "Stasher Bag",
-        "Clean Cube",
-        "UniKey",
-        "Mission Belt",
-        "The Bouqs"
+"Nuage de sable", 
+"Sac caché", 
+"Cube propre", 
+"UniKey", 
+"Ceinture de mission", 
+"Les Bouqs"
        ],
-       "category": "Shark Tank Invention"
+       "category": "Invention du char à requins"
       },
       {
        "answers": [
-        "Lava Bucket",
-        "Knowledge Book",
-        "Chorus Fruit",
-        "Cherry Boat",
-        "Ender Chest",
-        "Dragon’s Breath"
+"Seau de lave", 
+"Livre de connaissances", 
+"Fruit du chœur", 
+"Bateau Cerisier", 
+"Coffre Ender", 
+"Le Souffle du Dragon"
        ],
-       "category": "Minecraft Item"
+       "category":"Objet Minecraft"
       }
      ]
     },
@@ -3133,30 +3133,30 @@
      "topics": [
       {
        "answers": [
-        "Madbomb",
-        "Ultimate Nullifier",
-        "Quantum Bands",
-        "Life Model Decoy",
-        "Time Platform",
-        "Unstable Molecules"
+"Madbombe", 
+"Annulateur ultime", 
+"Bandes quantiques", 
+"Leurre modèle de vie", 
+"Plateforme temporelle", 
+"Molécules instables"
        ],
-       "category": "Fictional Object in Marvel Comics"
+       "category": "Objet fictif dans Marvel Comics"
       },
       {
        "answers": [
-        "Ionic Ear",
-        "RoloDoc",
-        "The Sullivan Generator",
-        "LIFTiD Neurostimulation",
-        "Monosuit",
-        "DomeDock"
+"Oreille ionique", 
+"RoloDoc", 
+"Le générateur Sullivan", 
+"Neurostimulation LIFTiD", 
+"Monocombinaison", 
+"DômeDock"
        ],
-       "category": "Shark Tank Invention"
+       "category": "Invention du char à requins"
       }
      ]
     }
    ],
-   "theme": "CASTLE"
+   "theme": "CHÂTEAU"
   },
   {
    "countrySpecific": true,
@@ -3166,25 +3166,25 @@
      "topics": [
       {
        "answers": [
-        "Chalkzone",
-        "Pig Goat Banana Cricket",
-        "Middlemost Post",
-        "Mr. Meaty",
-        "Just for Kicks",
-        "Game Shakers"
+"Craiezone", 
+"Cochon Chèvre Banane Grillon", 
+"Poste le plus au milieu", 
+"M. Meaty", 
+"Juste pour le plaisir", 
+"Les shakers du jeu"
        ],
-       "category": "Show on Nickelodeon"
+       "category": "Émission sur Nickelodeon"
       },
       {
        "answers": [
-        "Psycho Bunny",
-        "ClimbZone",
-        "Adopt Me",
-        "Ubetcha!",
-        "Free People",
-        "Master Noodle"
+"Lapin psycho", 
+"ClimbZone", 
+"Adoptez-moi", 
+"Ubetcha!", 
+"Peuple libre", 
+"Maître Nouilles"
        ],
-       "category": "Business in Mall of America"
+       "category": "Affaires dans le centre commercial d'Amérique"
       }
      ]
     },
@@ -3199,18 +3199,18 @@
         "T.U.F.F. Puppy",
         "Catscratch"
        ],
-       "category": "Show on Nickelodeon"
+       "category": "Émission sur Nickelodeon"deon"
       },
       {
        "answers": [
-        "Early Girl",
-        "Better Boy",
+        "Première fille",
+        "Meilleur garçon",
         "Juliet",
         "Celebrity",
-        "Green Giant",
+        "Géante verte",
         "Mr. Stripey"
        ],
-       "category": "Type of Tomato"
+       "category": "Type de tomate"
       }
      ]
     },
@@ -3218,14 +3218,14 @@
      "topics": [
       {
        "answers": [
-        "Buckle",
-        "Zara",
-        "Squishable",
-        "True Classic",
-        "Mochinut",
-        "Pepper Palace"
+        "Boucle", 
+        "Zara", 
+        "Écrasable", 
+        "Vrai Classique", 
+        "Mochinut", 
+        "Palais du Poivre"
        ],
-       "category": "Business in Mall of America"
+       "category": "Affaires de Centre commercial d'Amérique"
       },
       {
        "answers": [
@@ -3236,12 +3236,12 @@
         "Gardener’s Delight",
         "Brandywine"
        ],
-       "category": "Type of Tomato"
+       "category": "Type de tomate"
       }
      ]
     }
    ],
-   "theme": "FOREST"
+   "theme": "FORÊT"
   },
   {
    "countrySpecific": true,
@@ -3251,25 +3251,25 @@
      "topics": [
       {
        "answers": [
-        "The Great Indoors",
-        "Dads",
-        "My Mother the Car",
-        "Cavemen",
-        "Cupid",
-        "Bad Judge"
+        "Les Grands Intérieurs", 
+        "Les papas", 
+        "Ma mère la voiture", 
+        "Hommes des cavernes", 
+        "Cupidon", 
+        "Mauvais juge"
        ],
-       "category": "TV Comedy (With Just One Season)"
+       "category": "Comédie télévisée (avec une seule saison)"
       },
       {
        "answers": [
-        "The War with Grandpa",
-        "Like a Boss",
-        "Wish Upon",
-        "Old Dogs",
-        "Chappie",
-        "The Love Guru"
+"La guerre avec grand-père", 
+"Comme un patron", 
+"Je souhaite", 
+"Vieux chiens", 
+"Chappie", 
+"Le gourou de l'amour"
        ],
-       "category": "Movie (with One-Star Critical Review)"
+       "category": "Film (avec critique critique une étoile) "
       }
      ]
     },
@@ -3277,14 +3277,14 @@
      "topics": [
       {
        "answers": [
-        "Angel from Hell",
-        "Hope & Faith",
-        "We Are Men",
-        "Sit Down, Shut Up",
-        "Work It!",
-        "One Big Happy"
+"Ange de l'Enfer", 
+"Espoir et Foi", 
+"Nous sommes des hommes", 
+"Asseyez-vous, taisez-vous", 
+"Travaillez-le !", 
+"Un grand heureux"
        ],
-       "category": "TV Comedy (with Just One Season)"
+       "category": "Comédie télévisée (avec une seule saison)"
       },
       {
        "answers": [
@@ -3295,7 +3295,7 @@
         "Mickey",
         "What’s Up"
        ],
-       "category": "Song (That’s a One-Hit Wonder)"
+       "category": "Chanson (C'est une merveille à succès)"
       }
      ]
     },
@@ -3303,14 +3303,14 @@
      "topics": [
       {
        "answers": [
-        "Borderlands",
-        "Sweet November",
-        "Angel Has Fallen",
-        "Bright",
-        "Jack Frost",
-        "Just Go With It"
+"Terres frontalières", 
+"Doux novembre", 
+"L'ange est tombé", 
+"Lumineux", 
+"Jack Frost", 
+"Allez-y"
        ],
-       "category": "Movie (with One-Star Critical Review)"
+       "category": "Film (avec critique critique une étoile)"
       },
       {
        "answers": [
@@ -3321,7 +3321,7 @@
         "Just a Friend",
         "Genius of Love"
        ],
-       "category": "Song (That’s a One-Hit Wonder)"
+       "category": "Chanson (C'est une merveille à succès)"
       }
      ]
     }

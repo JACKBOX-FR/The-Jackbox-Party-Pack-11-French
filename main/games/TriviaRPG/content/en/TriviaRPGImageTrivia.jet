@@ -2198,32 +2198,32 @@
      "hint": "Qui est ce gars effrayant qui écrit BEAUCOUP de livres d’horreur ?"
     },
     {
-     "altText": "Steel (Danielle Steel)",
+     "altText": "Acier (Danielle Acier)",
      "correct": true,
      "hint": "L’auteur le plus vendu de cette liste... Steel"
     },
     {
-     "altText": "Cheese",
+     "altText": "Fromage",
      "correct": false,
      "hint": "Richard Cheese est un chanteur"
     },
     {
-     "altText": "Strawberry",
+     "altText": "Fraise",
      "correct": false,
      "hint": "Tu penses peut-être à un joueur de baseball"
     },
     {
-     "altText": "Crow",
+     "altText": "Corbeau",
      "correct": false,
      "hint": "Tu penses à Sheryl ?"
     },
     {
-     "altText": "Bacon",
+     "altText": "Lard",
      "correct": false,
      "hint": "Francis Bacon n’est pas sur la liste des best-sellers"
     },
     {
-     "altText": "Gates",
+     "altText": "Portes",
      "correct": false,
      "hint": "Tu penses peut-être à l’informaticien"
     }
@@ -2235,32 +2235,32 @@
   {
    "choices": [
     {
-     "altText": "Sulfur",
+     "altText": "Soufre",
      "correct": false,
-     "hint": "Naturally occurring, smells like rotten eggs"
+     "hint": "Produit naturellement, sent les œufs pourris"
     },
     {
-     "altText": "Aspirin",
+     "altText": "Aspirine",
      "correct": true,
-     "hint": "Formula = C9H8O4"
+     "hint": "Formule = C9H8O4"
     },
     {
-     "altText": "Mercury",
+     "altText": "Mercure",
      "correct": false,
-     "hint": "Only metal element that’s liquid at room temperature"
+     "hint": "Seul élément métallique liquide à température ambiante"
     },
     {
-     "altText": "Hydrochloric Acid",
+     "altText": "Acide chlorhydrique",
      "correct": true,
-     "hint": "Hydrogen AND Chlorine"
+     "hint": "Hydrogène ET Chlore"
     },
     {
-     "altText": "Lead",
+     "altText": "Plomb",
      "correct": false,
-     "hint": "Lead is not an alloy"
+     "hint": "Le plomb n'est pas un alliage"
     },
     {
-     "altText": "Water",
+     "altText": "Eau",
      "correct": true,
      "hint": "H2O"
     },
@@ -2270,118 +2270,118 @@
      "hint": "NaCl"
     },
     {
-     "altText": "Copper Wire",
+     "altText": "Fil de cuivre",
      "correct": false,
-     "hint": "It’s just copper"
+     "hint": "C'est juste du cuivre"
     },
     {
-     "altText": "Gold",
+     "altText": "Or",
      "correct": false,
      "hint": "100% Au"
     },
     {
-     "altText": "White Sugar",
+     "altText": "Sucre Blanc",
      "correct": true,
-     "hint": "Formula = C12H22O11"
+     "hint": "Formule = C12H22O11"
     }
    ],
    "id": "114738",
    "isEasy": false,
-   "question": "Compounds (AKA Made of Multiple Elements)"
+   "question": "Composés (AKA constitués de plusieurs éléments)"
   },
   {
    "choices": [
     {
-     "altText": "European Union",
+     "altText": "Union européenne",
      "correct": false,
-     "hint": "Created in 1955 to celebrate a new union"
+     "hint": "Créé en 1955 pour célébrer une nouvelle union"
     },
     {
-     "altText": "Chile",
+     "altText": "Chili",
      "correct": false,
-     "hint": "Red, white & blue is often found in the Americas"
+     "hint": "Le rouge, le blanc et le bleu se trouvent souvent dans les Amériques"
     },
     {
-     "altText": "Turkey",
+     "altText": "Turquie",
      "correct": true,
-     "hint": "A tiny bit of it is in Europe, but most of the country is...."
+     "hint": "Une infime partie se trouve en Europe, mais la majeure partie du pays est..."
     },
     {
-     "altText": "Japan",
+     "altText": "Japon",
      "correct": true,
-     "hint": "Known as the “land of the rising sun”"
+     "hint": "Connu comme le « pays du soleil levant »"
     },
     {
-     "altText": "Fake Flag",
+     "altText": "Faux drapeau",
      "correct": false,
-     "hint": "I made this in Google Docs"
+     "hint": "J'ai fait ça dans Google Docs"
     },
     {
-     "altText": "China",
+     "altText": "Chine",
      "correct": true,
-     "hint": "The large star represents the CCP, aka the ______ Communist Party"
+     "hint": "La grande étoile représente le PCC, alias le Parti communiste ______"
     },
     {
-     "altText": "India",
+     "altText": "Inde",
      "correct": true,
-     "hint": "The Ashoka Chakra is in the center"
+     "hint": "Le Chakra Ashoka est au centre"
     },
     {
-     "altText": "Ghana",
+     "altText": "加纳",
      "correct": false,
-     "hint": "The black star represents independence from colonial rule"
+     "hint": "L'étoile noire représente l'indépendance de la domination coloniale"
     },
     {
-     "altText": "Morocco",
+     "altText": "Maroc",
      "correct": false,
-     "hint": "Same continent as Ghana"
+     "hint": "Même continent que le Ghana"
     },
     {
-     "altText": "South Korea",
+     "altText": "Corée du Sud",
      "correct": true,
-     "hint": "This is the southern one"
+     "hint": "C'est celui du sud"
     }
    ],
    "id": "114739",
    "isEasy": false,
-   "question": "Flags of Countries in Asia"
+   "question": "Drapeaux des pays d'Asie"
   },
   {
    "choices": [
     {
-     "altText": "Birds",
+     "altText": "Oiseaux",
      "correct": false,
-     "hint": "Birds are not one of the flying pests to plague Pharaoh"
+     "hint": "Les oiseaux ne font pas partie des nuisibles volants qui affligent Pharaon"
     },
     {
-     "altText": "Thorns",
+     "altText": "Épines",
      "correct": false,
-     "hint": "Not a lot of plants in the desert"
+     "hint": "Pas beaucoup de plantes dans le désert"
     },
     {
-     "altText": "Locusts",
+     "altText": "Criquets",
      "correct": true,
-     "hint": "They ate the crops"
+     "hint": "Ils ont mangé les récoltes"
     },
     {
-     "altText": "Flies",
+     "altText": "Mouches",
      "correct": true,
-     "hint": "Several of the plagues would really “bug” you"
+     "hint": "Plusieurs fléaux vous « dérangeraient » vraiment"
     },
     {
-     "altText": "Hail",
+     "altText": "Grêle",
      "correct": true,
-     "hint": "This is hail"
+     "hint": "C'est de la grêle"
     },
     {
      "altText": "Crocodiles",
      "correct": false,
-     "hint": "The Nile had other problems"
+     "hint": "Le Nil avait d'autres problèmes"
     },
     {
-     "altText": "Spiders",
+     "altText": "Araignées",
      "correct": false,
-     "hint": "Spiders? Even Moses had his limits...."
+     "hint": "Des araignées ? Même Moïse avait ses limites...."
     },
     {
      "altText": "Obscurité",
@@ -2436,9 +2436,9 @@
      "hint": "Le fromage a été ajouté aux recettes du XXe siècle"
     },
     {
-     "altText": "Shortening",
+     "altText": "Raccourcissement",
      "correct": true,
-     "hint": "Le contraire de Tall-ending"
+     "hint": "Le contraire de Fin haute"
     },
     {
      "altText": "Mayo",
@@ -2446,12 +2446,12 @@
      "hint": "Mayo a des œufs, donc ce serait redondant"
     },
     {
-     "altText": "Lobster",
+     "altText": "Homard",
      "correct": false,
      "hint": "Pas un plat de fruits de mer"
     },
     {
-     "altText": "Butter",
+     "altText": "Beurre",
      "correct": true,
      "hint": "C'est la marque de fabrique de Julia"
     }
@@ -2463,116 +2463,116 @@
   {
    "choices": [
     {
-     "altText": "Twelve Drummers Drumming",
+     "altText": "Douze batteurs",
      "correct": true,
-     "hint": "There are 12"
+     "hint": "Il y en a 12"
     },
     {
-     "altText": "3 Jugglers Juggling",
+     "altText": "3 jongleurs jonglant",
      "correct": false,
-     "hint": "These are not French Hens"
+     "hint": "Ce ne sont pas des poules françaises"
     },
     {
-     "altText": "Two Falcons Posing",
+     "altText": "Deux faucons posant",
      "correct": false,
-     "hint": "These are not turtle doves"
+     "hint": "Ce ne sont pas des tourterelles"
     },
     {
-     "altText": "8 Archers Launching",
+     "altText": "Lancement de 8 archers",
      "correct": false,
-     "hint": "No weapons in the song"
+     "hint": "Pas d'armes dans la chanson"
     },
     {
-     "altText": "Seven Swans A-Swimming",
+     "altText": "Sept cygnes A-Swimming",
      "correct": true,
-     "hint": "There are 7"
+     "hint": "Il y en a 7"
     },
     {
-     "altText": "Three Ducks A-Migrating",
+     "altText": "Trois canards en migration",
      "correct": false,
-     "hint": "These are not French Hens"
+     "hint": "Ce ne sont pas des poules françaises"
     },
     {
-     "altText": "Five Golden Rings!",
+     "altText": "Cinq anneaux d'or !",
      "correct": true,
-     "hint": "This is the part you sing as loud as possible"
+     "hint": "C'est la partie que tu chantes le plus fort possible"
     },
     {
-     "altText": "Two Turtle Doves",
+     "altText": "Deux tourterelles",
      "correct": true,
-     "hint": "Yes, this is what a Turtle Dove looks like"
+     "hint": "Oui, voilà à quoi ressemble une tourterelle"
     },
     {
-     "altText": "Nine Ladies Dancing",
+     "altText": "Neuf dames dansant",
      "correct": true,
-     "hint": "Yes, there 9 ladies dancing in this photo"
+     "hint": "Oui, il y a 9 dames qui dansent sur cette photo"
     },
     {
-     "altText": "Seven Horses Prancing",
+     "altText": "Sept chevaux cabrés",
      "correct": false,
-     "hint": "Song mentions bovines, not equines"
+     "hint": "Une chanson mentionne des bovins, pas des équidés"
     }
    ],
    "id": "114742",
    "isEasy": false,
-   "question": "Gifts in “The 12 Days of Christmas”"
+   "question": "Cadeaux dans ” Les 12 jours de Noël”"
   },
   {
    "choices": [
     {
-     "altText": "21 by Adele",
+     "altText": "21 par Adèle",
      "correct": true,
-     "hint": "That adds up to “21”"
+     "hint": "Cela fait "21""
     },
     {
-     "altText": "Dark Side of the Moon by Pink Floyd",
+     "altText": "La Face Obscure de la Lune de Pink Floyd",
      "correct": false,
-     "hint": "Syd Barrett was lead vocals for Pink Floyd"
+     "hint": "Syd Barrett était le chanteur principal de Pink Floyd"
     },
     {
-     "altText": "Teenage Dream by Katy Perry",
+     "altText": "Rêve d'adolescent par Katy Perry",
      "correct": true,
-     "hint": "Featuring song “Firework” and “California Gurls”"
+     "hint": "Avec les chansons « Firework » et « California Gurls »"
     },
     {
-     "altText": "SOS by SZA",
+     "altText": "SOS par SZA",
      "correct": true,
-     "hint": "SOS is three letters, so is SZA"
+     "hint": "SOS est composé de trois lettres, tout comme SZA"
     },
     {
-     "altText": "American Idiot by Green Day",
+     "altText": "American Idiot par Green Day",
      "correct": false,
-     "hint": "“Don’t wanna be an....”"
+     "hint": "«Je ne veux pas être un…»"
     },
     {
-     "altText": "Chocolate Starfish by Limp Bizkit",
+     "altText": "Étoile de mer en chocolat par Limp Bizkit",
      "correct": false,
-     "hint": "...and the Hot Dog Flavored Water"
+     "hint": "...et l'eau aromatisée au hot dog"
     },
     {
-     "altText": "Dirty Computer by Janelle Monáe",
+     "altText": "Ordinateur sale par Janelle Monáe",
      "correct": true,
-     "hint": "That is one “Dirty Computer”"
+     "hint": "C'est un "ordinateur sale""
     },
     {
-     "altText": "Ice Ice Baby by Vanilla Ice",
+     "altText": "Ice Ice Baby par Vanilla Ice",
      "correct": false,
-     "hint": "Vanilla Ice identifies as male"
+     "hint": "Vanilla Ice s'identifie comme étant un homme"
     },
     {
-     "altText": "Yellow Submarine by The Beatles",
+     "altText": "Sous-marin jaune des Beatles",
      "correct": false,
      "hint": "Ringo wrote this one"
     },
     {
-     "altText": "Jagged Little Pill by Alanis Morissette",
+     "altText": "Petite pilule déchiquetée par Alanis Morissette",
      "correct": true,
-     "hint": "This Little Pill is Jagged"
+     "hint": "Cette petite pilule est déchiquetée"
     }
    ],
    "id": "114745",
    "isEasy": false,
-   "question": "Albums by Solo Female Artists",
+   "question": "Albums d'artistes féminines solo",
    "starterContent": false
   },
   {
@@ -2580,57 +2580,57 @@
     {
      "altText": "Dracula",
      "correct": true,
-     "hint": "He, and his son, attended"
+     "hint": "Lui et son fils ont assisté"
     },
     {
-     "altText": "Hounds",
+     "altText": "Chiens de chasse",
      "correct": true,
-     "hint": "They were brought by Igor"
+     "hint": "Ils ont été amenés par Igor"
     },
     {
-     "altText": "Mummy",
+     "altText": "Momie",
      "correct": false,
-     "hint": "Too wrapped up to attend"
+     "hint": "Trop emballé pour y assister"
     },
     {
      "altText": "Igor",
      "correct": true,
-     "hint": "He even gets a lyric, “Mash Good!”"
+     "hint": "Il reçoit même des paroles « Mash Good ! »"
     },
     {
-     "altText": "Ghost",
+     "altText": "Fantôme",
      "correct": false,
-     "hint": "No body, no invite"
+     "hint": "Pas de corps, pas d'invitation"
     },
     {
      "altText": "Zombies",
      "correct": true,
-     "hint": "The lyrics say they were there and they were having fun"
+     "hint": "Les paroles disent qu'ils étaient là et qu'ils s'amusaient"
     },
     {
      "altText": "Dragon",
      "correct": false,
-     "hint": "Not a party person, tends to drag-on"
+     "hint": "Pas un fêtard, a tendance à s'éterniser"
     },
     {
-     "altText": "Wolfman",
+     "altText": "Homme-loup",
      "correct": true,
-     "hint": "Mentioned along with Dracula"
+     "hint": "Mentionné avec Dracula"
     },
     {
-     "altText": "Witch",
+     "altText": "Sorcière",
      "correct": false,
-     "hint": "No Glinda, No Elphaba... no witch of any kind"
+     "hint": "Pas de Glinda, pas d'Elphaba... pas de sorcière d'aucune sorte"
     },
     {
-     "altText": "Black Cat",
+     "altText": "Chat noir",
      "correct": false,
-     "hint": "Only dogs are mentioned"
+     "hint": "Seuls les chiens sont mentionnés"
     }
    ],
    "id": "114746",
    "isEasy": false,
-   "question": "Mentioned in the “Monster Mash” Lyrics"
+   "question": "Mentionné dans les paroles de « Monster Mash »"
   }
  ]
 }

@@ -2489,24 +2489,24 @@
     {
      "questions": [
       {
-       "clue": "A symbiote from space who fought Spider-Man",
-       "text": "Eddie Brock’s anti-hero alter ego"
+       "clue": "Un symbiote venu de l'espace qui a combattu Spider-Man",
+       "text": "L'alter ego anti-héros d'Eddie Brock"
       },
       {
-       "clue": "Not Spawn or Hiss",
-       "text": "An American Gladiator played by Beth Horn"
+       "clue": "Pas d'apparition ni de sifflement",
+       "text": "Un gladiateur américain joué par Beth Horn"
       },
       {
-       "clue": "For the Tom Hardy movie",
-       "text": "The title of a 2018 Eminem song"
+       "clue": "Pour le film de Tom Hardy",
+       "text": "Le titre d'une chanson d'Eminem 2018"
       },
       {
-       "clue": "It made your computer VERY sick",
-       "text": "The name of a computer security flaw discovered in 2015"
+       "clue": "Cela a rendu votre ordinateur TRÈS malade",
+       "text": "Le nom d'une faille de sécurité informatique découverte en 2015"
       },
       {
-       "clue": "Types of toxins making up...",
-       "text": "Different categories include: necro, neuro & hemo"
+       "clue": "Types de toxines composant...",
+       "text": "Différentes catégories incluent : nécro, neuro et hémo"
       }
      ],
      "text": "Venom"
@@ -2514,27 +2514,27 @@
     {
      "questions": [
       {
-       "clue": "Not Venom or Sting",
-       "text": "Independent comic character created by Todd Macfarlane"
+       "clue": "Pas de venin ou de piqûre",
+       "text": "Personnage de bande dessinée indépendant créé par Todd Macfarlane"
       },
       {
-       "clue": "Don’t camp out on their ______ point.",
-       "text": "What do [i]Call of Duty[/i] players do after they die?"
+       "clue": "Ne campez pas sur leur point ______.",
+       "text": "Que font les joueurs de [i]Call of Duty[/i] après leur mort ?"
       },
       {
-       "clue": "How do you make a child?",
+       "clue": "Comment fait-on un enfant ?",
        "text": "Computer function; executes a new child process"
       },
       {
-       "clue": "They’re the kids of an elder god",
-       "text": "Lovecraft’s [i]At the Mountains of Madness[/i] discusses the “Star-_______ of Chtulhu”"
+       "clue": "Ce sont les enfants d'un dieu aîné",
+       "text": "[i]At the Mountains of Madness[/i] de Lovecraft discute de « l'étoile-________ de Cthulhu »"
       },
       {
-       "clue": "It’s similar to caviar",
+       "clue": "C'est semblable au caviar",
        "text": "Sujiko is a type of this"
       }
      ],
-     "text": "Spawn"
+     "text": "Frayer"
     }
   ],
   "category": "Créatures redoutables",
