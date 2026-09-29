@@ -14,9 +14,9 @@
    "familiarity": "FRIENDS",
    "id": "107564",
    "interrogations": [
-    "What’s your plan for fighting monsters?",
-    "In your opinion, what’s the strongest monster of all?",
-    "Do you think you’d survive any of these fights?"
+"Quel est ton plan pour combattre les monstres ?", 
+"A votre avis, quel est le monstre le plus fort de tous ?", 
+"Penses-tu que tu survivrais à l'un de ces combats ?"
    ],
    "question": "Mettez ces monstres dans l'ordre dans lequel vous seriez prêt à les combattre :",
    "reminder": "Combat de monstres",
@@ -35,8 +35,8 @@
    "familiarity": "FRIENDS",
    "id": "107570",
    "interrogations": [
-    "Walk us through your approach to triathlon events.",
-    "When’s the last time you swam? Biked?"
+"Expliquez-nous votre approche des événements de triathlon.", 
+"Quand as-tu nagé pour la dernière fois ? Tu as fait du vélo ?"
    ],
    "question": "Classez ces épreuves de triathlon par ordre de préférence, de la meilleure à la pire.",
    "reminder": "Triathlon",
@@ -57,8 +57,8 @@
    "familiarity": "STRANGERS",
    "id": "107592",
    "interrogations": [
-    "Which of these items have you forgotten most recently?",
-    "Do you carry a bag or is it all pockets for you?"
+"Lequel de ces objets avez-vous oublié le plus récemment ?", 
+" Portez-vous un sac ou est-ce que vous avez toutes les poches ? "
    ],
    "question": "Dans quel ordre vérifiez-vous que vous avez ces objets avant de quitter la maison ?",
    "reminder": "Objets essentiels",
@@ -78,8 +78,8 @@
    "familiarity": "FRIENDS",
    "id": "107597",
    "interrogations": [
-    "So... you got any neighbors?",
-    "Do you feel energized by long conversations?"
+"Alors... tu as des voisins ?", 
+" Vous sentez-vous dynamisé par de longues conversations ? "
    ],
    "question": "Votre voisin a besoin d'aide autour de la maison. Classez ces tâches de \"plus susceptible de faire\" à \"moins susceptible de faire\" :",
    "reminder": "Aider les voisins",
@@ -100,7 +100,7 @@
    "familiarity": "FRIENDS",
    "id": "107598",
    "interrogations": [
-    "Got your eye on anything nice these days?"
+"Tu as à l'oeil quelque chose d'agréable ces jours-ci ?"
    ],
    "question": "Si vous gagnez au lotto, que feriez-vous de l'argent, et dans quel ordre ?",
    "reminder": "Priorités du lotto",
@@ -119,9 +119,9 @@
    "familiarity": "FRIENDS",
    "id": "108165",
    "interrogations": [
-    "Big fan of the smell of tootsies, huh?",
-    "You ever take a whiff when you toot-toot?",
-    "You like sushi?"
+"Grand fan de l'odeur des petons, hein ?", 
+"Tu as déjà respiré quand tu fais du toot ?", 
+"Tu aimes les sushis ?"
    ],
    "question": "Classez ces senteurs de la plus agréable à la moins agréable :",
    "reminder": "Yucky Smells",
@@ -143,9 +143,9 @@
    "familiarity": "FRIENDS",
    "id": "108666",
    "interrogations": [
-    "Do you have any athletic coaching experience?",
-    "What is your relationship to the world of fashion?",
-    "What kind of math grades did you get in school?"
+"Avez-vous une expérience en coaching sportif ?", 
+"Quel est votre rapport au monde de la mode ?", 
+"Quel genre de notes en mathématiques as-tu obtenu à l'école ?"
    ],
    "question": "Sur une échelle de “Super travail !” à “Viré !”, classez les emplois suivants en fonction de votre aptitude à les exercer sans préparation.",
    "reminder": "Hard Occupations",
@@ -167,9 +167,9 @@
    "familiarity": "FRIENDS",
    "id": "108796",
    "interrogations": [
-    "What era of boy band is your favorite?",
-    "What was the first band you were into?",
-    "What’s one of your favorite concert experiences?"
+"Quelle époque de boys band préférez-vous ?", 
+"Quel a été le premier groupe que vous avez aimé ?", 
+"Quelle est l'une de vos expériences de concert préférées ?"
    ],
    "question": "Classez les périodes suivantes en fonction de l'appréciation de leur musique.",
    "reminder": "Préférences musicales",
@@ -192,8 +192,8 @@
    "familiarity": "FRIENDS",
    "id": "108798",
    "interrogations": [
-    "You have to get past a guard, what do you do?",
-    "How good are you at checking for traps?"
+"Il faut passer un garde, que faire ?", 
+" Dans quelle mesure êtes-vous doué pour détecter les pièges ? "
    ],
    "question": "Si vous étiez un personnage de Dungeons & Dragons, classez ces compétences de base de la meilleure à la pire :",
    "reminder": "Compétences D&D",
@@ -215,8 +215,8 @@
    "familiarity": "FRIENDS",
    "id": "109029",
    "interrogations": [
-    "Who do you think is the coolest celebrity?",
-    "What’s the coolest thing about {{PLAYER}}?"
+"À votre avis, quelle est la célébrité la plus cool ?", 
+"Quelle est la chose la plus cool à propos de {{PLAYER}} ?"
    ],
    "question": "Classez les individus suivants en fonction de leur coolitude.",
    "reminder": "Personnes cool",
@@ -237,8 +237,8 @@
    "familiarity": "FRIENDS",
    "id": "109030",
    "interrogations": [
-    "What’s your approach to winning game shows?",
-    "How are your trivia skills versus your cooking skills?"
+"Quelle est votre approche pour gagner des jeux télévisés ?", 
+" Comment se situent vos compétences en matière de jeux-questionnaires par rapport à vos compétences en cuisine ? "
    ],
    "question": "Classez les émissions suivantes en fonction de vos performances potentielles.",
    "reminder": "Gagnant ou perdant",
@@ -261,9 +261,9 @@
    "familiarity": "FRIENDS",
    "id": "109660",
    "interrogations": [
-    "Are you a history buff?",
-    "Have you seen all the [i]Avengers[/i] films?",
-    "Do you watch baking shows?"
+"Es-tu un passionné d'histoire ?", 
+"Avez-vous vu tous les films [i]Avengers[/i] ?", 
+" Regardez-vous des émissions de pâtisserie ? "
    ],
    "question": "Classez ces guerres en fonction de ce que vous savez à leur sujet (du plus au moins).",
    "reminder": "L'Art des \"Guerres\"",
@@ -285,9 +285,9 @@
    "familiarity": "STRANGERS",
    "id": "114000",
    "interrogations": [
-    "Tell us your feelings about Orlando.",
-    "When was your last [i]Arby’s[/i] meal?",
-    "How do you feel about space travel?"
+"Parlez-nous de vos sentiments à propos d'Orlando.", 
+"Quand a eu lieu votre dernier repas [i]Arby's[/i] ?", 
+" Que pensez-vous du voyage dans l'espace ? "
    ],
    "question": "Classez ces lieux par ordre de préférence :",
    "reminder": "Où allez-vous ?",
@@ -308,8 +308,8 @@
    "familiarity": "STRANGERS",
    "id": "114022",
    "interrogations": [
-    "Walk us through your approach to survival.",
-    "Do you think you could operate a chainsaw?",
+"Expliquez-nous votre approche de la survie.", 
+"Pensez-vous que vous pourriez utiliser une tronçonneuse ?",
     ""
    ],
    "question": "C'est l'apocalypse zombie. Classez ces objets par ordre de préférence :",
@@ -331,9 +331,9 @@
    "familiarity": "STRANGERS",
    "id": "114046",
    "interrogations": [
-    "Describe what “downtime” means to you.",
-    "Can you fall asleep easily?",
-    "Where do you like to walk?"
+"Décrivez ce que "temps d'arrêt" signifie pour vous.", 
+"Peux-tu t'endormir facilement ?", 
+"Où aimes-tu marcher ?"
    ],
    "question": "C'est l'heure de récupérer ses forces. Classez ces activités par ordre de préférence :",
    "reminder": "Options de recharge",
@@ -354,9 +354,9 @@
    "familiarity": "STRANGERS",
    "id": "114079",
    "interrogations": [
-    "Tell us about your favorite restaurant.",
-    "How important is cleanliness to you?",
-    "How far will you travel to try a new place?"
+"Parlez-nous de votre restaurant préféré.", 
+"Quelle est l'importance de la propreté pour vous ?", 
+"Jusqu'où parcourrez-vous pour essayer un nouvel endroit?"endroit?"
    ],
    "question": "Classez ces qualités de restaurant par ordre d'importance pour vous.",
    "reminder": "Préférences de restaurant",
@@ -376,9 +376,9 @@
    "familiarity": "STRANGERS",
    "id": "114118",
    "interrogations": [
-    "What bothers you on a day-to-day basis?",
-    "How much do you think about finance?",
-    "Do you worry about upsetting the delicate balance of life?"
+"Qu'est-ce qui vous dérange au quotidien ?", 
+"Que pensez-vous de la finance ?", 
+"Avez-vous peur de bouleverser l'équilibre délicat de la vie ?"
    ],
    "question": "Si vous pouviez complètement supprimer des choses, classez-les dans l'ordre dans lequel vous voudriez qu'elles disparaissent :",
    "reminder": "Faites-le disparaître",
@@ -398,9 +398,9 @@
    "familiarity": "STRANGERS",
    "id": "114238",
    "interrogations": [
-    "Tell us more about your happy place.",
-    "What’s a typical beach visit like for you?",
-    "What are you looking for in a happy place?"
+"Parlez-nous en plus de votre endroit heureux.", 
+"Pour vous, à quoi ressemble une visite typique à la plage ?", 
+"Que cherches-tu dans un endroit heureux ?"
    ],
    "question": "Classez ces endroits heureux par ordre de préférence :",
    "reminder": "Endroit heureux",
@@ -420,9 +420,9 @@
    "familiarity": "STRANGERS",
    "id": "114373",
    "interrogations": [
-    "What’s your relationship with pants?",
-    "Walk us through how you ordered your choices of what to live without.",
-    "Got any favorite snacks?"
+"Quelle est ta relation avec le pantalon ?", 
+"Expliquez-nous comment vous avez ordonné vos choix de quoi vivre sans.", 
+" Vous avez des collations préférées ? "
    ],
    "question": "Classez ces éléments par ordre de difficulté à vivre sans eux.",
    "reminder": "Incontournable",
@@ -442,9 +442,9 @@
    "familiarity": "STRANGERS",
    "id": "114419",
    "interrogations": [
-    "What makes something nice to touch, in your opinion?",
-    "Share your thoughts on cotton candy.",
-    "When’s the last time you encountered any of these items?"
+"Qu'est-ce qui rend quelque chose agréable à toucher, à votre avis ?", 
+"Partagez vos réflexions sur la barbe à papa.", 
+" À quand remonte la dernière fois que vous avez rencontré l’un de ces objets ?"
    ],
    "question": "Classez ces éléments par ordre de sensation agréable au toucher.",
    "reminder": "Bonnes Sensations",

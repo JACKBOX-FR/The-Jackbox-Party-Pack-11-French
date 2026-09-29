@@ -461,29 +461,29 @@
 },
   {
    "barksIntro": [
-    "I see you eyestalking my outfit! If you like that, wait 'til you see my runway scuttle.",
-    "I recognize you! Didn’t you cater Coral Chanel’s party at Splashin' Week?",
-    "How quaint! Normally I don’t shop off-the-cooling rack, but in a pinch...",
-    "Fashion tip! I like my pants like I like my tides...low-rising."
+    "Je vois que tu regardes ma tenue ! Si tu aimes ça, attends de voir mon hublot de piste.", 
+"Je te reconnais ! N'as-tu pas organisé la soirée de Coral Chanel à la Splashin' Week ?", 
+"Comme c'est pittoresque ! Normalement, je ne fais pas mes achats sur une grille de refroidissement, mais à la rigueur...", 
+"Conseil mode ! J'aime mes pantalons comme j'aime mes marées... basses."
    ],
    "barksNegative": [
-    "Ew, I wouldn’t be caught dead and rangooned with this.",
-    "Please, this style is SO last mating season."
+"Ew, je ne serais pas pris mort et mis en colère avec ça.", 
+"S'il vous plaît, ce style est TELLEMENT la dernière saison des amours."
    ],
    "barksNeutral": [
-    "This won’t make the spring editorial, but I'd still shell out for it!",
-    "Hmmm. Cookies...with icing? Groundbreaking."
+"Cela ne figurera pas dans l'éditorial du printemps, mais je le débourserais quand même !", 
+"Hmmm. Des biscuits... avec du glaçage ? Révolutionnaire."
    ],
    "barksPositive": [
-    "Mmhmm! These treats are dressed to krill!",
-    "YES! This cookie look is SO high-tide fashion!",
-    "Good job! You really crust-aced the assignment, doll!"
+"Mmhmm ! Ces friandises sont habillées de krill !", 
+"OUI ! Ce look cookie est TELLEMENT tendance !", 
+"Bon travail ! Tu as vraiment réussi la mission, poupée !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "I’ve got a bit of a shellfish request here. Could I get a cookie like this?",
-    "I’ll need a baker’s dozen of these, in my size....cookies that are something like this:",
-    "I MUST have a special cookie. Here’s my 360-degree vision for it:"
+"J'ai une petite demande de crustacés ici. Pourrais-je avoir un cookie comme celui-ci ?", 
+"J'en aurai besoin d'une douzaine, dans ma taille... des cookies qui ressemblent à ceci :", 
+"Je DOIS avoir un cookie spécial. Voici ma vision à 360 degrés :"
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -491,25 +491,25 @@
    "key": "Crab",
    "name": "Clawdia Lagerfeld",
    "redrawBarksIntro": [
-    "I've returned! I need more color! More patterns! More cookies!",
-    "I'm back! Babes, these cookies are just swimming off the racks. The people need more!!"
+"Je suis de retour ! J'ai besoin de plus de couleurs ! Plus de motifs ! Plus de cookies !", 
+"Je suis de retour ! Les bébés, ces cookies sortent tout simplement des étagères. Les gens ont besoin de plus !!"
    ],
    "redrawBarksNegative": [
-    "What is this, a knockoff? I am an artiste, not a hack."
+"Qu'est-ce que c'est, une imitation ? Je suis un artiste, pas un hack."
    ],
    "redrawBarksNeutral": [
-    "It’s alright, but it’s nothing to molt your exoskeleton over.",
-    "It’s always good to have neutral pieces in your collection. Like these boring bites!"
+"Tout va bien, mais ce n'est pas pour rien que votre exosquelette mue.", 
+"C'est toujours bien d'avoir des pièces neutres dans sa collection. Comme ces bouchées ennuyeuses !"
    ],
    "redrawBarksPositive": [
-    "Aha! This is a big Dungen-YES from me!",
-    "Excellent! Oh yes, very reef-wear chic. Ta-ta!"
+"Aha ! C'est un grand Dungen-OUI de ma part !", 
+"Excellent ! Oh oui, très chic, style récif. Ta-ta !"
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "Some of these pieces need some major alterations. Redo this design, but like this:",
-    "Can we accessorize some old looks? Take some old cookies, and give them some of this:",
-    "Let’s modernize some vintage pieces. Take a former cookie, and glitz it up with this:"
+"Certaines de ces pièces nécessitent des modifications majeures. Refaites ce design, mais comme ceci :", 
+"Pouvons-nous accessoiriser certains vieux looks ? Prenez de vieux cookies et donnez-leur un peu de ça :", 
+"Modernisons quelques pièces vintage. Prenez un ancien biscuit et embellissez-le avec ceci :"
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
@@ -518,25 +518,25 @@
   },
   {
    "barksIntro": [
-    "Ohmigosh hiii! Don't you remember me? I'm your sister's cousin's school chum!",
-    "No small talk, I know the owner! Oh, you ARE the owner? Well, I FEEL like I know you!",
-    "Moonique told me I could pop by anytime to get free sh--I MEAN, support the bakery!"
+"Ohmigosh hiii ! Tu ne te souviens pas de moi ? Je suis le copain d'école du cousin de ta sœur !", 
+"Pas de bavardages, je connais le propriétaire ! Oh, vous ÊTES le propriétaire ? Eh bien, j'ai l'impression de vous connaître !", 
+"Moonique m'a dit que je pouvais passer à tout moment pour obtenir de la merde gratuite – je veux dire, soutenir la boulangerie !"
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "I love these! Oh, you want a tip? Eh, I don't love them THAT much.",
-    "Awww, so cute! And just poorly-made enough that I can convince people I made them myself!"
+"Je les adore ! Oh, tu veux un conseil ? Eh, je ne les aime pas tellement.", 
+"Awww, c'est trop mignon ! Et juste assez mal fait pour que je puisse convaincre les gens que je les ai faits moi-même !"
    ],
    "barksPositive": [
-    "Wow! I'll show these to ALL my followers. Which is better than money, if you think about it!",
-    "Eeee! My friend is going to love these! And I'll love THEM being indebted to ME!",
-    "Ohmigosh these are amazzzzzzing. I've gotta tell everyone about these FREE cookies!"
+"Wow ! Je vais les montrer à TOUS mes abonnés. Ce qui est mieux que l'argent, si vous y réfléchissez !", 
+"Eeee ! Mon ami va adorer ça ! Et je les adorerai en M'étant redevable !", 
+"Oh mon Dieu, ils sont incroyables. Je dois parler de ces cookies GRATUITS à tout le monde !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "This is a special order. I have a friend who would LOVE a cookie like this:",
-    "Can I get a quick ten dozen cookies for a special someone? Something like this:",
-    "Can I get a cookie donation for a friend in need? They would be so happy about getting this:"
+"Il s'agit d'une commande spéciale. J'ai un ami qui adorerait un cookie comme celui-ci :", 
+"Puis-je obtenir rapidement dix douzaines de cookies pour quelqu'un de spécial ? Quelque chose comme ceci :", 
+" Puis-je obtenir un don de cookies pour un ami dans le besoin ? Il serait si heureux de recevoir ceci : "
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -544,20 +544,19 @@
    "key": "CowFriend",
    "name": "Heifer Locklear",
    "redrawBarksIntro": [
-    "Ohmygosh hiiiii...I'm back! And I need an itsy-bitsy-teeny-weeny entirely new batch of cookies.",
-    "Hello, again!! I decided DON'T like the cookies you made. Don't let the licks and bite marks fool you!"
-   ],
+"Ohmygosh hiiiii... Je suis de retour ! Et j'ai besoin d'un tout nouveau lot de cookies.", 
+"Bonjour encore une fois !! J'ai décidé de NE PAS aimer les cookies que vous avez préparés. Ne vous laissez pas tromper par les coups de langue et les marques de morsure !"],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "Well, these are just dandy. Now, can you do 150 more for the wedding I'm catering tonight?"
-   ],
+    "Eh bien, ils sont tout simplement superbes. Maintenant, peux-tu en faire 150 de plus pour le mariage que je prépare ce soir ?"
+    ],
    "redrawBarksPositive": [
-    "Fabulous! Fabulous! It makes me want to come back for a redo tomorrow! AND I WILL."
+    "Fabuleux ! Fabuleux ! Cela me donne envie de revenir pour une refonte demain ! ET JE LE VAIS."
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "I...I mean, my FRIEND...would really love if you redid the cookies, but like this:",
-    "I promise not to leave a one-star review if you could just redo the cookies like this:"
+    "Je... je veux dire, mon AMI... j'adorerais vraiment que tu refasses les cookies, mais comme ça :", 
+"Je promets de ne pas laisser d'avis une étoile si vous pouviez simplement refaire les cookies comme ceci :"
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
@@ -566,25 +565,25 @@
   },
   {
    "barksIntro": [
-    "Oh my goth! This place is just a ray of sunshine...one I can actually enjoy!",
-    "Please excuse Suzie and Banshee...they’re my emotional support bats!",
-    "Thanks for inviting me in! Not that I couldn't come in on my own. I...can definitely do that. Yep."
+    "Oh mon goth ! Cet endroit n'est qu'un rayon de soleil... un rayon dont je peux vraiment profiter !", 
+"S'il vous plaît, excusez Suzie et Banshee... ce sont mes chauves-souris de soutien émotionnel !", 
+"Merci de m'avoir invité ! Non pas que je ne puisse pas venir seul. Je... peux certainement le faire. Ouais."
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "Nice! I personally would have used a bit more blood of the damned, but it's still good!",
-    "I like it...but I don’t? Hmm. I’m having a bit of a Joy Division.",
-    "Hmm. I think you were in more of a “Depeche Mode” than a \"Chef Mode.\""
+"Bien ! Perso j'aurais mis un peu plus de sang de damné, mais c'est quand même bon !", 
+"J'aime ça... mais pas ? Hmm. Je vis un peu la Joy Division.", 
+"Hmm. Je pense que tu étais plus dans un "Mode Depeche" que dans un "Mode Chef"."
    ],
    "barksPositive": [
-    "Call this cookie Robert Smith, because this is The Cure to my gloomies!",
-    "I'm a Hot Topic and this cookie is a Jack Skellington shirt: perfect together!"
+    "Appelez ce cookie Robert Smith, car c'est The Cure pour mes sombres!", 
+"Je suis un Hot Topic et ce cookie est une chemise Jack Skellington : parfait ensemble !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "Now, I’d simply go batty for a cookie like this:",
-    "I totally vaaaant a vuuuunderful cookie in the vein of something like this:",
-    "I vant your blooood! But first, I vant a delicious cookie! How about something like this:"
+    "Maintenant, je serais tout simplement fou pour un cookie comme celui-ci :", 
+"Je préfère totalement un cookie vuuuunderful dans la veine de quelque chose comme ça :", 
+"Je veux ton sang ! Mais d'abord, je veux un délicieux cookie ! Que diriez-vous de quelque chose comme ça :"
    ],
    "colors": "GOTH",
    "cookieTypes": "GOTH",
@@ -592,20 +591,20 @@
    "key": "GothGirl",
    "name": "Natalie Feratu",
    "redrawBarksIntro": [
-    "Greetings, again! Let’s resurrect a cookie from the dead and give it another try.",
-    "I've returned! Why don’t we pull this day out of the grave and try again, yeah?"
+"Bonjour, encore une fois ! Ressuscitons un cookie d'entre les morts et essayons-le à nouveau.", 
+"Je suis de retour ! Pourquoi ne pas sortir ce jour de la tombe et réessayer, ouais ?"
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "I think you were in more of a “depeche mode” than a chef mode."
+    "Je pense que tu étais plus en mode "depeche" qu'en mode chef."
    ],
    "redrawBarksPositive": [
-    "Is this cookie Evanescance? Because it is vaking me up inside."
+    "Est-ce que ce cookie est Evanescence ? Parce qu'il me réveille intérieurement."
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "I vant you to raise this cookie from the dead, and do this!",
-    "I will stake my reputation on you taking these old cookies, and..."
+    "Je veux que vous ressuscitiez ce cookie d'entre les morts, et faites ça !", 
+"Je mettrai ma réputation en jeu si tu prends ces vieux cookies, et..."
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "GOTH",
@@ -614,23 +613,23 @@
   },
   {
    "barksIntro": [
-    "Excuse me?! My order isn’t ready yet? Let me bellow to your manager!",
-    "Oi! Are you recording me?! I’m going to get you fired! As soon as I place a dozen orders!",
-    "I only got 17 hours of sleep last night and I’m in NO mood. Also, HELLO!"
+    "Excusez-moi ?! Ma commande n'est pas encore prête ? Laissez-moi crier à votre manager !", 
+"Oi ! Tu m'enregistres ?! Je vais te faire virer ! Dès que j'aurai passé une dizaine de commandes !", 
+"Je n'ai dormi que 17 heures la nuit dernière et je ne suis PAS d'humeur. Aussi, BONJOUR !"
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "Did you even bake these at 178.1°C like I asked?? I'll take 'em, but I'm NOT happy about it!",
-    "Ace work! Keep it up...or ELSE!"
+    "Les avez-vous au moins fait cuire à 178,1°C comme je l'ai demandé ?? Je les prends, mais je n'en suis PAS content !", 
+"Un travail astucieux ! Continuez comme ça... ou Ailleurs !"
    ],
    "barksPositive": [
-    "Now THAT’s a Koala-ty cookie. I'm FURIOUS...ly satisfied!",
-    "Humph! Thank you! This is four opposable thumbs-up!"
+    "Maintenant, c'est un cookie à la Koala. Je suis FURIEUX... vraiment satisfait !", 
+"Humph ! Merci ! C'est quatre pouces levés opposables !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "Now! Do this right or I’ll send it outBACK! Make me a cookie like THIS:",
-    "Get me your supervisor! AND a cookie with this kind of vibe:"
+    "Maintenant ! Faites-le correctement ou je vous l'enverrai RETOUR ! Faites-moi un cookie comme CE :", 
+« Donnez-moi votre superviseur ! ET un cookie avec ce genre d'ambiance : »
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -638,21 +637,21 @@
    "key": "KoalaKaren",
    "name": "Koala Karen",
    "redrawBarksIntro": [
-    "I'm back! What do you MEAN you don’t remember me?! I want this next order comped!!",
-    "I've returned! I shouldn’t have to wait in line! I’m a repeat customer!! AND I’m adorable!"
+    "Je suis de retour ! Que veux-tu dire, tu ne te souviens pas de moi ?! Je veux que cette prochaine commande soit exécutée !!", 
+"Je suis de retour ! Je ne devrais pas avoir à faire la queue ! Je suis une cliente fidèle !! ET je suis adorable !"
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "My asymmetrical highlighted bangs may be in my eyes, but this looks pretty good. THANKS."
+"Ma frange asymétrique soulignée est peut-être dans mes yeux, mais cela a l'air plutôt bien. MERCI."
    ],
    "redrawBarksPositive": [
-    "I demand to see your permit for cookie artisaning! So I can agree with it! Good job!",
-    "Yay! I guess throwing a fit until you get your way really works!"
+    "J'exige de voir votre permis pour la fabrication de biscuits ! Je peux donc être d'accord avec cela ! Bon travail !", 
+"Ouais ! Je suppose que faire une crise jusqu'à ce que tu obtiennes ce que tu veux, ça marche vraiment !"
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "What are you going to do to make this right?? Might I suggest doing this:",
-    "Your last batch was extremely unprofessional! I need you to remake them, like this:"
+    "Qu'allez-vous faire pour arranger les choses ?? Puis-je suggérer de faire ceci :", 
+"Votre dernier lot n'était absolument pas professionnel ! J'ai besoin que vous les refaites, comme ceci :"
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
@@ -661,24 +660,24 @@
   },
   {
    "barksIntro": [
-    "Hello, human baker! I’ve journeyed from far away to collect Earth sugar samples!",
-    "Do not fear, earthling! I am here on a mission of peace and cookie research!",
-    "I require cookie samples I can bring back to my racecar bed. I mean, my home planet!"
+    "Bonjour, boulanger humain ! Je suis venu de loin pour collecter des échantillons de sucre terrestre !", 
+"N'aie pas peur, terrien ! Je suis ici pour une mission de paix et de recherche sur les cookies !", 
+"J'ai besoin d'échantillons de cookies que je peux rapporter sur mon lit de voiture de course. Je veux dire, sur ma planète natale !"
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "This cookie is ok. I’d rank it up there with the gum in my mommyship’s purse.",
-    "This cookie is fine, but the intergalactic lunch ladies I know could probably do better."
+    "Ce cookie est ok. Je le classerais là-haut avec le chewing-gum dans le sac à main de ma maman.", 
+"Ce cookie est bon, mais les dames du déjeuner intergalactique que je connais pourraient probablement faire mieux."
    ],
    "barksPositive": [
-    "These cookies will be celebrated on my home planet! Even alien sisters will get to try some!",
-    "These cookies are amazing! Imagine how much it will trade for at the galactic lunch table!",
-    "Amazing! One day when my alien elders let me use the oven I want to make something like this!"
+    "Ces cookies seront célébrés sur ma planète natale ! Même les sœurs extraterrestres pourront en essayer !", 
+"Ces cookies sont incroyables ! Imaginez combien ils s'échangeront à la table du déjeuner galactique !", 
+"Incroyable ! Un jour, quand mes aînés extraterrestres me laisseront utiliser le four, je veux faire quelque chose comme ça !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "I have research funds from weeding space gardens, so please make me a cookie like this:",
-    "I’ve calibrated my tummy sensors and they indicate you should make a cookie like this:"
+    "J'ai des fonds de recherche pour le désherbage des jardins spatiaux, alors s'il vous plaît, faites-moi un cookie comme celui-ci :", 
+"J'ai calibré mes capteurs abdominaux et ils indiquent que vous devriez créer un cookie comme celui-ci :"
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -686,21 +685,21 @@
    "key": "AlienKid",
    "name": "Alien Kid",
    "redrawBarksIntro": [
-    "I've beamed back! My research must continue until the mommyship’s important phone call is over!",
-    "Greetings, again! I’ve received an advance on my space allowance and want to continue cookie research!"
+    "Je suis revenu ! Mes recherches doivent continuer jusqu'à la fin de l'appel téléphonique important de la maman !", 
+"Bonjour encore ! J'ai reçu une avance sur mon espace disponible et je souhaite continuer la recherche sur les cookies !"
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "This cookie tasted alright, but was not worth the fuel for my rocket tricycle.",
-    "This was okay, but not worth spending my good alien behavior award money."
+    "Ce cookie avait bon goût, mais ne valait pas le carburant de mon tricycle-fusée.", 
+"C'était bien, mais ça ne valait pas la peine de dépenser l'argent de ma récompense pour bon comportement extraterrestre."
    ],
    "redrawBarksPositive": [
-    "These are even better! Let me give you my planet’s highest honor, a smiling star sticker!"
+    "C'est encore mieux ! Laissez-moi vous offrir le plus grand honneur de ma planète, un autocollant étoile souriante !"
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "Take this cookie, and enhance it with your Earth baking techniques, like this:",
-    "Some more scientific sampling won’t spoil my dinner! Please redo these cookies, but with this:"
+    "Prenez ce cookie et agrémentez-le avec vos techniques de cuisson de la Terre, comme ceci :", 
+« Quelques échantillons scientifiques supplémentaires ne gâcheront pas mon dîner ! S'il vous plaît, refaites ces cookies, mais avec ceci : »
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
@@ -709,25 +708,25 @@
   },
   {
    "barksIntro": [
-    "Gluten-tag! Haha, sorry, just some \"overbaked\" humor. Anyway, can you make me a family?",
-    "Wow, a cookie confectionary right when I’m looking for some cookie comradery!",
-    "I’m looking for some new cookie besties and this place seems cut out for the job!"
+    "Tag sans gluten ! Haha, désolé, juste un peu d'humour "trop cuit". Quoi qu'il en soit, peux-tu me faire une famille ?", 
+"Wow, une confiserie de biscuits juste au moment où je cherche une camaraderie de biscuits !", 
+"Je recherche de nouveaux meilleurs amis des cookies et cet endroit semble fait pour le travail !"
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "I mean, they're cookies...but are they cook-WEs? I must think about this. Thank you!",
-    "Their personalities still seem a little half-baked, but good enough! Thanks for the fam!",
-    "I can't wait to pal around with these pastries. Thank you!"
+    "Je veux dire, ce sont des cookies... mais sont-ils des cuisiniers-WE ? Je dois y réfléchir. Merci !", 
+"Leurs personnalités semblent encore un peu à moitié cuites, mais ça suffit ! Merci pour la famille !", 
+"J'ai hâte de déguster ces pâtisseries. Merci!"
    ],
    "barksPositive": [
-    "I’m perfectly qualified to declare this a perfect bake! Welcome home, everyone!",
-    "Well, bless your biscuits! What a great job! I will adopt them all!",
-    "Oh! These are flawlessly friend-shaped! I will never dessert these companions!"
+    "Je suis parfaitement qualifié pour déclarer que c'est une pâtisserie parfaite ! Bienvenue à la maison à tous !", 
+"Eh bien, bénissez vos biscuits ! Quel beau travail ! Je vais tous les adopter !", 
+"Oh ! Ils sont parfaitement en forme d'ami ! Je ne vais jamais abandonner ces compagnons !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "I’m visualizing some ideal cookie companions, and I’m picturing something like this:",
-    "Life’s been feeling a bit stale, so I’m in the market for some kin that are kin-da like this:"
+    "Je visualise des compagnons de cookies idéaux et j'imagine quelque chose comme ceci :", 
+"La vie me semble un peu fade, alors je suis à la recherche de parents qui sont comme ça :"
    ],
    "colors": "GINGERBREAD",
    "cookieTypes": "GINGERBREAD",
@@ -735,20 +734,20 @@
    "key": "Gingerbread",
    "name": "Gingerbread Person",
    "redrawBarksIntro": [
-    "Hello again! I'm a few friends short of a bowling league, so I’m back for you to make some more!",
-    "Let’s see what, and WHO else you can cook up!"
+    "Bonjour encore ! Il me manque quelques amis pour une ligue de bowling, alors je suis de retour pour que vous en fassiez d'autres !", 
+"Voyons quoi, et QUI d'autre vous pouvez cuisiner !"
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "Their personalities still seem a little half-baked, but good enough! Thanks for the fam!"
+    "Leurs personnalités semblent encore un peu à moitié cuites, mais ça suffit ! Merci pour la famille !"
    ],
    "redrawBarksPositive": [
-    "Perfect! A perfectly piped person! Thank you for making and RE-making my family!"
+    "Parfait ! Une personne parfaitement jouée ! Merci d'avoir créé et recréé ma famille !"
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "So, take these cookie people, and make them into BETTER cookie people, like this:",
-    "You can fix these folks a little for me, something a bit less cookie-cutter:"
+    "Alors, prenez ces cookies et faites-en de MEILLEURS cookies, comme ceci :", 
+"Vous pouvez réparer un peu ces gens pour moi, quelque chose d'un peu moins simple :"
    ],
    "shapes": "GINGERBREAD",
    "sprinkleTypes": "GINGERBREAD",
@@ -757,43 +756,43 @@
   },
   {
    "barksIntro": [
-    "Hello, is this the CookieCourier?? Can you hear me? Chaz, hold the phone closer to them!",
-    "Is....is anyone there? Hello? IF ANYONE IS AT THE OTHER END OF THE PHONE, HELLO!!!",
-    "Hi Hello? Hi! Can you hear me?? I'm on the phone! The bird's phone!!!!",
-    "Hello! It's me, on the other side of the telephone! What do you mean \"who?\" ME!",
-    "Hello! The CookieCourier here didn't understand my order, so I wanted to phone you directly!",
-    "Chaz!!! Chaz, hand them the phone! CHAZ, GIVE THE COOKIE PERSON THE PHONE.",
-    "Hello? Hello? I am placing an order on this phone! No, I will NOT leave my house!",
-    "Hello! This pigeon here is getting my order! Leave him some crumbs on the floor, I forgot to tip!"
+    "Bonjour, c'est le CookieCourier ?? Tu m'entends ? Chaz, rapproche le téléphone d'eux !", 
+"Est-ce que... y a-t-il quelqu'un ? Bonjour ? SI QUELQU'UN EST À L'AUTRE BOUT DU TÉLÉPHONE, BONJOUR !!!", 
+"Salut Bonjour ? Salut ! Vous m'entendez ?? Je suis au téléphone ! Le téléphone de l'oiseau !!!!", 
+"Bonjour ! C'est moi, de l'autre côté du téléphone ! Comment ça "qui ?\" MOI !", 
+"Bonjour ! Le CookieCourier ici présent n'a pas compris ma commande, j'ai donc voulu vous appeler directement !", 
+"Chaz !!! Chaz, donne-leur le téléphone ! CHAZ, DONNE LE TÉLÉPHONE À LA PERSONNE COOKIE.", 
+"Bonjour ? Bonjour ? Je passe une commande sur ce téléphone ! Non, je ne sortirai PAS de chez moi !", 
+"Bonjour ! Ce pigeon là reçoit ma commande ! Laissez-lui quelques miettes par terre, j'ai oublié de donner un pourboire !"
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "The cookies in the pic you sent look good enough for me! Bike 'em over, quick!",
-    "Acceptable! Chaz, deliver these to me. But leave your phone there so I can keep chatting!",
-    "Get those in a box and get them to me! The cookies are fine, but my cat's gonna LOVE that box.",
-    "Thanks for the cookies. Goodbye! SORRY, CAN YOU HEAR ME? GOODBYYYYEEE.",
-    "Good cookie effort! Chaz, can you leave these in my PO Box? Yep, really smush 'em in there."
+    "Les cookies sur la photo que vous avez envoyée me semblent assez beaux ! Faites-les rouler, vite !", 
+"Acceptable ! Chaz, livre-moi ça. Mais laisse ton téléphone là pour que je puisse continuer à discuter !", 
+"Mettez-les dans une boîte et apportez-les-moi ! Les cookies sont bien, mais mon chat va ADORER cette boîte.", 
+"Merci pour les cookies. Au revoir ! DÉSOLÉ, POUVEZ-VOUS M'ENTENDRE ? AU REVOIR.", 
+"Bon effort en matière de cookies ! Chaz, peux-tu les laisser dans ma boîte postale ? Oui, écrase-les vraiment là-dedans."
    ],
    "barksPositive": [
-    "Chaz here sent me a pic! Those look great! Come deliver 'em to my mouth!",
-    "Wow! What a beautiful...sorry, louder? A BEAUTIFUL BOX OF COOKIES!",
-    "I'm pressing \"2\" for applause! Send these treats my way!",
-    "Great! Chaz, get these over to me in...what do the French say? Oh, that's right: PRONTO!",
-    "Great work! And delivery in less than 30 minutes or it's free right? Great! I'm in Omaha!",
-    "I can smell these through the phone! Or maybe I'm smelling something else - OH NO! MY TOAST!",
-    "These are wonderful! Deliver them to me now now now! NOW!!!!"
+"Chaz m'a envoyé une photo ! Elles sont superbes ! Viens les livrer à ma bouche !", 
+"Wow ! Quelle belle... désolé, plus fort ? UNE BELLE BOÎTE DE BISCUITS !", 
+"J'appuie sur \"2\" pour applaudir ! Envoyez-moi ces friandises !", 
+"Super ! Chaz, apporte-moi ça dans... que disent les Français ? Oh, c'est vrai : PRONTO !", 
+"Super travail ! Et livraison en moins de 30 minutes ou c'est gratuit non ? Super ! Je suis à Omaha !", 
+"Je peux les sentir à travers le téléphone ! Ou peut-être que je sens autre chose - OH NON ! MON TOAST !", 
+"Ceux-ci sont merveilleux ! Livrez-les-moi maintenant maintenant ! MAINTENANT !!!!"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "IF YOU CAN HEAR ME, I want some cookies that say:",
-    "I want cookies that say....sorry, can you hear me? COOKIES THAT SAY:",
-    "If anyone's at the other end of this call, can you send me cookies with this vibe?",
-    "I've placed an order via this birdbrain here for cookies that say this:",
-    "Give me your best shot at delivering cookies with this vibe:",
-    "Sorry, did I lose you? Before I drop out, make me cookies like this:",
-    "I'm gonna tell Chaz here to tell YOU to make me cookies that say THIS:",
-    "I want cookies? HELLO?? CAN YOU HEAR? I WANT COOKIES THAT SAY:",
-    "Make me some cookies then fly them my way! Something that says this:"
+    "SI VOUS M'ENTENDEZ, je veux des cookies qui disent :", 
+"Je veux des cookies qui disent... désolé, tu m'entends ? Des cookies qui disent :", 
+"Si quelqu'un est à l'autre bout du fil, pouvez-vous m'envoyer des cookies avec cette ambiance ?", 
+"J'ai passé une commande via ce cerveau d'oiseau ici pour des cookies qui disent ceci :", 
+"Donnez-moi votre meilleure chance de livrer des cookies avec cette ambiance :", 
+"Désolé, je t'ai perdu ? Avant d'abandonner, fais-moi des cookies comme celui-ci :", 
+"Je vais dire à Chaz de VOUS dire de me faire des cookies qui disent CECI :", 
+"Je veux des cookies ? BONJOUR ?? ENTENDEZ-VOUS ? JE VEUX DES COOKIES QUI DIT :", 
+"Faites-moi des cookies puis faites-les voler vers moi ! Quelque chose qui dit ceci :"
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -825,25 +824,25 @@
   },
   {
    "barksIntro": [
-    "A duel’s a-brewin’ at the saloon and I’m fixin’ to de-escalate it with cookies!",
-    "Every lawman worth his salt knows the best way to keep the peace: with some sugar!",
-    "Two rules I live by: keep your aim steady, and a baked good at the ready!"
+"Un duel se prépare au saloon et je suis en train de le désamorcer avec des cookies!", 
+"Tout homme de loi digne de ce nom connaît la meilleure façon de maintenir la paix : avec du sucre !", 
+"Deux règles que je respecte : gardez votre objectif stable et une pâtisserie à portée de main !"
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "Ain’t good. Ain’t bad neither. Just fine, I reckon.",
-    "This is middle of the road. Which is a good place for yer horse! Thank ye!"
+"Ce n'est pas bon. Ce n'est pas mal non plus. Très bien, je pense.", 
+"C'est au milieu de la route. C'est un bon endroit pour votre cheval ! Merci !"
    ],
    "barksPositive": [
-    "Much obliged! I’m smilin’ like I just learned what teeth are!",
-    "Well, I’ll be darned. I’m as pleased as pigs in a puddle! Yeehaw!",
-    "This biscuit tastes like being kicked in the head by a horse. Which I LOVE."
+"Bien obligé ! Je souris comme si je venais d'apprendre ce que sont les dents !", 
+"Eh bien, je vais être damné. Je suis aussi content que des cochons dans une flaque d'eau ! Ouais !", 
+"Ce biscuit a le goût d'être frappé à la tête par un cheval. Ce que j'ADORE."
    ],
    "barksReceived": [],
    "barksSetup": [
-    "This here hat holds twenty gallons. Fill ‘er up with cookies! Cookies like this:",
-    "I’m a-hankerin’ something fierce for a biscuit. Get me a treat with this feeling:",
-    "Steady hand on the draw now. I’m fiendin’ for a cookie like this:"
+"Ce chapeau ici contient vingt gallons. Remplissez-le de cookies ! Des cookies comme celui-ci :", 
+"J'ai envie de quelque chose de féroce pour un biscuit. Offrez-moi une friandise avec ce sentiment :", 
+« Maintenant, la main sur le tirage au sort. Je suis fan d'un cookie comme celui-ci : »
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -851,23 +850,22 @@
    "key": "Sheriff",
    "name": "Sheriff Cooks",
    "redrawBarksIntro": [
-    "I've returned, cookie mercantilers! Ain’t you all a sight for sore eyes!",
-    "Hello again! Ruffians always return to the scene of the crime. ‘Spose I’m guilty of the same!",
-    "Howdy, again! You ready to get back in the saddle?"
+"Je suis de retour, marchands de cookies ! Vous n'êtes pas tous un spectacle pour les yeux endoloris !", 
+"Bonjour encore ! Les voyous reviennent toujours sur les lieux du crime. "Je suppose que je suis coupable de la même chose !", 
+"Bonjour, encore une fois ! Prêt à vous remettre en selle ?"
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "Not much changes ‘round these parts. Same goes for yer cookies, I ‘spose!",
-    "I wouldn’t feed this to my horse! And she ain’t a discernin’ steed!"
+"Pas beaucoup de changements dans ces régions. Il en va de même pour vos cookies, je suppose!", 
+"Je ne donnerais pas ça à mon cheval ! Et ce n'est pas un destrier perspicace !"
    ],
    "redrawBarksPositive": [
-    "Ooo-wee, mighty fine work! We may just make a deputy out of you yet.",
-    "Barkeep, get me a thimble of the dairy! Cookies THIS good need a pardner!"
+"Ooo-wee, très bon travail ! Nous pourrions peut-être faire de toi un adjoint.", 
+"Barman, donne-moi un dé à coudre de produits laitiers ! Des cookies TELLEMENT bons ont besoin d'un partenaire !"
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "I’m huntin’ for a new version of this cookie. Maybe add a little jangle like this:",
-    "I want you to DRAW....on these cookies! Re-do 'em, with a little bit 'o' this flavor:"
+"Je suis à la recherche d'une nouvelle version de ce cookie. Ajoutez peut-être un petit jangle comme celui-ci :", "Je veux que vous DESSINEZ... sur ces cookies ! Refaites-les, avec un petit 'o' cette saveur :"
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
@@ -876,29 +874,29 @@
   },
   {
    "barksIntro": [
-    "Well, well, well. This place is still open...for now.",
-    "Get your gloveless hands out of my sight! Then return with gloves...and cookies!",
-    "Inspection time! Remember, employees MUST disinfect surfaces before spitting in my dough.",
-    "You’re not wearing hair nets? Didn’t realize dead skin cells were part of your sprinkle selection!"
+    "Eh bien, eh bien. Cet endroit est toujours ouvert... pour l'instant.", 
+"Sortez de ma vue vos mains sans gants ! Alors revenez avec des gants... et des biscuits !", 
+"C'est l'heure de l'inspection ! N'oubliez pas que les employés DOIVENT désinfecter les surfaces avant de cracher dans ma pâte.", 
+"Vous ne portez pas de filets à cheveux ? Vous ne saviez pas que les cellules mortes de la peau faisaient partie de votre sélection de décorations !"
    ],
    "barksNegative": [
-    "What in the salmon-hell-a is this?!"
+    "Qu'est-ce que c'est que ça, bordel de saumon ?!"
    ],
    "barksNeutral": [
-    "Hmph. I guess there’s nothing TECHNICALLY wrong with this. Aside from mediocrity.",
-    "I like this less having seen the facility where it was made. But thank you anyway.",
-    "Well, it’s not a health code violation...just an artistic one."
+    "Hmph. Je suppose qu'il n'y a rien de mal TECHNIQUEMENT à cela. A part la médiocrité.", 
+"J'aime moins ça après avoir vu l'installation où il a été fabriqué. Mais merci quand même.", 
+"Eh bien, ce n'est pas une violation du code de la santé... juste une violation artistique."
    ],
    "barksPositive": [
-    "This is tasty-looking, AND by-the-book...ing. Good work!",
-    "This cookie has a perfect \"flavor-to-rule-following\" ratio. Good day!",
-    "I love it JUST enough to forget what I saw in the dishwashing area. Ta-ta!"
+    "C'est savoureux, ET conforme aux règles. Bon travail !", 
+"Ce cookie a un rapport "saveur/respect des règles" parfait. Bonne journée !", 
+"Je l'aime JUSTE assez pour oublier ce que j'ai vu dans la zone de la vaisselle. Ta-ta !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "Alright, germ peddlers, here’s what I want. A cookie just like this:",
-    "I’ll have an item like this, as long as it is baked, fully cooled, and properly stored:",
-    "Make me a cookie so I can do a....flavor inspection...yes. Something like this:"
+    "Très bien, vendeurs de germes, voici ce que je veux. Un cookie comme celui-ci :", 
+"J'aurai un article comme celui-ci, à condition qu'il soit cuit, complètement refroidi et correctement conservé :", 
+« Faites-moi un cookie pour que je puisse faire une… inspection de saveur… oui. Quelque chose comme ceci : »
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -906,24 +904,24 @@
    "key": "Inspector",
    "name": "Health Inspector",
    "redrawBarksIntro": [
-    "I’m back! Did you miss me? (I’m talking to your countertop bacteria.)",
-    "Back for a second inspection! I had to make sure this wasn't just a nightmare I had.",
-    "I'm back, and I'm off the clock! Oh, who am I kidding? I can’t stop inspecting. It's who I am!"
+    "Je suis de retour ! Je t'ai manqué ? (Je parle à vos bactéries de comptoir.)", 
+"De retour pour une deuxième inspection ! Je devais m'assurer que ce n'était pas juste un cauchemar que j'avais fait.", 
+"Je suis de retour et je n'ai plus de temps ! Oh, de qui je me moque ? Je ne peux pas m'arrêter d'inspecter. C'est qui je suis !"
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "Eh, I’ve seen worse. Oh...the unclean things I’ve seen....",
-    "I can’t cite you for this...but I wish I could.",
-    "This is a Creative Violation! I’m out getting my reddest pen for this!"
+"Eh, j'ai vu pire. Oh... les choses impures que j'ai vues...", 
+"Je ne peux pas vous citer pour ça... mais j'aimerais pouvoir le faire.", 
+"Il s'agit d'une violation créative ! Je vais chercher mon stylo le plus rouge pour ça !"
    ],
    "redrawBarksPositive": [
-    "Forgive my overwhelming praise, but this cookie is up to code. Goodbye!",
-    "Beautiful! You should frame this and display it in an area clearly visible to the consumer."
+    "Pardonnez mes éloges écrasants, mais ce cookie est conforme au code. Au revoir !", 
+"Magnifique ! Vous devez l'encadrer et l'afficher dans une zone clairement visible pour le consommateur."
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "I need you to address these violations! Take your old cookies, and fix them like this:",
-    "Upon closer inspection, I have notes. Give me the same cookies, but with this improvement:"
+    "J'ai besoin que vous résolviez ces violations ! Prenez vos anciens cookies et corrigez-les comme ceci :", 
+"En y regardant de plus près, j'ai des notes. Donnez-moi les mêmes cookies, mais avec cette amélioration :"
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
@@ -932,26 +930,26 @@
   },
   {
    "barksIntro": [
-    "We must normalize leaving mid-surgery to get a little treat! Self-care is SO important!",
-    "Do you ever walk into a room and completely forget whose organs you’re holding?",
-    "House call! Do you have somewhere I could put this pancreas?"
+    "Nous devons normaliser les sorties en cours d'opération pour avoir une petite gâterie ! Prendre soin de soi est TELLEMENT important !", 
+"Est-ce qu'il vous est déjà arrivé d'entrer dans une pièce et d'oublier complètement quels organes vous tenez ?", 
+" Visite à domicile ! Avez-vous un endroit où je pourrais mettre ce pancréas ? "
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "There’s no easy way to say this…so I won’t! This cookie is perfectly healthy!",
-    "We have a saying in surgeon school: the important thing is that you had fun!",
-    "It's just ok, but don’t worry! For me, every surgery is a learning experience <3"
+    "Il n'y a pas de moyen facile de dire ça... donc je ne le ferai pas ! Ce cookie est parfaitement sain !", 
+"On a un dicton à l'école de chirurgie : l'important c'est que tu t'amuses !", 
+"C'est juste ok, mais ne t'inquiète pas ! Pour moi, chaque opération est un apprentissage <3"
    ],
    "barksPositive": [
-    "Cut me open and you’ll find a heart that LOVES this cookie! And blood, I think!",
-    "Time to go inform the family…that this cookie is DE-LISH!",
-    "Nurse, turn off that anesthesia! The patient HAS to taste this! Good job!"
+    "Ouvrez-moi et vous trouverez un cœur qui ADORE ce cookie ! Et du sang, je pense !", 
+"Il est temps d'aller informer la famille… que ce cookie est DÉ-LISH!", 
+"Infirmière, éteignez cette anesthésie ! Le patient DOIT goûter à ça ! Bon travail !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "I need 300ccs of a cookie like this, STAT:",
-    "I’m sure the patient won’t miss this IV bag! Fill it up with cookies like this:",
-    "Let me just take this liver out of the cooler...so you can fill it up with these cookies:"
+    "J'ai besoin de 300 cc d'un cookie comme celui-ci, STAT :", 
+"Je suis sûr que le patient ne manquera pas cette poche à perfusion ! Remplissez-la de biscuits comme celui-ci :", 
+"Laissez-moi juste sortir ce foie de la glacière... pour que vous puissiez le remplir avec ces cookies :"
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -959,23 +957,23 @@
    "key": "Doctor",
    "name": "Doctor Bawdypartz",
    "redrawBarksIntro": [
-    "I’m BACK! Did you know most people have TWO kidneys? Wow! Who knew?",
-    "Hellooo again! This time I’m POSITIVE the patient is asleep. Werk!"
+    "Je suis de RETOUR ! Saviez-vous que la plupart des gens ont DEUX reins ? Wow ! Qui savait ?", 
+"Bonjour encore ! Cette fois, je suis POSITIF, le patient dort. Werk !"
    ],
    "redrawBarksNegative": [
-    "Oh, yuck! I think I need to put this cookie in someone else’s stomach!"
+    "Oh, beurk ! Je pense que je dois mettre ce cookie dans le ventre de quelqu'un d'autre !"
    ],
    "redrawBarksNeutral": [
-    "Nurse, how do I tell someone their cookie is just OK? Also, which one is the heart again?",
-    "It’s just OK, and that’s OK! Not every organ is essential, some are just for funsies!"
+    "Infirmière, comment puis-je dire à quelqu'un que son cookie est OK ? Et lequel est déjà le cœur ?", 
+"C'est juste OK, et c'est OK ! Tous les organes ne sont pas essentiels, certains sont juste pour s'amuser !"
    ],
    "redrawBarksPositive": [
-    "You did it! And without misplacing anyone’s spleen?! Tell me your secret!",
-    "My diagnosis: scurvy! Wait, no. Diagnosis: delicious! Someone ELSE has scurvy."
+    "Tu l'as fait ! Et sans égarer personne ?! Dis-moi ton secret !", 
+"Mon diagnostic : le scorbut ! Attendez, non. Diagnostic : délicieux ! Quelqu'un d'autre a le scorbut."
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "In surgery, we call this a mulligan! I want you to redo these cookies, but like this:"
+    "En chirurgie, on appelle ça un mulligan ! Je veux que tu refasses ces cookies, mais comme ça :"
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
@@ -984,25 +982,25 @@
   },
   {
    "barksIntro": [
-    "Yes, we know we're not fooling anyone with this getup. We're just in it for the love of the game!",
-    "Quick question: if 3 people pretended to be one person, would you be mad at ALL of them or just the one on top?",
-    "Good day, fellow tall people! Isn't it a great day to be an adult????"
+    "Oui, nous savons que nous ne trompons personne avec cette tenue. Nous sommes juste là pour l'amour du jeu !", 
+"Question rapide : si 3 personnes prétendaient être une seule personne, seriez-vous en colère contre TOUS ou juste contre celle du dessus ?", 
+"Bonne journée, mes amis de grande taille ! N'est-ce pas un bon jour pour être adulte ????"
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "These are fine! Now, don't be alarmed as I hand these down my jacket to my...stomach.",
-    "Hmm. Not sure about these. We may need to get three more just in case. A baker's quarter dozen!"
+    "C'est très bien ! Maintenant, ne vous inquiétez pas pendant que je les passe de ma veste à mon... ventre.",
+    "Hmm. Je n'en suis pas sûr. Nous devrons peut-être en acheter trois de plus au cas où. Un quart de douzaine de boulanger !"
    ],
    "barksPositive": [
-    "We love these so much, we almost fell off of each other's shoulders! Three thumbs up!",
-    "Wow! I've gotta tell my brother - who is ALSO just one tall guy - about these cookies!",
-    "These are amazing! For payment, can I interest you in a lightly-used trench coat?"
+    "Nous les aimons tellement que nous sommes presque tombés les uns des autres ! Bravo !", 
+"Wow ! Je dois parler de ces cookies à mon frère - qui n'est AUSSI qu'un grand gars - !", 
+"C'est incroyable ! Contre paiement, puis-je vous intéresser à un trench-coat légèrement usé ?"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "I'd like three cookies for my SINGLE, SOLO mouth. Something with this energy:",
-    "Just in case I get super hungry later, could I have three cookies like this?",
-    "Why don't you sling me a surplus of cookies...perhaps three? Like this:"
+ "Je voudrais trois cookies pour ma bouche SIMPLE, SOLO. Quelque chose avec cette énergie :", 
+"Juste au cas où j'aurais très faim plus tard, pourrais-je avoir trois cookies comme celui-ci ?", 
+"Pourquoi ne m'envoies-tu pas un surplus de cookies... peut-être trois ? Comme ceci :"
    ],
    "colors": "DEFAULT",
    "cookieTypes": "THREE",
@@ -1034,25 +1032,25 @@
   },
   {
    "barksIntro": [
-    "Howdy, sweetheart! Was just walkin’ by and was drawn in by your musky odor.",
-    "Well, hello there, cutie. You're a real treat for the eyes. Can I also have a treat for my mouth?",
-    "The only red things I tolerate are my own red flags! I'm difficult in relationships!"
+"Salut, chérie ! Je passais juste par là et j'ai été attiré par ton odeur musquée.", 
+"Eh bien, bonjour, ma mignonne. Tu es un vrai régal pour les yeux. Puis-je aussi avoir un régal pour ma bouche ?", 
+"Les seules choses rouges que je tolère sont mes propres signaux d'alarme ! Je suis difficile dans les relations !"
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "Eh, these are just okay. But you're so cute when you think you're doing good!",
-    "Need to consult with my guys on this one. Our group chat is called \"The Running of the Bros!\""
+    "Eh, ça va. Mais tu es si mignon quand tu penses que tu fais le bien!", 
+" Je dois consulter mes gars à ce sujet. Notre discussion de groupe s'appelle « The Running of the Bros ! » "
    ],
    "barksPositive": [
-    "Wow! These are better than flipping a rodeo clown over the fence! Five stars!",
-    "These delight me. I should grace you with my off-putting presence more often!",
-    "I torea-DORE these! I've gotta tell the whole rodeo about 'em!"
+"Wow ! C'est mieux que de renverser un clown de rodéo par-dessus la clôture ! Cinq étoiles !", 
+"Ceux-ci me ravissent. Je devrais vous honorer plus souvent de ma présence rebutante !", 
+"Je les ai torea-DORE ! Je dois en parler à tout le rodéo !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "Here’s a cookie idea that really moooooooves me. Something like this:",
-    "Here's what I want, no bull! Ha-ha! Anyway, I'd like this cookie vibe:",
-    "Why don't you get those sweet cheeks in that kitchen and make me this cookie:"
+"Voici une idée de cookie qui m'a vraiment moooooooore. Quelque chose comme ça :", 
+"Voici ce que je veux, pas de taureau ! Ha-ha ! Quoi qu'il en soit, j'aimerais cette ambiance cookie :", 
+"Pourquoi ne mets-tu pas ces douces joues dans cette cuisine et ne me prépares-tu pas ce cookie : "
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -1060,23 +1058,23 @@
    "key": "Bull",
    "name": "Bill Bullman",
    "redrawBarksIntro": [
-    "I'm back! Just wanted to give you a chance to admire my pecs again. Taut, aren't they?",
-    "The bull's back again! I thought I'd give you another chance to treat me right, sugar lips!",
-    "Howdy again! I'm on break from the china shop I work at. Business is really bad for some reason!"
+    "Je suis de retour ! Je voulais juste vous donner une chance d'admirer à nouveau mes pectoraux. Tendus, n'est-ce pas ?", 
+"Le taureau est de retour ! J'ai pensé que je te donnerais une autre chance de bien me traiter, lèvres sucrées !", 
+"Bonjour encore ! Je suis en pause du magasin de porcelaine où je travaille. Les affaires vont vraiment mal pour une raison quelconque !"
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "Could be better. Maybe I should get your number so we can keep workshopping, sweetheart!",
-    "This is aggressively fine. Like me!! Ciao for now!"
+"Ça pourrait être mieux. Peut-être que je devrais obtenir ton numéro pour que nous puissions continuer à travailler, ma chérie !", 
+"C'est très bien. Comme moi !! Ciao pour l'instant !"
    ],
    "redrawBarksPositive": [
-    "Looks like I \"steered\" you in the right direction! You're welcome, and thank you!",
-    "Great work! See what you can accomplish when you put my mind to something?"
+"On dirait que je vous ai \"orienté\" dans la bonne direction ! De rien et merci !", 
+« Excellent travail ! Voyez-vous ce que vous pouvez accomplir lorsque vous me donnez envie de faire quelque chose ? »
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "Don't get \"emotional,\" but I want you to redo some cookies with this in mind:",
-    "Get that pretty little head in the game and re-do these cookies, adding this:"
+"Ne soyez pas "émotif", mais je veux que vous refaites quelques cookies en gardant ceci à l'esprit :", 
+"Mettez cette jolie petite tête dans le jeu et refaites ces cookies, en ajoutant ceci :"
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",
@@ -1085,26 +1083,26 @@
   },
   {
    "barksIntro": [
-    "Hey! Hi! I need some help getting out of fight or flight mode!! Maybe a cookie will do it??",
-    "Hi! I’ve been thinking about all my past mistakes all day and now I’d like some sugar!",
-    "Hi!!! I need cookies AND your wi-fi password to look up my medical symptoms!"
+"Hé ! Salut ! J'ai besoin d'aide pour sortir du mode combat ou vol ! Peut-être qu'un cookie fera l'affaire ??", 
+"Salut ! J'ai pensé toute la journée à toutes mes erreurs passées et maintenant j'aimerais du sucre !", 
+"Salut !!! J'ai besoin de cookies ET de votre mot de passe Wi-Fi pour rechercher mes symptômes médicaux !"
    ],
    "barksNegative": [],
    "barksNeutral": [
-    "As my therapist says after every session: “Well, you tried.”",
-    "I’m conflict avoidant, but this was underwhelming. Sorry!!!",
-    "I...I felt nothing from this. And not in a good, meditation-y way."
+"Comme le dit mon thérapeute après chaque séance : "Eh bien, vous avez essayé."", 
+"J'évite les conflits, mais c'était décevant. Désolé !!!", 
+"Je... je n'ai rien ressenti de tout ça. Et pas d'une bonne manière, celle d'une méditation."
    ],
    "barksPositive": [
-    "Whoa, this cookie is a like a deep, relaxing breath! At least, I assume it is!",
-    "Beautifully decorated and stimulates my vagus neve. I love it!",
-    "Well done! I would eat a dozen of these under my weighted blanket!"
+"Whoa, ce cookie est comme une respiration profonde et relaxante ! Du moins, je suppose que c'est le cas !", 
+"Joliment décoré et stimule mon nerf vague. J'adore ça!", 
+"Bien joué ! J'en mangerais une douzaine sous ma couverture lestée !"
    ],
    "barksReceived": [],
    "barksSetup": [
-    "I’ve thought about this far too long and would like a cookie with THIS in mind:",
-    "Ahhhhhhhhh! Okay. Ahhhhh! Okay! Just make me this kind of cookie:",
-    "I...uh...well...um...uh...just...make me this!"
+"J'y ai réfléchi beaucoup trop longtemps et j'aimerais un cookie avec CELA à l'esprit :", 
+"Ahhhhhhhhh ! D'accord. Ahhhhh ! D'accord ! Fais-moi juste ce genre de cookie :", 
+"Je... euh... eh bien... euh... euh... juste... fais-moi ça !"
    ],
    "colors": "DEFAULT",
    "cookieTypes": "DEFAULT",
@@ -1112,22 +1110,22 @@
    "key": "NervousNellie",
    "name": "Nervous Nellie",
    "redrawBarksIntro": [
-    "Hi again! I’ve been replaying our previous interaction over and over in my head. Let’s try it again!",
-    "I’m back! Your lack of customers is great for my claustrophobia!"
+"Bonjour ! J'ai rejoué notre interaction précédente encore et encore dans ma tête. Essayons à nouveau !", 
+"Je suis de retour ! Votre manque de clients est excellent pour ma claustrophobie !"
    ],
    "redrawBarksNegative": [],
    "redrawBarksNeutral": [
-    "Oh no! This cookie is triggering my phobia of mediocrity! Ahhhhh!",
-    "This cookie is like what I say when I’m on an airplane: \"It’s okay. It’s okay. It’s okay.\""
+    "Oh non ! Ce cookie déclenche ma phobie de la médiocrité ! Ahhhhh !", 
+"Ce cookie ressemble à ce que je dis lorsque je suis dans un avion : \"C'est bon. C'est bon. C'est bon.\""
    ],
    "redrawBarksPositive": [
-    "This is a great cookie and this is the longest conversation I’ve ever had! What a day!"
+    "C'est un excellent cookie et c'est la conversation la plus longue que j'ai jamais eue ! Quelle journée !"
    ],
    "redrawBarksReceived": [],
    "redrawBarksSetup": [
-    "Um...please take this cookie you made, and self-actualize it in this way:",
-    "Please shower some self-care on this cookie! Re-do it like this:",
-    "I’ll do my breathing exercises, you work on this cookie! Try something like this:"
+    "Euh... s'il vous plaît, prenez ce cookie que vous avez créé et réalisez-le de cette manière :", 
+"S'il vous plaît, prenez soin de vous avec ce cookie ! Refaites-le comme ceci :", 
+"Je vais faire mes exercices de respiration, vous travaillez sur ce cookie ! Essayez quelque chose comme ceci :"
    ],
    "shapes": "DEFAULT",
    "sprinkleTypes": "DEFAULT",

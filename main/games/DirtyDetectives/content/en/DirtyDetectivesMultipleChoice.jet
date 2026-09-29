@@ -1140,9 +1140,9 @@
    "familiarity": "FRIENDS",
    "id": "107319",
    "interrogations": [
-    "If you did shoplift, what did you steal?",
-    "Is shoplifting ethical?",
-    "If you saw someone else shoplifting, would you report them?"
+"Si vous avez volé à l'étalage, qu'avez-vous volé ?", 
+"Le vol à l'étalage est-il éthique ?", 
+" Si vous voyiez quelqu'un d'autre voler à l'étalage, le signaleriez-vous ? "
    ],
    "question": "Avez-vous déjà volé à l'étalage ?",
    "reminder": "Vol à l'étalage",
@@ -1172,8 +1172,8 @@
    "familiarity": "FRIENDS",
    "id": "107336",
    "interrogations": [
-    "How was your last flight?",
-    "Do you prefer leg room or a view?"
+"Comment s'est passé ton dernier vol ?", 
+" Préférez-vous de l'espace pour les jambes ou une vue ?"
    ],
    "question": "Quelle est votre place préférée dans un avion ?",
    "reminder": "Sièges d'avion",
@@ -1208,8 +1208,8 @@
    "familiarity": "STRANGERS",
    "id": "107340",
    "interrogations": [
-    "What’s the juiciest bit of tea you’ve heard lately?",
-    "What’s the most scandalous thing a friend of yours has done?"
+"Quel est le thé le plus juteux que vous ayez entendu récemment ?", 
+"Quelle est la chose la plus scandaleuse qu'un de vos amis ait faite ?"
    ],
    "question": "Vous aimez les ragots ?",
    "reminder": "Fan de ragots ?",
@@ -1251,8 +1251,8 @@
    "familiarity": "FRIENDS",
    "id": "107355",
    "interrogations": [
-    "Where do you shop for pajamas?",
-    "What feels comfier: Cotton, satin, or nudity?"
+"Où achetez-vous des pyjamas ?", 
+"Qu'est-ce qui semble le plus confortable : le coton, le satin ou la nudité ?"
    ],
    "question": "Quel type de vêtements aimez-vous porter pour dormir ?",
    "reminder": "Vêtements de nuit",
@@ -1287,8 +1287,8 @@
    "familiarity": "STRANGERS",
    "id": "107359",
    "interrogations": [
-    "Did you ever do gymnastics?",
-    "How’s your sense of balance?"
+"As-tu déjà fait de la gymnastique ?", 
+"Comment est ton sens de l'équilibre ?"
    ],
    "question": "Pouvez-vous faire la roue ?",
    "reminder": "Roue ?",
@@ -1316,9 +1316,9 @@
    "familiarity": "STRANGERS",
    "id": "107364",
    "interrogations": [
-    "How much do you bench?",
-    "Describe the inside of a gym, if you can.",
-    "What comes to mind when you think “fitness”?"
+"À combien s'élève votre banc ?", 
+"Décrivez l'intérieur d'une salle de sport, si vous le pouvez.", 
+" Qu'est-ce qui vous vient à l'esprit lorsque vous pensez « fitness » ? "
    ],
    "question": "Vous... soulevez des poids ?",
    "reminder": "Soulever des poids",
@@ -1353,9 +1353,9 @@
    "familiarity": "FRIENDS",
    "id": "107367",
    "interrogations": [
-    "Do you think of yourself as a “considerate” person?",
-    "Are you in a rush when you shop?",
-    "Are you the type of person who doesn’t mind getting their steps in?"
+"Vous considérez-vous comme une personne « attentionnée » ?", 
+"Êtes-vous pressé lorsque vous faites vos courses ?", 
+"Êtes-vous le genre de personne qui n'hésite pas à faire ses premiers pas ?"
    ],
    "question": "Que faites-vous du caddie lorsque vous avez terminé vos courses ?",
    "reminder": "Caddies"
@@ -1422,9 +1422,9 @@
    "familiarity": "FRIENDS",
    "id": "107574",
    "interrogations": [
-    "Where did you learn your best skill?",
-    "Walk us through how to perform your best skill.",
-    "What’s involved in mastering a skill?"
+"Où avez-vous appris votre meilleure compétence ?", 
+"Expliquez-nous comment mettre en œuvre vos meilleures compétences.", 
+"Qu'est-ce qu'implique la maîtrise d'une compétence ?"
    ],
    "question": "Parmi les compétences suivantes, laquelle maîtrisez-vous le mieux ?",
    "reminder": "Compétences"
@@ -1453,9 +1453,9 @@
    "familiarity": "FRIENDS",
    "id": "107600",
    "interrogations": [
-    "Do you proofread emails and texts before sending?",
-    "Was English a strong school subject for you?",
-    "Can you spell “rhododendron” for us, out loud, right now?"
+" Relisez-vous les emails et les SMS avant de les envoyer ? ", 
+"L'anglais était-il une matière scolaire forte pour vous ?", 
+" Peux-tu nous épeler « rhododendron » à voix haute, maintenant ? "
    ],
    "question": "Quel est l'écriture correcte du mot ?",
    "reminder": "Mon oiseau favori",
@@ -1510,9 +1510,9 @@
    "familiarity": "FRIENDS",
    "id": "107932",
    "interrogations": [
-    "What do you think about the Coyote / Road Runner dynamic?",
-    "Between Wile E. Coyote and the Road Runner, who’s the villain?",
-    "Between the Road Runner and Wile E. Coyote, who do you most identify with?"
+"Que pensez-vous de la dynamique Coyote/Road Runner ?", 
+"Entre Wile E. Coyote et Road Runner, qui est le méchant ?", 
+"Entre Road Runner et Wile E. Coyote, à qui vous identifiez-vous le plus ?"
    ],
    "question": "Entre Bip Bip et Coyote, qui soutenez-vous ?",
    "reminder": "Coyote vs. Bip Bip",
@@ -1590,8 +1590,8 @@
    "familiarity": "STRANGERS",
    "id": "107953",
    "interrogations": [
-    "What’s your biggest texting pet peeve?",
-    "How many unread texts do you have right now?"
+"Quelle est votre plus grande bête noire en matière d'envoi de SMS ?", 
+"Combien de textes non lus avez-vous en ce moment ?"
    ],
    "question": "Vous avez envoyé un message à quelqu'un mais il ne vous a pas répondu. Qu'est ce que vous faites ?",
    "reminder": "Pas de réponse au texto",
@@ -1621,8 +1621,8 @@
    "familiarity": "FRIENDS",
    "id": "108002",
    "interrogations": [
-    "Define defenestrate.",
-    "What feeling do you get when people use overly-precise words?"
+"Définir défenestrer.", 
+" Quel sentiment ressentez-vous lorsque les gens utilisent des mots trop précis ? "
    ],
    "question": "Que veut dire le mot \"défenestrer\" ?",
    "reminder": "Définir défenestrer",
@@ -1685,9 +1685,9 @@
    "familiarity": "FRIENDS",
    "id": "108041",
    "interrogations": [
-    "How do you feel about the rise of A.I.?",
-    "Do you think there are aliens out there?",
-    "Are you climate-conscious?"
+"Que pensez-vous de l'essor de l'IA ?", 
+"Pensez-vous qu'il y a des extraterrestres là-bas ?", 
+"Etes-vous soucieux du climat ?"
    ],
    "question": "Comment l'humanité va-t-elle disparaître ?",
    "reminder": "Appocalypse",
@@ -1737,8 +1737,8 @@
    "familiarity": "FRIENDS",
    "id": "108042",
    "interrogations": [
-    "Do you do a lot of traveling?",
-    "How do usually get to the airport?"
+"Vous voyagez beaucoup ?", 
+"Comment arrive-t-on habituellement à l'aéroport ?"
    ],
    "question": "À quelle heure arrivez-vous à l'aéroport avant un vol ?",
    "reminder": "ARRIVÉE À L'AÉROPORT",
@@ -1803,8 +1803,8 @@
    "familiarity": "FRIENDS",
    "id": "108143",
    "interrogations": [
-    "Someone or something annoy you recently?",
-    "Do you get joy from disliking things?"
+"Quelqu'un ou quelque chose vous a ennuyé récemment ?", 
+" Est-ce que vous ressentez de la joie à ne pas aimer les choses ? » pas aimer les choses ? "
    ],
    "question": "Êtes-vous haineux ?",
    "reminder": "Hater?",
@@ -2125,8 +2125,8 @@
    "familiarity": "STRANGERS",
    "id": "108435",
    "interrogations": [
-    "Are you in the market for a new best friend?",
-    "Are you in a lot of wedding parties?"
+"Êtes-vous à la recherche d'un nouveau meilleur ami ?", 
+" Participez-vous à de nombreuses fêtes de mariage ?"
    ],
    "question": "Combien de meilleurs amis avez-vous ?",
    "reminder": "Meilleurs Amis",
@@ -2161,9 +2161,9 @@
    "familiarity": "FRIENDS",
    "id": "108440",
    "interrogations": [
-    "Are you aware of what conditions run in your family?",
-    "How much do you know about your great great grandparents?",
-    "So, you more of an AncestryDNA person or a 23andMe kind of person?"
+"Etes-vous conscient des conditions qui règnent dans votre famille ?", 
+"Que savez-vous de vos arrière-arrière-grands-parents ?", 
+"Alors, vous êtes plutôt du genre AncestryDNA ou du genre 23andMe ?"
    ],
    "question": "Avez-vous déjà fait un test ADN par correspondance ?",
    "reminder": "TEST ADN",
@@ -2198,9 +2198,9 @@
    "familiarity": "FRIENDS",
    "id": "108447",
    "interrogations": [
-    "Are you friends with any of your exes?",
-    "Would you be cool with your spouse having lunch with an ex?",
-    "Have any of your relationships ended amicably?"
+"Es-tu ami avec l'un de tes ex ?", 
+" Seriez-vous cool que votre conjoint déjeune avec un ex ? ", 
+" Est-ce que l'une de vos relations s'est terminée à l'amiable ?"
    ],
    "question": "Pensez-vous que les ex peuvent être amis ?",
    "reminder": "Ex Amis",
@@ -2243,8 +2243,8 @@
    "familiarity": "STRANGERS",
    "id": "108450",
    "interrogations": [
-    "Can you open your phone to sound settings?",
-    "What’s your number real quick? Gonna give you a call."
+"Pouvez-vous ouvrir votre téléphone pour accéder aux paramètres sonores ?", 
+"Quel est ton numéro très vite ? Je vais t'appeler."
    ],
    "question": "Sur quel mode gardez-vous votre téléphone ?",
    "reminder": "Phone Settings",
@@ -2320,8 +2320,8 @@
    "familiarity": "FRIENDS",
    "id": "108751",
    "interrogations": [
-    "If you're not envious of it, what DO you feel about it?",
-    "Did you know you can be covetous of something you already have? Speak on that!"
+"Si vous n'en êtes pas envieux, qu'en ressentez-vous ?", 
+"Saviez-vous que vous pouvez convoiter quelque chose que vous possédez déjà ? Parlez-en !"
    ],
    "question": "De quoi êtes-vous jaloux(se) ?",
    "reminder": "Jaloux(se) ?"
@@ -2355,8 +2355,8 @@
    "familiarity": "STRANGERS",
    "id": "108759",
    "interrogations": [
-    "Let’s talk cola preferences.",
-    "Is it a flavor thing for you? Or just a preference?"
+"Parlons des préférences en matière de cola.", 
+"Est-ce une question de saveur pour vous ? Ou juste une préférence ?"référence ?"
    ],
    "question": "Un Pepsi, ça vous va ?",
    "reminder": "Pepsi"
@@ -2382,8 +2382,8 @@
    "familiarity": "FRIENDS",
    "id": "108772",
    "interrogations": [
-    "Were you surprised when you learned how much some of these things cost?",
-    "What's the best bet in the long run?"
+"Avez-vous été surpris lorsque vous avez appris combien coûtent certaines de ces choses ?", 
+"Quel est le meilleur pari à long terme ?"
    ],
    "question": "Si vous pouviez obtenir l'un de ces articles à moitié prix, pour toujours, lequel choisiriez-vous ?",
    "reminder": "Articles à moitié prix",
@@ -2410,8 +2410,8 @@
    "familiarity": "FRIENDS",
    "id": "108773",
    "interrogations": [
-    "So, who do you tend to respect?",
-    "Do politicians seem like a good hang to you?"
+"Alors, qui as-tu tendance à respecter ?", 
+" Les politiciens vous semblent-ils être une bonne idée ? "
    ],
    "question": "Parmi ces personnalités publiques, avec qui vous entendriez-vous le mieux ?",
    "reminder": "Personnalité Publique",
@@ -2447,9 +2447,9 @@
    "familiarity": "FRIENDS",
    "id": "108782",
    "interrogations": [
-    "Where's someplace you never want to go if you can help it?",
-    "How would you take revenge on a large institution?",
-    "What’s the last big institution you had unkind thoughts about?"
+"Où est un endroit où tu ne veux jamais aller si tu peux l'aider ?", 
+"Comment vengeriez-vous une grande institution ?", 
+"Quelle est la dernière grande institution à propos de laquelle vous avez eu des pensées négatives ?"
    ],
    "question": "Avec laquelle des institutions suivantes avez-vous un problème personnel ?",
    "reminder": "Un problème avec...",
@@ -2475,8 +2475,8 @@
    "familiarity": "FRIENDS",
    "id": "108794",
    "interrogations": [
-    "How much hotel TV do you watch on vacation?",
-    "Do you plan your vacations around restaurants?"
+"Combien de temps regardez-vous la télévision à l'hôtel en vacances ?", 
+"Planifiez-vous vos vacances autour des restaurants ?"
    ],
    "question": "Pourquoi partez-vous en vacances ?",
    "reminder": "Raison des Vacances",
@@ -2505,8 +2505,8 @@
    "familiarity": "FRIENDS",
    "id": "108828",
    "interrogations": [
-    "What does this place have that needs to be thrown out every night?",
-    "Would their garbage be particularly sloppy?"
+"Qu'est-ce qu'il y a dans cet endroit qui doit être jeté tous les soirs ?", 
+"Est-ce que leurs poubelles seraient particulièrement bâclées ?"
    ],
    "question": "Quel fast-food aurait les meilleurs déchets dans leur poubelle ?",
    "reminder": "Meilleurs Déchets",
@@ -2541,9 +2541,9 @@
    "familiarity": "FRIENDS",
    "id": "108832",
    "interrogations": [
-    "Isn’t the movie about MAKING CHRISTMAS?",
-    "Isn’t the movie about the people of HALLOWEENtown?",
-    "What time of year is the right time to watch [i]Nightmare Before Christmas[/i]?"
+"Le film ne parle-t-il pas de FAIRE NOËL ?", 
+"Le film ne parle-t-il pas des habitants d'HALLOWEENtown ?", 
+"Quelle période de l'année est le bon moment pour regarder [i]L'Étrange Noël de Monsieur Jack[/i] ?"
    ],
    "question": "Est ce que [i]L'étrange Noël de Monsieur Jack[/i] est un film de Noël ou un film d'Halloween ?",
    "reminder": "Monsieur Jack",
@@ -2568,9 +2568,9 @@
    "familiarity": "FRIENDS",
    "id": "108833",
    "interrogations": [
-    "If a forest had to be cut down, what would you hate to see built over it the most?",
-    "Describe your most-hated building.",
-    "What makes a building beautiful to you?"
+"Si une forêt devait être abattue, qu'est-ce que vous détesteriez le plus voir construit dessus ?", 
+"Décrivez votre bâtiment le plus détesté.", 
+" Qu'est-ce qui rend un bâtiment beau à vos yeux ? "
    ],
    "question": "Quels batiments trouvez-vous le plus laid ?",
    "reminder": "Batiments Laids",
@@ -2612,8 +2612,8 @@
    "familiarity": "FRIENDS",
    "id": "108834",
    "interrogations": [
-    "Do you find talking with strangers interesting or annoying?",
-    "When you have a conversation with your driver, who usually started it?"
+"Trouvez-vous que parler avec des inconnus est intéressant ou ennuyeux ?", 
+"Lorsque vous avez une conversation avec votre chauffeur, qui la commençait habituellement ?"
    ],
    "question": "Est ce que vous aimez quand le conducteur de votre taxi vous parle beaucoup ?",
    "reminder": "Conducteur Bavard",
@@ -2638,8 +2638,8 @@
    "familiarity": "FRIENDS",
    "id": "108835",
    "interrogations": [
-    "You look in the mirror, and what do you see?",
-    "Does introspection make you uncomfortable?"
+"Vous vous regardez dans le miroir et que voyez-vous ?", 
+"Est-ce que l'introspection vous met mal à l'aise ?"
    ],
    "question": "Quelle est votre meilleure caractéristique ?",
    "reminder": "MEILLEURE CARACTERISTIQUE",
@@ -2670,8 +2670,8 @@
    "familiarity": "STRANGERS",
    "id": "108838",
    "interrogations": [
-    "Walk us through your restaurant arrival process.",
-    "What do you say to people who arrive late at a restaurant?"
+"Expliquez-nous tout au long du processus d'arrivée de votre restaurant.", 
+"Que dites-vous aux gens qui arrivent en retard au restaurant ?"
    ],
    "question": "Vous arrivez aux soirées entre amis...",
    "reminder": "Soirées entre Amis",
@@ -2707,7 +2707,7 @@
    "familiarity": "STRANGERS",
    "id": "108842",
    "interrogations": [
-    "What is Scandoval, or what do you think it is?"
+"Qu'est-ce que Scandoval, ou qu'est-ce que tu penses que c'est ?"
    ],
    "question": "Est ce que l'affaire Dreyfus vous dit quelque chose ?",
    "reminder": "Dreyfus ?",
@@ -2750,9 +2750,9 @@
    "familiarity": "FRIENDS",
    "id": "108848",
    "interrogations": [
-    "When did you enjoy your last goofy drink?",
-    "What’s your go-to drink order?",
-    "Are you a fun person?"
+"Quand as-tu pris ton dernier verre loufoque ?", 
+"Quelle est votre commande de boissons préférées ?", 
+"Es-tu une personne amusante ?"
    ],
    "question": "Quand il s'agit de boissons loufoques avec des parasols, des garnitures et tout le tralala :",
    "reminder": "Boissons Amusantes",
@@ -2808,8 +2808,8 @@
    "familiarity": "STRANGERS",
    "id": "108862",
    "interrogations": [
-    "What’s something you can confidently say is your best trait?",
-    "Would you be honest with a new date right away?"
+"Quelle est la chose dont vous pouvez dire avec certitude qu'elle est votre meilleur trait ?", 
+" Seriez-vous honnête avec un nouveau rendez-vous tout de suite ?"
    ],
    "question": "Si vous pouviez choisir qu'un seul mot pour vous décrire lors d'un rendez-vous à l'aveugle, lequel serait-ce ?",
    "reminder": "Décris moi",
@@ -2859,9 +2859,9 @@
    "familiarity": "STRANGERS",
    "id": "108902",
    "interrogations": [
-    "Have I ever told you how talented you are?",
-    "How would you rate your self-confidence?",
-    "You have stunning eyes, by the way...."
+"Est-ce que je t'ai déjà dit à quel point tu étais talentueux ?", 
+"Comment évalueriez-vous votre confiance en vous ?", 
+"Au fait, tu as des yeux magnifiques..."
    ],
    "question": "Quelqu'un vous complimente. Comment réagissez-vous ?",
    "reminder": "Se faire complimenter",
@@ -2889,8 +2889,8 @@
    "familiarity": "FRIENDS",
    "id": "109027",
    "interrogations": [
-    "Do you look at your notifications during movies?",
-    "Do you do most of your talking to friends through sites/apps?"
+"Regardez-vous vos notifications pendant les films ?", 
+" Parlez-vous principalement à vos amis via des sites/applications ? "
    ],
    "question": "Vrai ou Faux : “Les réseaux sociaux ont amélioré ma vie.”",
    "reminder": "Réseaux Sociaux",
@@ -2925,9 +2925,9 @@
    "familiarity": "STRANGERS",
    "id": "109041",
    "interrogations": [
-    "Let’s see some photos you’ve taken of other people.",
-    "What’s the trick to getting a good photo of someone?",
-    "Take a photo of me right now."
+"Voyons quelques photos que vous avez prises d'autres personnes.", 
+"Quelle est l'astuce pour prendre une bonne photo de quelqu'un ?", 
+"Prends une photo de moi maintenant."
    ],
    "question": "Une personne s'avance et vous demande de la prendre en photo. Que faites-vous ?",
    "reminder": "Photo Inconnue"
@@ -2968,9 +2968,9 @@
    "familiarity": "FRIENDS",
    "id": "109044",
    "interrogations": [
-    "What kind of animals did you see outside your house growing up?",
-    "Do you take camping or hiking trips?",
-    "Know any rich weirdos with exotic animals?"
+"Quel genre d'animaux avez-vous vu à l'extérieur de votre maison en grandissant ?", 
+"Faites-vous du camping ou des randonnées ?", 
+" Connaissez-vous des riches cinglés avec des animaux exotiques ? "
    ],
    "question": "Avez-vous déjà vu une chèvre en dehors d'un zoo ?",
    "reminder": "Chèvre",
@@ -3025,8 +3025,8 @@
    "familiarity": "STRANGERS",
    "id": "109255",
    "interrogations": [
-    "Why’d you send it back? Are you picky or was there seriously something wrong with it?",
-    "Are allergies involved?"
+"Pourquoi l'avez-vous renvoyé ? Êtes-vous pointilleux ou y avait-il quelque chose qui n'allait vraiment pas ?", 
+"Est-ce que des allergies sont impliquées?"
    ],
    "question": "Avez-vous déjà renvoyé de la nourriture en cuisine dans un restaurant ?",
    "reminder": "Renvoyé de la Nourriture ?",
@@ -3075,8 +3075,8 @@
    "familiarity": "FRIENDS",
    "id": "109256",
    "interrogations": [
-    "So, you think you’re above the wizard question? Where’s your sense of whimsy?",
-    "Walk me through your order of operations re: T-boning a magic man."
+"Alors, tu penses que tu es au-dessus de la question du sorcier ? Où est ton sens de la fantaisie ?", 
+" Expliquez-moi votre ordre d'opérations concernant : désosser un homme magique. "
    ],
    "question": "Vous renversez un sorcier avec votre voiture. Que faites-vous ?",
    "reminder": "ACCIDENT DE SORCIER",
@@ -3118,8 +3118,8 @@
    "familiarity": "STRANGERS",
    "id": "109271",
    "interrogations": [
-    "How many school friends do you have in your phone?",
-    "Would you say you were you popular in high school?"
+"Combien d'amis d'école avez-vous dans votre téléphone ?", 
+" Diriez-vous que vous étiez populaire au lycée ? "
    ],
    "question": "Avec combien d'amis d'école êtes-vous toujours en contact ?",
    "reminder": "Amis d'école",
@@ -3148,8 +3148,8 @@
    "familiarity": "FRIENDS",
    "id": "109273",
    "interrogations": [
-    "How do you feel about romantic cloning?",
-    "Do you think you’re a good kisser?"
+"Que pensez-vous du clonage romantique ?", 
+"Penses-tu que tu embrasses bien ?"
    ],
    "question": "Si vous pouviez vous embrasser vous-même, le feriez-vous ?",
    "reminder": "S'Embrasser Soi-Même",
@@ -3178,9 +3178,9 @@
    "familiarity": "FRIENDS",
    "id": "109285",
    "interrogations": [
-    "Please, describe the downward dog pose for us.",
-    "What are your feelings on yoga in general?",
-    "Does the pose actually resemble a dog? Discuss."
+"S'il vous plaît, décrivez-nous la pose du chien vers le bas.", 
+"Quels sont vos sentiments sur le yoga en général ?", 
+"Est-ce que la pose ressemble réellement à un chien ? Discutez-en."
    ],
    "question": "Savez-vous comment faire la pose du « chien tête en bas » en yoga ?",
    "reminder": "Chien Tête en Bas ?",
@@ -3223,8 +3223,8 @@
    "familiarity": "STRANGERS",
    "id": "109286",
    "interrogations": [
-    "Were you a good student?",
-    "What did you get in detention for?"
+"Tu étais un bon élève ?", 
+"Pourquoi avez-vous été en retenue ?"
    ],
    "question": "Avez-vous déjà eu des colles ou des TIG à l'école ?",
    "reminder": "Colles ou TIG ?",
@@ -3259,8 +3259,8 @@
    "familiarity": "FRIENDS",
    "id": "109287",
    "interrogations": [
-    "Please, tell us why this is or isn’t littering.",
-    "How fast do you think the peel is going to decompose?"
+"S'il vous plaît, dites-nous pourquoi cela jette ou non des déchets.", 
+" À quelle vitesse pensez-vous que la peau va se décomposer ?"
    ],
    "question": "Vous voudriez vous débarrasser d'une pelure de banane mais il n'y a pas de poubelle. Ca vous va si vous la jetez par terre ?",
    "reminder": "Pelure de Banane",
@@ -3290,8 +3290,8 @@
    "familiarity": "FRIENDS",
    "id": "109319",
    "interrogations": [
-    "Do you have to deal with number crunching for work or school?",
-    "What’s 13 x 7?"
+"Devez-vous faire face à des calculs pour le travail ou l'école ?", 
+"Qu'est-ce que 13 x 7 ?"
    ],
    "question": "C'est quoi la réponse à 13x8 ?",
    "reminder": "13 x 8",
@@ -3340,9 +3340,9 @@
    "familiarity": "FRIENDS",
    "id": "109322",
    "interrogations": [
-    "What did you ask the psychic?",
-    "Did the psychic make an accurate prediction?",
-    "Do you think all psychics are quacks?"
+"Qu'as-tu demandé au médium ?", 
+"Le médium a-t-il fait une prédiction précise ?", 
+"Pensez-vous que tous les médiums sont des charlatans ?"
    ],
    "question": "Avez-vous déjà consulté un voyant ?",
    "reminder": "Consulté un voyant ?",
@@ -3377,9 +3377,9 @@
    "familiarity": "STRANGERS",
    "id": "109324",
    "interrogations": [
-    "If you were losing this game right now, how would that feel?",
-    "Did you play sports growing up?",
-    "Have you ever been called a sore loser?"
+"Si vous perdiez ce match maintenant, qu'est-ce que vous ressentiriez ?", 
+"Avez-vous fait du sport en grandissant ?", 
+"Avez-vous déjà été traité de mauvais perdant?"
    ],
    "question": "Êtes-vous compétitif ?",
    "reminder": "Compétitif ?",
@@ -3442,9 +3442,9 @@
    "familiarity": "FRIENDS",
    "id": "109438",
    "interrogations": [
-    "Do you watch any of the [i]Real Housewives[/i] shows?",
-    "Would you call yourself a gamer?",
-    "I know I can see what you’re wearing, but do you care about fashion at all?"
+"Regardez-vous l'une des émissions [i]Real Housewives[/i] ?", 
+"Vous qualifieriez-vous de joueur ?", 
+"Je sais que je peux voir ce que tu portes, mais est-ce que tu te soucies de la mode ?"
    ],
    "question": "Si l'un de ces musées était réel, dans lequel passeriez-vous le meilleur moment ?",
    "reminder": "Nouveaux musées !"
@@ -3473,8 +3473,8 @@
    "familiarity": "FRIENDS",
    "id": "109445",
    "interrogations": [
-    "Did you post something today?",
-    "Can you think of a post you deeply regret?"
+"Avez-vous posté quelque chose aujourd'hui ?", 
+" Pouvez-vous penser à un message que vous regrettez profondément ? "
    ],
    "question": "Comment vous sentiriez-vous en regardant de vieux posts sur les réseaux sociaux que vous avez faits il y a plusieurs années ?",
    "reminder": "Anciens Posts",
@@ -3504,9 +3504,9 @@
    "familiarity": "FRIENDS",
    "id": "109638",
    "interrogations": [
-    "Have you ever had to fix a car?",
-    "Do you have an older vehicle or a newer model?",
-    "Can you name 5 parts under the hood of a car?"
+"Avez-vous déjà eu à réparer une voiture ?", 
+"Avez-vous un véhicule plus ancien ou un modèle plus récent ?", 
+"Pouvez-vous nommer 5 pièces sous le capot d'une voiture ?"
    ],
    "question": "À quoi sert le carburateur d'une voiture ?",
    "reminder": "Carburateur ?",
@@ -3541,9 +3541,9 @@
    "familiarity": "FRIENDS",
    "id": "109642",
    "interrogations": [
-    "Are you crafty?",
-    "Do you prefer to get things done yourself?",
-    "In general, would you rather just pay someone else to do it?"
+"Es-tu malin ?", 
+"Préférez-vous faire les choses vous-même ?", 
+" En général, préféreriez-vous simplement payer quelqu'un d'autre pour le faire ?"
    ],
    "question": "Vous devez monter un meuble imposant acheté en kit. Que faites-vous ?",
    "reminder": "Monter un meuble",
@@ -3578,8 +3578,8 @@
    "familiarity": "FRIENDS",
    "id": "109659",
    "interrogations": [
-    "What’s wrong with your hologram being a musician?",
-    "Do you think holograms are cool, or concerning?"
+"Qu'est-ce qui ne va pas avec ton hologramme en tant que musicien ?", 
+" Pensez-vous que les hologrammes sont cool ou inquiétants ? "
    ],
    "question": "Après votre mort, des personnes veulent utiliser votre image pour des hologrammes, des deepfakes et des choses de ce genre. Accepteriez-vous ?",
    "reminder": "Hologramme de l'après-vie ?"
@@ -3620,8 +3620,8 @@
    "familiarity": "STRANGERS",
    "id": "109662",
    "interrogations": [
-    "What if I told you people like you are the reason shampoo bottles have directions on them?",
-    "Does it take a lot to make you cry?"
+"Et si je vous disais que les gens comme vous sont la raison pour laquelle les bouteilles de shampoing portent des instructions ?", 
+"Est-ce qu'il en faut beaucoup pour te faire pleurer ?"
    ],
    "question": "Comment prenez-vous une blague sur vous ?",
    "reminder": "Blague à vos dépens ?",
@@ -3651,8 +3651,8 @@
    "familiarity": "FRIENDS",
    "id": "109699",
    "interrogations": [
-    "What are you like when you’re too much?",
-    "Would you say you’re “too much,” “extra,” or “a lot”?"
+"Comment es-tu quand tu es trop?", 
+" Diriez-vous que vous en faites « trop », « en trop » ou « beaucoup » ?"
    ],
    "question": "À quelle fréquence diriez-vous que vous en faites “trop” ?",
    "reminder": "Trop ?",
@@ -3687,8 +3687,8 @@
    "familiarity": "STRANGERS",
    "id": "109702",
    "interrogations": [
-    "Do you charm customer service people?",
-    "Are you good at meeting a partner’s parents?"
+"Est-ce que vous charmez les gens du service client ?", 
+"Êtes-vous doué pour rencontrer les parents d'un partenaire ?"
    ],
    "question": "Êtes-vous un beau parleur ?",
    "reminder": "Beau Parleur ?",
@@ -3730,9 +3730,9 @@
    "familiarity": "FRIENDS",
    "id": "109704",
    "interrogations": [
-    "When was your last shot? How did it go?",
-    "Are you scared of getting shots?",
-    "Do you know how to give yourself a shot?"
+"Quand a eu lieu ton dernier tir ? Comment ça s'est passé ?", 
+"As-tu peur de te faire vacciner ?", 
+"Savez-vous comment tenter votre chance ?"
    ],
    "question": "C'est l'heure de votre vaccin contre la grippe ! Comment réagissez-vous habituellement lorsque vous recevez une injection ?",
    "reminder": "Vaccin contre la grippe",
@@ -3755,9 +3755,9 @@
    "familiarity": "FRIENDS",
    "id": "109705",
    "interrogations": [
-    "Do you ever look up symptoms online?",
-    "Do you always assume the worst about health stuff?",
-    "How are you feeling right now?"
+"Est-ce qu'il vous arrive de rechercher des symptômes en ligne ?", 
+"Pensez-vous toujours au pire en matière de santé ?", 
+"Comment te sens-tu en ce moment ?"
    ],
    "question": "Êtes-vous un hypochondriaque ?",
    "reminder": "Hypochondriaque ?"
@@ -3798,9 +3798,9 @@
    "familiarity": "FRIENDS",
    "id": "109715",
    "interrogations": [
-    "What makes you an expert in Leonardo DiCaprio’s buoyancy?",
-    "If you love someone, is it okay to let them drown?",
-    "How many floating doors have [i]you[/i] been on?"
+"Qu'est-ce qui fait de vous un expert de la flottabilité de Leonardo DiCaprio ?", 
+"Si tu aimes quelqu'un, est-ce que tu peux le laisser se noyer ?", 
+"Sur combien de portes flottantes avez-vous visité ?"
    ],
    "question": "A la fin de [i]Titanic[/i] quand Rose est sur la porte flottante, y avait-il assez de place pour Jack ?",
    "reminder": "Porte de Titanic ?",
@@ -3842,9 +3842,9 @@
    "familiarity": "STRANGERS",
    "id": "109775",
    "interrogations": [
-    "If you [i]were[/i] going to cosplay, who would you be?",
-    "Do you find putting on costumes & pretending to be someone else “fun”?",
-    "What are your thoughts on wigs?"
+"Si tu allais faire du cosplay, qui serais-tu ?", 
+" Trouvez-vous « amusant » de se déguiser et de faire semblant d'être quelqu'un d'autre ? ", 
+"Que pensez-vous des perruques ?"
    ],
    "question": "Que pensez-vous du cosplay ?",
    "reminder": "Cosplay ?"
@@ -3871,8 +3871,8 @@
    "familiarity": "FRIENDS",
    "id": "109924",
    "interrogations": [
-    "Are you happy with your singing ability?",
-    "If you [i]did[/i] sing when alone, what song would it be?"
+"Etes-vous satisfait de votre capacité à chanter ?", 
+"Si vous [je] chantais[/je] quand vous étiez seul, quelle chanson ce serait ?"
    ],
    "question": "En étant seul, est-ce que vous vous mettez à chanter ?",
    "reminder": "Chant Privé ?",
@@ -3914,8 +3914,8 @@
    "familiarity": "FRIENDS",
    "id": "110041",
    "interrogations": [
-    "Who’s out there who doesn’t like you?",
-    "What’s it take for someone to become your nemesis?"
+"Qui ne t'aime pas ?", 
+"Que faut-il pour que quelqu'un devienne votre ennemi juré ?"
    ],
    "question": "Avez vous un \"némésis\"?",
    "reminder": "Némésis ?"
@@ -3949,8 +3949,8 @@
    "familiarity": "FRIENDS",
    "id": "110110",
    "interrogations": [
-    "What would make you scary?",
-    "Have you frightened people in the past?"
+"Qu'est-ce qui te ferait peur ?", 
+"Avez-vous effrayé les gens dans le passé ?"
    ],
    "question": "Est ce qu'il y a des gens qui ont peur de vous ?",
    "reminder": "Je fais peur ?"
@@ -3979,9 +3979,9 @@
    "familiarity": "FRIENDS",
    "id": "111857",
    "interrogations": [
-    "Ever worked at a nice restaurant?",
-    "Do you think of yourself as a ‘foodie’?",
-    "It’s okay to admit you don’t know Michelin star stuff. I didn’t know either!"
+"Avez-vous déjà travaillé dans un bon restaurant ?", 
+"Vous considérez-vous comme un "gourmand" ?", 
+"C'est normal d'admettre que vous ne connaissez pas les étoiles Michelin. Je ne le savais pas non plus !"
    ],
    "question": "Combien d'étoiles Michelin un restaurant peut-il obtenir au maximum ?",
    "reminder": "Etoiles Michelin ?",
@@ -4011,9 +4011,9 @@
    "familiarity": "FRIENDS",
    "id": "111858",
    "interrogations": [
-    "Were you a theater kid?",
-    "Do you think someone with theater knowledge would be good at lying?",
-    "Can you tell me what the different stage directions are?"
+"Es-tu un enfant de théâtre ?", 
+"Pensez-vous qu'une personne ayant des connaissances en théâtre serait douée pour mentir ?", 
+"Pouvez-vous me dire quelles sont les différentes mises en scène ?"
    ],
    "question": "Comment décririez-vous la partie de la scène d'un théâtre qui est la plus proche du public ?",
    "reminder": "Direction théatrale ?"
@@ -4056,9 +4056,9 @@
    "familiarity": "FRIENDS",
    "id": "111976",
    "interrogations": [
-    "You ever want to be the very best? Like no one ever was?",
-    "I mean, you know who Pikachu is at least, right?",
-    "What does the phrase \"grass type\" mean to you?"
+"Avez-vous toujours voulu être le meilleur ? Comme personne ne l'a jamais été ?", 
+"Je veux dire, tu sais au moins qui est Pikachu, n'est-ce pas ?", 
+" Que signifie pour vous l'expression « type d'herbe » ? "
    ],
    "question": "Lequel est un pokémon ?",
    "reminder": "Pokémon ?",
@@ -4095,8 +4095,8 @@
    "familiarity": "FRIENDS",
    "id": "111979",
    "interrogations": [
-    "Does the name Gerard Way mean anything to you?",
-    "Did you know emo kids in high school? Were YOU an emo kid?"
+"Est-ce que le nom de Gerard Way vous dit quelque chose ?", 
+"Connaissiez-vous les enfants emo au lycée ? Étiez-vous un enfant emo ?"
    ],
    "question": "Finissez les paroles : “Rue déserte, dernière cigarette, plus rien ne bouge...”",
    "reminder": "Fan du dancefloor ?",
@@ -4133,9 +4133,9 @@
    "familiarity": "FRIENDS",
    "id": "111980",
    "interrogations": [
-    "How familiar are you with the Star Wars prequels?",
-    "What colors do you think represent good and evil?",
-    "Does the name Sheev Palpatine mean anything to you?"
+"Connaissez-vous les préquelles de Star Wars ?", 
+"À votre avis, quelles couleurs représentent le bien et le mal ?", 
+" Est-ce que le nom Sheev Palpatine vous dit quelque chose ?"
    ],
    "question": "Quelle est la couleur du sabre laser de Mace Windu ?",
    "reminder": "Sabre Laser ?",
@@ -4163,9 +4163,9 @@
    "familiarity": "FRIENDS",
    "id": "111992",
    "interrogations": [
-    "Are you comfortable ordering people to do things for you?",
-    "If you were a tree, would that tree be high-maintenance?",
-    "What’s your reaction when told to “calm down”?"
+"Êtes-vous à l'aise d'ordonner aux gens de faire des choses pour vous ?", 
+"Si vous étiez un arbre, cet arbre nécessiterait-il beaucoup d'entretien ?", 
+" Quelle est votre réaction lorsqu’on vous dit de « vous calmer » ? "
    ],
    "question": "Êtes-vous exigeant ?",
    "reminder": "Exigeant ?"
@@ -4192,9 +4192,9 @@
    "familiarity": "FRIENDS",
    "id": "112110",
    "interrogations": [
-    "Do you enjoy the various fish breeds native to North America?",
-    "Have you ever been fishing? Do you like it?",
-    "Could you describe a trout for us right now?"
+"Aimez-vous les différentes races de poissons originaires d'Amérique du Nord ?", 
+"As-tu déjà pêché ? Est-ce que tu aimes ça ?", 
+"Pourriez-vous nous décrire une truite en ce moment ?"
    ],
    "question": "Où trouve-t-on généralement la truite ?",
    "reminder": "Truite !"
@@ -4235,9 +4235,9 @@
    "familiarity": "FRIENDS",
    "id": "112111",
    "interrogations": [
-    "Do you find half-pipe tricks interesting?",
-    "Let's say you know the \"B\" - what's your best guess on the other two letters?",
-    "Does the idea of a high-speed mountain trail appeal to you?"
+"Est-ce que vous trouvez les tricks de half-pipe intéressants ?", 
+"Disons que vous connaissez le "B" : quelle est votre meilleure estimation sur les deux autres lettres ?", 
+"L'idée d'un sentier de montagne à grande vitesse vous séduit ?"
    ],
    "question": "Que veut dire l'acronyme BMX ?",
    "reminder": "BMX !",
@@ -4286,9 +4286,9 @@
    "familiarity": "FRIENDS",
    "id": "112112",
    "interrogations": [
-    "Did you ever get into \"Drive to Survive\"?",
-    "Does the word \"Haas\" make you feel anything?",
-    "Do you even know what kind of cars they drive in F1?"
+"Avez-vous déjà participé à \"Drive to Survive\" ?", 
+"Est-ce que le mot "Haas" vous fait ressentir quelque chose ?", 
+"Savez-vous au moins quel genre de voitures ils conduisent en F1 ?"
    ],
    "question": "En cette année (2025), pour quelle écurie de Formule 1 Lewis Hamilton court-il ?",
    "reminder": "Formule 1 Fun",
@@ -4330,9 +4330,9 @@
    "familiarity": "FRIENDS",
    "id": "112115",
    "interrogations": [
-    "Are you a regular watcher of HGTV?",
-    "When you walk through a door, do you know basically how it works?",
-    "How are you with a hammer?"
+"Est-ce que vous regardez régulièrement HGTV ?", 
+"Quand vous franchissez une porte, savez-vous en gros comment ça marche ?", 
+"Comment vas-tu avec un marteau?"
    ],
    "question": "Dans la construction, qu'est-ce qu'un linteau ?",
    "reminder": "Mon beau linteau !",
@@ -4374,9 +4374,9 @@
    "familiarity": "FRIENDS",
    "id": "112117",
    "interrogations": [
-    "Does NaCl mean anything to you?",
-    "Do you know the difference between inorganic and organic compounds?",
-    "Did you take chemistry in school? If so, how did you do?"
+"NaCl, ça vous dit quelque chose ?", 
+"Connaissez-vous la différence entre les composés inorganiques et organiques ?", 
+"Avez-vous suivi des cours de chimie à l'école ? Si oui, comment avez-vous fait ?"
    ],
    "question": "Que signifie la formule chimique NH3 ?",
    "reminder": "NH3 ?",
@@ -4418,9 +4418,9 @@
    "familiarity": "FRIENDS",
    "id": "112118",
    "interrogations": [
-    "How are you with anatomy?",
-    "Have you done a survey of your bones recently?",
-    "Does the anvil and hammer mean anything to you?"
+"Comment vas-tu avec l'anatomie?", 
+"Avez-vous récemment fait un examen de vos os ?", 
+"Est-ce que l'enclume et le marteau vous disent quelque chose ?"
    ],
    "question": "Où sont vos osselets ?",
    "reminder": "Osselets",
@@ -4462,9 +4462,9 @@
    "familiarity": "STRANGERS",
    "id": "112290",
    "interrogations": [
-    "What are some best-case uses for AI?",
-    "Where do you stand on computers vs. people?",
-    "If I were AI, what would you say to me?"
+"Quelles sont les meilleures utilisations de l'IA ?", 
+"Où vous situez-vous par rapport aux ordinateurs par rapport aux humains ?", 
+"Si j'étais IA, que me dirais-tu ?"
    ],
    "question": "L'intelligence artificielle est...",
    "reminder": "IA ?"
@@ -4491,8 +4491,8 @@
    "familiarity": "FRIENDS",
    "id": "112580",
    "interrogations": [
-    "What would be your strategy to taking down an ostrich?",
-    "A year is a long time - what would you do to train for an ostrich fight?"
+"Quelle serait votre stratégie pour abattre une autruche ?", 
+"Un an, c'est long. Que feriez-vous pour vous entraîner à un combat d'autruches ?"
    ],
    "question": "Si vous aviez un an pour vous préparer, pourriez-vous gagner un combat contre une autruche ?",
    "reminder": "Combat d'autruche",
@@ -4527,9 +4527,9 @@
    "familiarity": "FRIENDS",
    "id": "112581",
    "interrogations": [
-    "Do you have any religious background that may influence your response?",
-    "Do you have relatives that have chosen to be cremated?",
-    "If you were cremated, where would you want your ashes scattered?"
+"Avez-vous des antécédents religieux qui pourraient influencer votre réponse ?", 
+"Avez-vous des proches qui ont choisi d'être incinérés ?", 
+"Si vous étiez incinéré, où voudriez-vous que vos cendres soient dispersées ?"
    ],
    "question": "Que pensez-vous de la crémation ?",
    "reminder": "Crémation ?",
@@ -4571,9 +4571,9 @@
    "familiarity": "FRIENDS",
    "id": "112585",
    "interrogations": [
-    "Is your opinion influenced by the concept of a soul?",
-    "Do you feel that you have a strong moral compass?",
-    "Which option do you WISH were true?"
+"Votre opinion est-elle influencée par le concept d'âme ?", 
+"Pensez-vous que vous disposez d'une solide boussole morale ?", 
+" Quelle option SOUHAITEZ-vous être vraie ? "
    ],
    "question": "Croyez-vous que les êtres humains sont naturellement bons ?",
    "reminder": "Humains : bons"
@@ -4607,9 +4607,9 @@
    "familiarity": "FRIENDS",
    "id": "112587",
    "interrogations": [
-    "Does nature calm you, or make you anxious?",
-    "Do you need to feel comfortable to feel like you're a part of something?",
-    "Has there been a time where you felt “primal” urges?"
+"Est-ce que la nature vous calme ou vous rend anxieux ?", 
+"Avez-vous besoin de vous sentir à l'aise pour avoir l'impression de faire partie de quelque chose ?", 
+" Y a-t-il eu un moment où vous avez ressenti des pulsions « primaires » ?"
    ],
    "question": "Quand vous êtes dans la nature, avez-vous l'impression d'en faire [i]partie[/i] ?",
    "reminder": "Dans la nature ?"
@@ -4650,9 +4650,9 @@
    "familiarity": "FRIENDS",
    "id": "112590",
    "interrogations": [
-    "Do you use external metrics to measure \"your best,\" or internal vibes?",
-    "Do you agree with the statement \"Anything worth doing is worth doing well?\"",
-    "What was the last thing you put 100% effort into?"
+"Utilisez-vous des métriques externes pour mesurer "votre meilleur" ou vos vibrations internes ?", 
+"Êtes-vous d'accord avec l'affirmation : « Tout ce qui vaut la peine d'être fait vaut la peine d'être bien fait ? ", 
+"Quelle a été la dernière chose dans laquelle vous avez consacré 100 % d'efforts ?"
    ],
    "question": "À quelle fréquence diriez-vous que vous faites de votre mieux ?",
    "reminder": "De votre mieux ?"
@@ -4674,8 +4674,8 @@
    "familiarity": "FRIENDS",
    "id": "112597",
    "interrogations": [
-    "What is your gut reaction when you see a Cybertruck out on the road?",
-    "What would you say the shape of a Cybertruck is?"
+"Quelle est votre réaction instinctive lorsque vous voyez un Cybertruck sur la route ?", 
+" Selon vous, quelle est la forme d'un Cybertruck ?"
    ],
    "question": "....Cybertrucks?",
    "reminder": "Cybertrucks?"
@@ -4716,9 +4716,9 @@
    "familiarity": "FRIENDS",
    "id": "112602",
    "interrogations": [
-    "How do you think the ghosts would DO the talking?",
-    "What would your first question to a ghost be?",
-    "If a ghost were listening right now, what would you ask it?"
+"Comment pensez-vous que les fantômes parleraient ?", 
+"Quelle serait votre première question à un fantôme ?", 
+"Si un fantôme écoutait en ce moment, que lui demanderais-tu ?"
    ],
    "question": "Si les humains pouvaient soudainement parler aux fantômes, que feriez-vous ?",
    "reminder": "Parler aux fantômes ?"
@@ -4752,9 +4752,9 @@
    "familiarity": "FRIENDS",
    "id": "112603",
    "interrogations": [
-    "How do you feel about the occasional personal Google search?",
-    "If you could bypass firewalls without anyone noticing, would you?",
-    "What kind of “personal” stuff are we talking about here?"
+"Que pensez-vous des recherches personnelles occasionnelles sur Google ?", 
+"Si vous pouviez contourner les pare-feu sans que personne ne le remarque, le feriez-vous ?", 
+" De quel genre de choses « personnelles » parlons-nous ici ?"
    ],
    "question": "Est ce que c'est ok d'utiliser un ordinateur de travail pour des choses personnelles ?",
    "reminder": "Ordinateurs de travail",
@@ -4778,8 +4778,8 @@
    "familiarity": "FRIENDS",
    "id": "112604",
    "interrogations": [
-    "Does speed of death factor into your decision?",
-    "What is an acceptable level of risky behavior to you?"
+"La vitesse de la mort est-elle un facteur dans votre décision ?", 
+" Quel est pour vous un niveau acceptable de comportement à risque ? "
    ],
    "question": "Quelle mort préférez-vous parmi les suivantes ?",
    "reminder": "Type de mort",
@@ -4828,9 +4828,9 @@
    "familiarity": "FRIENDS",
    "id": "112605",
    "interrogations": [
-    "What sort of situation makes you embarrassed?",
-    "What would be the reaction of the group you chose?",
-    "What would be the BEST group to be naked in front of?"
+"Quel genre de situation vous met dans l'embarras ?", 
+"Quelle serait la réaction du groupe que vous avez choisi ?", 
+"Quel serait le MEILLEUR groupe devant lequel être nue ?"
    ],
    "question": "Devant quel groupe serait-il le pire de se retrouver nu de manière inattendue ?",
    "reminder": "Nudité publique",
@@ -4879,8 +4879,8 @@
    "familiarity": "STRANGERS",
    "id": "112643",
    "interrogations": [
-    "What is your main feeling when you receive unexpected attention?",
-    "Do you ever feel like you're being observed?"
+"Quel est votre principal sentiment lorsque vous recevez une attention inattendue ?", 
+"Avez-vous parfois l'impression d'être observé ?"
    ],
    "question": "À quel point croyez-vous que les autres pensent à vous ?",
    "reminder": "Penser aux autres ?"
@@ -4935,8 +4935,8 @@
    "familiarity": "STRANGERS",
    "id": "112644",
    "interrogations": [
-    "Do you feel this way because of something an animal did, or didn't do?",
-    "Do you think certain animals can feel hatred right back?"
+"Ressentez-vous cela à cause de quelque chose qu'un animal a fait ou n'a pas fait ?", 
+"Pensez-vous que certains animaux peuvent ressentir de la haine en retour ?"
    ],
    "question": "Avez-vous déjà ressenti de la haine envers un animal en particulier ?",
    "reminder": "Haine animale ?"
@@ -4985,8 +4985,8 @@
    "familiarity": "STRANGERS",
    "id": "112645",
    "interrogations": [
-    "Do you know who your current representatives are?",
-    "Do you think you would vote my mail, or go to a polling place?"
+"Savez-vous qui sont vos représentants actuels ?", 
+"Pensez-vous que vous voteriez par correspondance ou que vous iriez dans un bureau de vote ?"
    ],
    "question": "Avez-vous voté aux dernières législatives ?",
    "reminder": "Législatives ?",
@@ -5014,9 +5014,9 @@
    "familiarity": "FRIENDS",
    "id": "112647",
    "interrogations": [
-    "If there’s an event you would change, is it small or big?",
-    "Do you believe everything happens for a reason?",
-    "What are your thoughts on the butterfly effect?"
+"S'il y a un événement que vous changeriez, est-ce petit ou grand ?", 
+"Croyez-vous que tout arrive pour une raison ?", 
+"Que pensez-vous de l'effet papillon ?"
    ],
    "question": "Si vous pouviez retourner dans le temps et changer des choses, le feriez-vous ?",
    "reminder": "Changement d'histoire ?"
@@ -5040,8 +5040,8 @@
    "familiarity": "FRIENDS",
    "id": "112649",
    "interrogations": [
-    "What's your overall emotional state today?",
-    "Is there room for improvement in your day at this point?"
+"Quel est votre état émotionnel général aujourd'hui ?", 
+" Y a-t-il place à amélioration dans votre journée à ce stade ? "
    ],
    "question": "Donc...ça va ?",
    "reminder": "CA VA ?",
@@ -5097,8 +5097,8 @@
    "familiarity": "STRANGERS",
    "id": "112712",
    "interrogations": [
-    "What are you using to play this game right now?",
-    "What’s important to you in a phone?"
+"Qu'est-ce que tu utilises pour jouer à ce jeu en ce moment ?", 
+"Qu'est-ce qui est important pour toi dans un téléphone ?"
    ],
    "question": "Quel téléphone possédez-vous ?",
    "reminder": "Type de téléphone"
@@ -5146,9 +5146,9 @@
    "familiarity": "STRANGERS",
    "id": "112714",
    "interrogations": [
-    "Tell me about your exes.",
-    "If we broke up right now, would you be cool about it?",
-    "When’s the last time you saw an ex?"
+"Parle-moi de tes ex.", 
+"Si nous rompions maintenant, serait-ce que ça te conviendrait ?", 
+"Quand as-tu vu un ex pour la dernière fois ?"
    ],
    "question": "Généralement, mes exs...",
    "reminder": "Exs ?"
@@ -5203,8 +5203,8 @@
    "familiarity": "STRANGERS",
    "id": "112715",
    "interrogations": [
-    "How ya doing buddy?",
-    "Did today start out one way, and ended a different way?"
+"Comment vas-tu mon pote?", 
+"Est-ce que la journée a commencé d'une manière et s'est terminée d'une manière différente ?"
    ],
    "question": "Alors ! Comment s'est passée votre journée ?",
    "reminder": "Aujourd'hui ?"
@@ -5238,8 +5238,8 @@
    "familiarity": "STRANGERS",
    "id": "112716",
    "interrogations": [
-    "Did you get the type of role you wanted in this game?",
-    "If you feel panicky during a game, do you like or dislike that feeling?"
+"Avez-vous obtenu le type de rôle que vous souhaitiez dans ce jeu ?", 
+"Si vous ressentez de la panique pendant un match, aimez-vous ou n'aimez-vous pas ce sentiment ?"
    ],
    "question": "En jouant à des jeux de déduction sociale (comme celui-ci), je préfère être...",
    "reminder": "Déduction sociale ?"
@@ -5272,9 +5272,9 @@
    "familiarity": "FRIENDS",
    "id": "112723",
    "interrogations": [
-    "If you HAD to attend a specialty camp, right now, which would it be?",
-    "Tell us about the summers of your youth.",
-    "What’s a great thing to learn at camp?"
+"Si vous DEVEZ participer à un camp spécialisé, maintenant, lequel serait-ce ?", 
+"Parlez-nous des étés de votre jeunesse.", 
+"Qu'est-ce qu'il y a de bien à apprendre au camp ?"
    ],
    "question": "Avez-vous déjà été à un stage (été ou autre) spécialisé dans l'un de ces domaines ?",
    "reminder": "Camp spécial ?"
@@ -5301,9 +5301,9 @@
    "familiarity": "FRIENDS",
    "id": "112724",
    "interrogations": [
-    "Tell me how Wall Street did today.",
-    "Can you tell me literally anything about the stock market?",
-    "Do you own any stock?"
+"Dites-moi comment Wall Street s'est comporté aujourd'hui.", 
+"Pouvez-vous me dire littéralement quelque chose sur le marché boursier ?", 
+"Possédez-vous des actions ?"
    ],
    "question": "Si on vous le demandait, pourriez-vous expliquer comment fonctionne le marché boursier ?",
    "reminder": "Marché boursier ?"
@@ -5332,9 +5332,9 @@
    "familiarity": "FRIENDS",
    "id": "112725",
    "interrogations": [
-    "How’s your handwriting?",
-    "Ever had a pen pal?",
-    "Do you own paper and pen? How often are they used?"
+"Comment est ton écriture ?", 
+"Avez-vous déjà eu un correspondant ?", 
+" Possédez-vous du papier et un stylo ? À quelle fréquence sont-ils utilisés ?"
    ],
    "question": "Combien de lettres (ou même cartes postales) avez-vous écrites au cours de l'année écoulée ?",
    "reminder": "Écriture de lettres"
@@ -5382,10 +5382,10 @@
    "familiarity": "STRANGERS",
    "id": "112729",
    "interrogations": [
-    "What do you talk about on the phone?",
-    "Do you have pre-planned ideas on how to end a call quickly?",
-    "What’s the longest phone call you’ve ever had?",
-    "When’s the last time you spoke on the phone?"
+"De quoi parles-tu au téléphone ?", 
+"Avez-vous des idées pré-planifiées sur la façon de mettre fin rapidement à un appel ?", 
+Quel est l'appel téléphonique le plus long que vous ayez jamais reçu ?", 
+" À quand remonte la dernière fois que vous avez parlé au téléphone ?"
    ],
    "question": "Combien de temps doit durer un appel téléphonique avec un bon ami ?",
    "reminder": "Durée d'appel ?"
@@ -5412,9 +5412,9 @@
    "familiarity": "STRANGERS",
    "id": "112730",
    "interrogations": [
-    "If you [i]were[/i] writing a book, what would it be about?",
-    "How do you feel about big projects?",
-    "Ever read a book and thought, [i]I could do better than this?[/i]"
+"Si vous [i]écririez[/i] un livre, de quoi parlerait-il ?", 
+"Que pensez-vous des grands projets ?", 
+"Avez-vous déjà lu un livre et pensé : [i]Je pourrais faire mieux que ça ?[/i]"
    ],
    "question": "En vous donnant assez de temps, pourriez-vous écrire un livre ?",
    "reminder": "Écrire un livre ?"
@@ -5441,9 +5441,9 @@
    "familiarity": "STRANGERS",
    "id": "112806",
    "interrogations": [
-    "How do you feel about exploring space?",
-    "In your mind, what are the aliens like?",
-    "If you DID leave Earth, what would you miss?"
+"Que pensez-vous de l'exploration de l'espace ?", 
+"Dans votre esprit, à quoi ressemblent les extraterrestres ?", 
+"Si vous quittiez la Terre, qu'est-ce qui vous manquerait ? "
    ],
    "question": "Les aliens arrivent et vous demandent de les rejoindre. Vous n'avez pas le temps de prévenir qui que ce soit. Y allez-vous ?",
    "reminder": "Partir avec les aliens ?",
@@ -5485,9 +5485,9 @@
    "familiarity": "STRANGERS",
    "id": "112900",
    "interrogations": [
-    "Share a memory of a great experience.",
-    "What makes a great experience for you?",
-    "You’ve got 8 free hours tomorrow, how are you spending it?"
+"Partagez le souvenir d'une belle expérience.", 
+"Qu'est-ce qui fait une expérience formidable pour vous ?", 
+"Vous avez 8 heures de libre demain, comment les dépensez-vous ?"
    ],
    "question": "Parmi ces expériences, laquelle aimeriez-vous le plus ?",
    "reminder": "Meilleure expérience"
@@ -5521,8 +5521,8 @@
    "familiarity": "FRIENDS",
    "id": "113059",
    "interrogations": [
-    "Is there anything you used to feel that you don't often feel anymore?",
-    "Does the act of maturing give you joy?"
+"Y a-t-il quelque chose que vous ressentiez et que vous ne ressentez plus souvent ?", 
+"Est-ce que le fait de mûrir vous procure de la joie ?"
    ],
    "question": "Êtes-vous nostalgique de la personne que vous étiez plus jeune ?",
    "reminder": "Nostalgie ?"
@@ -5570,9 +5570,9 @@
    "familiarity": "STRANGERS",
    "id": "113060",
    "interrogations": [
-    "Would you consider your comedy style to be behavioral? Verbal?",
-    "Are you typically the one trying to break the ice?",
-    "Do you think funniness is a matter of skill, or are people born with it?"
+"Considérez-vous que votre style de comédie est comportemental ? Verbal ?", 
+"Es-tu généralement celui qui essaie de briser la glace ?", 
+"Pensez-vous que la drôlerie est une question de compétence, ou est-ce que les gens naissent avec ça ?"
    ],
    "question": "Êtes-vous drôle ?",
    "reminder": "Drôle ?"
@@ -5606,9 +5606,9 @@
    "familiarity": "FRIENDS",
    "id": "113061",
    "interrogations": [
-    "Have you ever needed to buy clothes due to an emergency situation?",
-    "What's your favorite clothing brand at the moment?",
-    "What is your definition of fast fashion?"
+"Avez-vous déjà eu besoin d'acheter des vêtements en raison d'une situation d'urgence ?", 
+"Quelle est votre marque de vêtements préférée en ce moment ?", 
+"Quelle est votre définition de la fast fashion ?"
    ],
    "question": "Avec-vous déjà acheté quelque chose par effet de mode ?",
    "reminder": "Effet de mode"
@@ -5642,9 +5642,9 @@
    "familiarity": "FRIENDS",
    "id": "113064",
    "interrogations": [
-    "What would you say your base stomach comfort level is?",
-    "Do you get anxiety stomachaches?",
-    "How's your overall digestion?"
+"À votre avis, quel est votre niveau de base de confort gastrique ?", 
+"Avez-vous des maux de ventre liés à l'anxiété ?", 
+" Comment se passe votre digestion globale ? "
    ],
    "question": "Vous avez mal au ventre en ce moment ?",
    "reminder": "Estomac ? Douleurs ?",
@@ -5672,9 +5672,9 @@
    "familiarity": "FRIENDS",
    "id": "113143",
    "interrogations": [
-    "How likely are you to KEEP a secret once you hear it?",
-    "Do you like the feeling of people trusting you?",
-    "Has there been a secret you’ve refused to keep?"
+"Quelle est la probabilité que vous gardiez un secret une fois que vous l'entendez ?", 
+"Aimez-vous le sentiment que les gens vous font confiance ?", 
+"Y a-t-il un secret que vous avez refusé de garder ?"
    ],
    "question": "Est-ce que vous aimez qu'on vous confie de gros secrets ?",
    "reminder": "Gros secrets",
@@ -5699,9 +5699,9 @@
    "familiarity": "FRIENDS",
    "id": "113144",
    "interrogations": [
-    "Do you think the best years of your life are ahead of you?",
-    "Are you a nostalgic person?",
-    "How much do you worry about the future?"
+"Pensez-vous que les meilleures années de votre vie sont devant vous ?", 
+"Es-tu une personne nostalgique ?", 
+" À quel point vous inquiétez-vous pour l'avenir ?"
    ],
    "question": "Comment l'idée de vieillir vous fait-elle sentir ?",
    "reminder": "Vieillir ?"
@@ -5728,9 +5728,9 @@
    "familiarity": "STRANGERS",
    "id": "113145",
    "interrogations": [
-    "What about with an experienced buddy?",
-    "How are you with heights?",
-    "Do you like the feeling of an adrenaline rush?"
+"Et avec un copain expérimenté ?", 
+"Comment vas-tu avec les hauteurs ?", 
+"Aimez-vous la sensation d'une montée d'adrénaline ?"
    ],
    "question": "Vous voulez faire du parachutisme ?",
    "reminder": "Parachutisme !!!"
@@ -5757,9 +5757,9 @@
    "familiarity": "FRIENDS",
    "id": "113147",
    "interrogations": [
-    "What differences between bones would you look for?",
-    "Do you have any background in anatomy?",
-    "Are you enjoying this topic of discussion?"
+    "Quelles différences recherchez-vous entre les os ?",
+    "Avez-vous une formation en anatomie?",
+    "Aimez-vous ce sujet de discussion?"
    ],
    "question": "Si on vous montrait deux os de taille identique, pourriez-vous distinguer l'os humain de l'os animal ?",
    "reminder": "OS Humain ?"
@@ -5786,9 +5786,9 @@
    "familiarity": "FRIENDS",
    "id": "113150",
    "interrogations": [
-    "What's your cringe tolerance, overall?",
-    "Are you particularly spiritual?",
-    "Does your family drive you crazy sometimes?"
+    "Quelle est votre tolérance aux grincements de dents, en général ?",
+    "Etes-vous particulièrement spirituel ?",
+    "Est-ce que votre famille vous rend fou parfois ?"
    ],
    "question": "Laquelle de ces phrases embarrassantes correspond le mieux à votre philosophie de vie ?",
    "reminder": "Phrase murale embarrassante",
@@ -5824,8 +5824,8 @@
    "id": "113167",
    "interrogations": [
     "If you were wearing glitter, where would you put it?",
-    "Say this phrase out loud: “I don’t attend parties, I AM the party.”",
-    "When it comes to costumes, what’s your idea of “going all out”?"
+    "Dites cette phrase à voix haute : « Je ne vais pas aux fêtes, JE SUIS la fête.”",
+    "Quand il s’agit de costumes, quelle est votre idée de « tout mettre en œuvre » ??"
    ],
    "question": "Avez-vous déjà eu [i]ne serait-ce qu'un peu[/i] de paillettes sur vous ?",
    "reminder": "Paillettes sur le corps ?",
@@ -5860,9 +5860,9 @@
    "familiarity": "FRIENDS",
    "id": "113283",
    "interrogations": [
-    "Are you an early adopter with technology?",
-    "Imagine being in a self-driving car right now. How do you feel?",
-    "Who’s the better driver, people or computers?"
+    "Êtes-vous un adepte précoce de la technologie ?",
+    "Imaginez être dans une voiture autonome en ce moment. Comment vous sentez-vous?",
+    "Qui est le meilleur conducteur, les gens ou les ordinateurs ?"
    ],
    "question": "Que pensez-vous des voitures autonomes ?",
    "reminder": "VOITURE AUTONOME"
@@ -5903,9 +5903,9 @@
    "familiarity": "STRANGERS",
    "id": "113354",
    "interrogations": [
-    "Have you done an escape room? Talk about your experience.",
-    "What is good/bad about escape rooms?",
-    "Do you like working together to solve problems?"
+    "Avez-vous fait une escape room ? Parlez de votre expérience.",
+    "Qu'est-ce qui est bon/mauvais dans les salles d'évasion ?",
+    "Aimez-vous travailler ensemble pour résoudre des problèmes?"
    ],
    "question": "Que pensez-vous des escape rooms ?",
    "reminder": "ESCAPE ROOMS ?"
@@ -5932,9 +5932,9 @@
    "familiarity": "STRANGERS",
    "id": "113450",
    "interrogations": [
-    "If you did have a daily ritual, what would it be for?",
-    "How do you feel about doing the same thing over & over?",
-    "What does “holding space” mean for you?"
+    "Si vous aviez un rituel quotidien, à quoi servirait-il ?",
+    "Que pensez-vous de faire la même chose encore et encore ?",
+    "Que signifie pour vous « tenir un espace » ?"
    ],
    "question": "Est ce que vous êtes le genre de personne qui a de petits rituels quotidiens ?",
    "reminder": "RITUELS QUOTIDIENS"
@@ -5968,9 +5968,9 @@
    "familiarity": "STRANGERS",
    "id": "113516",
    "interrogations": [
-    "When’s the last time you got lost?",
-    "Can you usually find “due north”?",
-    "Do you rely on others to help you find stuff?"
+    "À quand remonte la dernière fois que vous vous êtes perdu ?",
+    "Pouvez-vous généralement trouver « plein nord » ?",
+    "Comptez-vous sur les autres pour vous aider à trouver des choses ?"
    ],
    "question": "Avez-vous le sens de l'orientation ?",
    "reminder": "Sens de l'Orientation"
@@ -6004,9 +6004,9 @@
    "familiarity": "FRIENDS",
    "id": "113665",
    "interrogations": [
-    "Have you ever been in a crisis?",
-    "Imagine a crisis happening right now. Walk us through your reaction.",
-    "How do you tend to react to disasters?"
+    "Avez-vous déjà été en crise ?",
+    "Imaginez qu'une crise se produise en ce moment. Faites-nous part de votre réaction.",
+    "Comment réagissez-vous généralement aux catastrophes ?"
    ],
    "question": "Comment pensez-vous que vous vous comporteriez en cas de crise ?",
    "reminder": "ROLE EN CRISE"
@@ -6040,9 +6040,9 @@
    "familiarity": "STRANGERS",
    "id": "113858",
    "interrogations": [
-    "Tell me about your approach to self-care.",
-    "When’s the last time you got a massage?",
-    "Is it easy or difficult for you to relax?"
+    "Parlez-moi de votre approche des soins personnels.",
+    "À quand remonte la dernière fois que vous avez reçu un massage ?",
+    "Est-ce facile ou difficile pour vous de vous détendre ?"
    ],
    "question": "Que pensez-vous des massages, des journées au spa, ce genre de choses ?",
    "reminder": "Massage et spa ?",
@@ -6069,9 +6069,9 @@
    "familiarity": "STRANGERS",
    "id": "114047",
    "interrogations": [
-    "Do you tend to eat the same things? Do you mix it up?",
-    "Fine dining or comfort food?",
-    "What would you pair with your chosen unlimited food?"
+    "Avez-vous tendance à manger les mêmes choses ? Est-ce que vous mélangez ?",
+    "Gastronomie ou cuisine réconfortante ?",
+    "Que combineriez-vous avec la nourriture illimitée que vous avez choisie ?"
    ],
    "question": "Vous pouvez en faire livrer un chez vous, gratuitement, pour le reste de votre vie. Lequel choisirez-vous ?",
    "reminder": "GRATUIT POUR LA VIE"
@@ -6119,9 +6119,9 @@
    "familiarity": "STRANGERS",
    "id": "114119",
    "interrogations": [
-    "Talk to us about what “shaking it up” looks like to you.",
-    "What in your life would you want to be totally different?",
-    "Are any of these choices something you’ve thought about before?"
+    "Parlez-nous de ce que signifie pour vous « faire bouger les choses ».",
+    "Qu’est-ce que tu aimerais être totalement différent dans ta vie ?",
+    "L’un de ces choix est-il quelque chose auquel vous avez déjà pensé ?"
    ],
    "question": "Lequel de ces changements de vie pourriez-vous annoncer et les gens diraient “Ouais, ça a du sens”?",
    "reminder": "CHANGEMENT DE VIE"
@@ -6183,9 +6183,9 @@
    "familiarity": "FRIENDS",
    "id": "114124",
    "interrogations": [
-    "Tell us about your nerd journey.",
-    "Have you always been the same type of nerd?",
-    "Does your nerd class involve collecting stuff?"
+    "Parlez-nous de votre parcours de nerd.",
+    "Avez-vous toujours été le même type de nerd ?",
+    "Votre cours de nerd implique-t-il de collectionner des objets ?"
    ],
    "question": "Quel geek êtes-vous ?",
    "reminder": "TYPE DE GEEK"
@@ -6219,9 +6219,9 @@
    "familiarity": "FRIENDS",
    "id": "114183",
    "interrogations": [
-    "Tell us about an amusement park trip.",
-    "What’s your favorite part of an amusement park?",
-    "Do you like intentionally scaring yourself?"
+    "Parlez-nous d'un voyage dans un parc d'attractions.",
+    "Quelle est votre partie préférée d’un parc d’attractions ?",
+    "Aimez-vous vous faire peur intentionnellement ?"
    ],
    "question": "Que pensez-vous des montagnes russes et des manèges à sensations fortes ?",
    "reminder": "Montagnes russes"
@@ -6248,9 +6248,9 @@
    "familiarity": "STRANGERS",
    "id": "114184",
    "interrogations": [
-    "Have you made your own bread?",
-    "Well, go on. Tell us how to make bread.",
-    "How are your general cooking skills?"
+    "Avez-vous fait votre propre pain ?",
+    "Eh bien, continuez. Dites-nous comment faire du pain.",
+    "Comment sont vos compétences culinaires générales ?"
    ],
    "question": "Si on vous le demandait, pourriez-vous expliquer les étapes de base de la fabrication du pain ?",
    "reminder": "Faire du pain"
@@ -6280,9 +6280,9 @@
    "familiarity": "STRANGERS",
    "id": "114213",
    "interrogations": [
-    "What’s the last scary movie you’ve seen?",
-    "What’s the best scary movie of all time?",
-    "Tell us about a horror movie moment you’ll never forget."
+    "Quel est le dernier film d'horreur que vous avez vu ?",
+    "Quel est le meilleur film d'horreur de tous les temps ?",
+    "Parlez-nous d’un moment de film d’horreur que vous n’oublierez jamais."
    ],
    "question": "J'aime quand les films d'horreur ont :",
    "reminder": "Type d'horreur"
@@ -6323,9 +6323,9 @@
    "familiarity": "STRANGERS",
    "id": "114255",
    "interrogations": [
-    "Describe your approach to making a mixtape.",
-    "Got any mixtapes in your home right now?",
-    "Off the top of your head, what’s a good song to start a mixtape with?"
+    "Décrivez votre approche pour créer une mixtape.",
+    "Vous avez des mixtapes chez vous en ce moment ?",
+    "D’emblée, quelle est une bonne chanson avec laquelle commencer une mixtape ?"
    ],
    "question": "Combien de cassettes audio avez-vous possédé dans votre vie ?",
    "reminder": "Cassettes"
@@ -6352,9 +6352,9 @@
    "familiarity": "FRIENDS",
    "id": "114402",
    "interrogations": [
-    "Can you recall a moment where you felt lucky?",
-    "Do you feel lucky right now?",
-    "Do you believe in luck at all?"
+    "Pouvez-vous vous rappeler un moment où vous vous êtes senti chanceux ?",
+    "Vous sentez-vous chanceux en ce moment ?",
+    "Croyez-vous vraiment à la chance ?"
    ],
    "question": "Pensez-vous avoir de la chance ?",
    "reminder": "Chanceux ?"
