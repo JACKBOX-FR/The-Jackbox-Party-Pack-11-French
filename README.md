@@ -5,7 +5,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 ## Détails
 
 | Jeu  | Textes du jeu | Fichiers internes (images, polices, etc) | Sous-titres | Doublage | Crédits |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Doominate  | ✅ | ✅ | ✅  | ✅ | MisterShaokahn, Alexandre ROY, Sockonacab,NIX3S |
 | Hear Say  | ✅ | ✅ | ✅  | N/A (S.O) | MisterShaokahn, Alexandre ROY, AntNv335, NIX3S | 
 | Cookie Haus  | ✅ | ✅ | ✅  | ✅ | Alexandre ROY et MisterShaokahn , NIX3S |
