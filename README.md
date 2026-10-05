@@ -11,7 +11,7 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | Cookie Haus  | CookiesGame | ✅ | ✅ | ✅  | ✅ | Alexandre ROY et MisterShaokahn , NIX3S |
 | Suspectives  | DirtyDetectives | ✅ | ✅ | ✅  | ✅ | Alexis L, Alexandre ROY, AntNv335, Sockonacab,NIX3S |
 | Legends of Trivia | TriviaRPG | ✅ | ✅ | ✅  | ✅ | NIX3S,MisterShaokahn, Alexandre ROY, AntNv335, Sockonacab |
-| Traduction Menu Principal | ✅ | ✅ | ✅  | ✅ | 
+| Traduction Menu Principal | Picker | ✅ | ✅ | ✅  | ✅ | 
 
 ✅ Terminé</br>
 ⚪ Commencé mais non terminé</br>
