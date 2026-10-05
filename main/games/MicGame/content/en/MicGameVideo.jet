@@ -1,0 +1,916 @@
+{
+ "content": [
+  {
+   "backingTrack": "VIDEO/singlePrompt/DroneAttack",
+   "durations": [
+    4.501
+   ],
+   "id": "109174",
+   "name": "droneAttack",
+   "textDescription": "A drone chases a man down a road."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/AlarmClockMan",
+   "durations": [
+    2.5
+   ],
+   "id": "109293",
+   "name": "alarmClockMan",
+   "textDescription": "A loud alarm clock wakes a sleeping man."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/MysticalGirl",
+   "durations": [
+    6.501
+   ],
+   "id": "109294",
+   "name": "mysticalGirl",
+   "textDescription": "Un personnage masqué tenant une bougie se promène dans les bois. bois."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/GraveDig",
+   "durations": [
+    4.667
+   ],
+   "id": "109433",
+   "name": "graveDig",
+   "textDescription": "Un homme met de la terre dans un trou et enterre quelque chose."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/MegaphoneOnCliff",
+   "durations": [
+    5
+   ],
+   "id": "109601",
+   "name": "megaphoneOnCliff",
+   "textDescription": "Un homme sur une falaise crie dans un mégaphone."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/UnityHands",
+   "durations": [
+    2.267
+   ],
+   "id": "109602",
+   "name": "unityHands",
+   "textDescription": "Un groupe de personnes joignent les mains pour former un groupe."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/CornOnTheCob",
+   "durations": [
+    6
+   ],
+   "id": "109609",
+   "name": "cornOnTheCob",
+   "textDescription": "Une fourchette étale du beurre sur les épis de maïs."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/ChristmasWish",
+   "durations": [
+    7.234
+   ],
+   "id": "109610",
+   "name": "christmasWish",
+   "textDescription": "Une petite fille chuchote à l’oreille du Père Noël."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/ElderlyRadio",
+   "durations": [
+    2
+   ],
+   "id": "109612",
+   "name": "elderlyRadio",
+   "textDescription": "An elderly woman holds a radio up to her ear."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/TechnoDj",
+   "durations": [
+    3
+   ],
+   "id": "109784",
+   "name": "technoDj",
+   "textDescription": "Un DJ dansant tourne les boutons de sa table d'harmonie."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/SkydivingMan",
+   "durations": [
+    5
+   ],
+   "id": "109785",
+   "name": "skydivingMan",
+   "textDescription": "Un parachutiste saute d'un avion."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/WomanJamming",
+   "durations": [
+    6.434
+   ],
+   "id": "109787",
+   "name": "womanJamming",
+   "textDescription": "Une femme portant des écouteurs danse sur de la musique."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/VoicemailMessage",
+   "durations": [
+    5.25
+   ],
+   "id": "109788",
+   "name": "voicemailMessage",
+   "textDescription": "Un répondeur joue."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/NoComment",
+   "durations": [
+    5
+   ],
+   "id": "109789",
+   "name": "noComment",
+   "textDescription": "Un homme en costume repousse les micros des journalistes."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/ConcertCrowd",
+   "durations": [
+    5.801
+   ],
+   "id": "109790",
+   "name": "concertCrowd",
+   "textDescription": "Une foule de concerts saute et applaudit lors d'une représentation."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/Carolers",
+   "durations": [
+    5
+   ],
+   "id": "109795",
+   "name": "carolers",
+   "textDescription": "Une femme ouvre sa porte aux chanteurs, puis la ferme."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/ParadeBand",
+   "durations": [
+    6.3
+   ],
+   "id": "109796",
+   "name": "paradeBand",
+   "textDescription": "Un homme regarde une fanfare depuis sa fenêtre."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/MusicalCard",
+   "durations": [
+    5
+   ],
+   "id": "109797",
+   "name": "musicalCard",
+   "textDescription": "Une femme ouvre une carte de vœux et sourit."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/DoctorDiagnosis",
+   "durations": [
+    6
+   ],
+   "id": "109798",
+   "name": "doctorDiagnosis",
+   "textDescription": "Un médecin parle et tapote doucement l’épaule d’un patient âgé."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/Cheers",
+   "durations": [
+    3
+   ],
+   "id": "109799",
+   "name": "cheers",
+   "textDescription": "Les amis trinquent avec des bières et des verres à vin sous leurs acclamations."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/Unboxing",
+   "durations": [
+    4
+   ],
+   "id": "110099",
+   "name": "unboxing",
+   "textDescription": "Un homme ouvre une boîte et saisit ce qu’il y a dedans."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/MusicBox",
+   "durations": [
+    5
+   ],
+   "id": "111206",
+   "name": "musicBox",
+   "textDescription": "Une boîte à musique ouverte contenant des figurines de mariés joue une mélodie."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/GospelChoir",
+   "durations": [
+    3.25
+   ],
+   "id": "111207",
+   "name": "gospelChoir",
+   "textDescription": "Une chorale gospel applaudit et chante joyeusement."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/BigProtest",
+   "durations": [
+    4
+   ],
+   "id": "111213",
+   "name": "bigProtest",
+   "textDescription": "Un groupe de personnes défile et chante en signe de protestation."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/Loudspeakers",
+   "durations": [
+    5
+   ],
+   "id": "111317",
+   "name": "loudspeakers",
+   "textDescription": "Un vieux système de haut-parleurs retentit dans un parking."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/VolumeDown",
+   "durations": [
+    4.8
+   ],
+   "id": "111320",
+   "name": "volumeDown",
+   "textDescription": "Un chauffeur baisse le volume de la radio."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/ClownTyping",
+   "durations": [
+    6
+   ],
+   "id": "111322",
+   "name": "clownTyping",
+   "textDescription": "Un clown tape sur un ordinateur portable et lève un sourcil."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/WitnessProtection",
+   "durations": [
+    6
+   ],
+   "id": "111324",
+   "name": "witnessProtection",
+   "textDescription": "Une silhouette d'homme est interviewée dans une pièce sombre."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/TortoiseFight",
+   "durations": [
+    4
+   ],
+   "id": "111326",
+   "name": "tortoiseFight",
+   "textDescription": "Deux tortues se montrent avec colère la bouche."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/FootballGame",
+   "durations": [
+    5,
+    4,
+    3
+   ],
+   "id": "111755",
+   "name": "footballGame",
+   "textDescription": "Une équipe de football se rassemble. Un quart-arrière passe à un receveur large. La foule applaudit depuis les tribunes."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/RomanticNight",
+   "durations": [
+    5.5,
+    2,
+    4
+   ],
+   "id": "111756",
+   "name": "romanticNight",
+   "textDescription": "Une main allume une bougie avec une allumette. Quelqu'un démarre un tourne-disque. Un homme souriant mène son rendez-vous les yeux bandés. L’homme met de manière séduisante des fruits dans la bouche de son rendez-vous. Un disque tourne sur un plateau tournant. Le couple danse ensemble de manière romantique."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/BlowdryingHair",
+   "durations": [
+    4.2
+   ],
+   "id": "111801",
+   "name": "blowdryingHair",
+   "textDescription": "Une femme se sèche les cheveux dans la salle de bain."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/DigitalFinger",
+   "durations": [
+    4
+   ],
+   "id": "111803",
+   "name": "digitalFinger",
+   "textDescription": "Un ordinateur IA futuriste scanne un doigt."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/NoiseMakerFamily",
+   "durations": [
+    3
+   ],
+   "id": "111804",
+   "name": "noiseMakerFamily",
+   "textDescription": "Une famille célébrant un anniversaire souffle sur des bruiteurs."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/ElkBugling",
+   "durations": [
+    3.3
+   ],
+   "id": "111810",
+   "name": "elkBugling",
+   "textDescription": "Un wapiti clairon dans le désert."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/EavesDropping",
+   "durations": [
+    5
+   ],
+   "id": "111811",
+   "name": "eavesDropping",
+   "textDescription": "Une femme espionne en écoutant à travers un mur."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/TwoFencers",
+   "durations": [
+    5.5
+   ],
+   "id": "111812",
+   "name": "twoFencers",
+   "textDescription": "Deux tireurs s'entraînent."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/HonkingHorn",
+   "durations": [
+    2
+   ],
+   "id": "111814",
+   "name": "honkingHorn",
+   "textDescription": "Une femme en colère klaxonne dans la circulation."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/MovieCouple",
+   "durations": [
+    4
+   ],
+   "id": "111815",
+   "name": "movieCouple",
+   "textDescription": "Deux spectateurs sont effrayés par quelque chose à l'écran et renversent du pop-corn."
+  },
+  {
+   "backingTrack": "VIDEO/series/criminalDog/CriminalDog_Car",
+   "durations": [
+    2.8
+   ],
+   "id": "111958",
+   "name": "criminalDogCar",
+   "textDescription": "Un teckel appuie sur un bouton rouge, provoquant l'explosion d'une voiture."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/BadFlight",
+   "durations": [
+    3,
+    3.2,
+    4
+   ],
+   "id": "112548",
+   "name": "badFlight",
+   "textDescription": "Un avion survole les nuages. Un passager crie. Un contrôleur aérien s'enregistre. Le pilote fait une annonce."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/EasterBunny",
+   "durations": [
+    6
+   ],
+   "id": "112610",
+   "name": "easterBunny",
+   "textDescription": "Un lapin géant attrape une carotte dans un réfrigérateur."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/PuppetBusinessman",
+   "durations": [
+    5.5
+   ],
+   "id": "112615",
+   "name": "puppetBusinessman",
+   "textDescription": "Une marionnette bleue en chemise et cravate parle."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/NutcrackersInShock",
+   "durations": [
+    2.85
+   ],
+   "id": "112616",
+   "name": "nutcrackersInShock",
+   "textDescription": "Les casse-noix de Noël ouvrent la bouche sous le choc à l'unisson."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/Bagpipe",
+   "durations": [
+    3.2
+   ],
+   "id": "112618",
+   "name": "bagpipePlayer",
+   "textDescription": "Un homme joue de la cornemuse sur un pont."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/HeadInSand",
+   "durations": [
+    4
+   ],
+   "id": "112621",
+   "name": "headInTheSand",
+   "textDescription": "Un homme met la tête dans un trou dans le sol."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/AlienAbduction",
+   "durations": [
+    5.5
+   ],
+   "id": "112624",
+   "name": "alienAbduction",
+   "textDescription": "Une vache est téléportée vers un vaisseau spatial extraterrestre."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/DinosaurBeach",
+   "durations": [
+    3.7
+   ],
+   "id": "112625",
+   "name": "dinosaurBeach",
+   "textDescription": "Un T-Rex gonflable court sur la plage."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/SurpriseParty",
+   "durations": [
+    3
+   ],
+   "id": "112627",
+   "name": "surpriseParty",
+   "textDescription": "Une femme participe à une fête surprise sous les applaudissements des invités."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/Courtroom",
+   "durations": [
+    4.8,
+    2,
+    3
+   ],
+   "id": "112651",
+   "name": "courtroomv3",
+   "textDescription": "Un avocat se présente devant un jury de salle d'audience. Un juge frappe avec son marteau. Un chien saucisse est enfermé dans une cellule de prison."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/Meditation",
+   "durations": [
+    2,
+    4.8,
+    2
+   ],
+   "id": "112675",
+   "name": "meditation",
+   "textDescription": "Un râteau trace doucement des lignes dans le sable du jardin zen. Un professeur de yoga parle à sa classe. Un étudiant de yoga assis se concentre, les yeux fermés. Le professeur de yoga fait signe à la classe. Les gens sont assis les jambes croisées sur des tapis de yoga, les yeux fermés."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/TennisCourt",
+   "durations": [
+    2
+   ],
+   "id": "112693",
+   "name": "tennisCourt",
+   "textDescription": "A bird’s-eye view of two people playing tennis."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/LookUp",
+   "durations": [
+    3.7,
+    2.5,
+    4.8
+   ],
+   "id": "112706",
+   "name": "lookUp",
+   "textDescription": "A child tugs at his father’s hand. A woman in a crowd points at the sky. A humpback whale swims through the clouds. A man in glasses stares up at the whale."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/GameShow",
+   "durations": [
+    2,
+    2,
+    2.5
+   ],
+   "id": "112707",
+   "name": "gameShow",
+   "textDescription": "Les participants au jeu télévisé ont actionné leur buzzer. Une candidate donne sa réponse. L’argent tombe du plafond."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/SoapOpera",
+   "durations": [
+    4.75,
+    2,
+    3
+   ],
+   "id": "112708",
+   "name": "soapOpera",
+   "textDescription": "Un homme explique quelque chose à une femme qui le gifle. La gifle est répétée deux fois avant que l'homme ne s'éloigne. Deux femmes assises sur un canapé réagissent à la scène télévisée."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/CliffJumping",
+   "durations": [
+    2.7,
+    2.5,
+    3
+   ],
+   "id": "112722",
+   "name": "cliffjumpingv3",
+   "textDescription": "Deux parapentistes sautent d'une falaise. Une personne reste sur la falaise et regarde. Un parapente survole les montagnes."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/RapStudio",
+   "durations": [
+    2.5,
+    4.75,
+    2
+   ],
+   "id": "112773",
+   "name": "rapStudio",
+   "textDescription": "Deux producteurs de musique dans un studio montrent un écran. Un haut-parleur de basse vibre. Un homme avec des dreadlocks rappe dans un micro. Un père souriant conduit avec sa femme et ses deux enfants. Une main fait monter le volume de l’autoradio."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/Wings",
+   "durations": [
+    3,
+    2.5,
+    3
+   ],
+   "id": "112958",
+   "name": "wings",
+   "textDescription": "Un petit oiseau jaune chante au sommet d’une branche d’arbre. Un homme qui regarde à travers des jumelles se tourne lentement. Une volée d'oiseaux en vol. Quelqu’un nettoie un pilon frit."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/Itch",
+   "durations": [
+    3,
+    4.3,
+    2.8
+   ],
+   "id": "112960",
+   "name": "itch",
+   "textDescription": "Un homme frappe un insecte dans le cou et grimace. Un moustique suce le sang d'un doigt. Un homme applique un insectifuge sur le poignet d’un autre campeur."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/Workout",
+   "durations": [
+    2.2,
+    5.5,
+    3
+   ],
+   "id": "112961",
+   "name": "workout",
+   "textDescription": "Un homme en tenue de sport lève les jambes sur le sol. L'homme effectue une série rapide de levées et d'étirements. Deux bras soulèvent un petit chien qui regarde la caméra."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/ASMR",
+   "durations": [
+    2.6,
+    5.4,
+    2
+   ],
+   "id": "112962",
+   "name": "asmr",
+   "textDescription": "Une femme gratte un microphone avec ses ongles.\nElle parle doucement dans le micro. Un homme qui regarde sa vidéo se désabonne."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/Cheerleader",
+   "durations": [
+    2.65
+   ],
+   "id": "113035",
+   "name": "cheerleader",
+   "textDescription": "A cheerleader is tossed into the air and then comes back down."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/MonkeyBusiness",
+   "durations": [
+    5
+   ],
+   "id": "113036",
+   "name": "monkeyBusiness",
+   "textDescription": "Un chimpanzé en tenue professionnelle raccroche le téléphone."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/AvocadoLady",
+   "durations": [
+    4
+   ],
+   "id": "113037",
+   "name": "avocadoLady",
+   "textDescription": "A grinning woman holds an avocado up to her cheek."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/SlimeFingers",
+   "durations": [
+    2
+   ],
+   "id": "113042",
+   "name": "slimeFingers",
+   "textDescription": "Quelqu’un insère ses doigts dans de la bave verte."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/MedievalKnight",
+   "durations": [
+    5
+   ],
+   "id": "113047",
+   "name": "medievalKnight",
+   "textDescription": "Un chevalier médiéval au combat abaisse la visière de son casque."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/GolfSwing",
+   "durations": [
+    2.75
+   ],
+   "id": "113051",
+   "name": "golfSwing",
+   "textDescription": "Une golfeuse frappe la balle avec un swing puissant."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/GhostGuy",
+   "durations": [
+    5
+   ],
+   "id": "113179",
+   "name": "ghostGuy",
+   "textDescription": "Un fantôme de drap portant des lunettes de soleil danse dans un bois d'automne."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/CloneLab",
+   "durations": [
+    2.6,
+    2,
+    2.6
+   ],
+   "id": "113291",
+   "name": "cloneLab",
+   "textDescription": "Un scientifique ajoute du liquide dans un tube à essai. Les cellules agrandies commencent à se multiplier rapidement. Des hommes identiques en costume défilent à l’unisson."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/HandInBreeze",
+   "durations": [
+    5
+   ],
+   "id": "113322",
+   "name": "handInBreeze",
+   "textDescription": "Sur une route de campagne, une main sent la brise provenant de la vitre d’une voiture."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/GroupMiddleFinger",
+   "durations": [
+    3
+   ],
+   "id": "113323",
+   "name": "groupMiddleFinger",
+   "textDescription": "Un groupe de jeunes hommes d’affaires lève le majeur avec défi.",
+   "x": true
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/SillyTubeMan",
+   "durations": [
+    4.5
+   ],
+   "id": "113325",
+   "name": "sillyTubeMan",
+   "textDescription": "Un gigantesque bonhomme au ballon rouge qui s'agite dans le vent."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/CreepyDoll",
+   "durations": [
+    4.5
+   ],
+   "id": "113330",
+   "name": "creepyDoll",
+   "textDescription": "Des éclairs de lumière illuminent une poupée antique effrayante et craquelée."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/MonsterInCloset",
+   "durations": [
+    4.5
+   ],
+   "id": "113334",
+   "name": "monsterInCloset",
+   "textDescription": "Une porte s'ouvre en grinçant et une main de monstre s'introduit."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/BigfootTexting",
+   "durations": [
+    4
+   ],
+   "id": "113336",
+   "name": "bigfootTexting",
+   "textDescription": "Les mains poilues de Bigfoot tapent un message texte.",
+   "x": true
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/Dissociating",
+   "durations": [
+    5
+   ],
+   "id": "113339",
+   "name": "dissociating",
+   "textDescription": "Un homme d’affaires, perdu dans ses pensées, remplit trop sa tasse de café."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/GlowingGift",
+   "durations": [
+    2.75
+   ],
+   "id": "113412",
+   "name": "glowingGift",
+   "textDescription": "A woman opens a glowing gift box at Christmas time."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/WitchyWoman",
+   "durations": [
+    4
+   ],
+   "id": "113539",
+   "name": "witchyWoman",
+   "textDescription": "A witch sits in a pentagram, casting spells over a potion."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/OldCeremony",
+   "durations": [
+    4
+   ],
+   "id": "113540",
+   "name": "oldCeremony",
+   "textDescription": "Les femmes slaves dansent main dans la main, encerclant un arbre."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/BabyTurtle",
+   "durations": [
+    5
+   ],
+   "id": "113542",
+   "name": "babyTurtle",
+   "textDescription": "Un bébé tortue rampe lentement vers l’océan."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/MathProfessor",
+   "durations": [
+    5.5
+   ],
+   "id": "113543",
+   "name": "mathProfessor",
+   "textDescription": "Time-lapse d'un professeur remplissant un grand tableau d'équations."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/ClownAlley",
+   "durations": [
+    2.75
+   ],
+   "id": "113548",
+   "name": "clownAlley",
+   "textDescription": "Une rangée de figurines de clown bouche bée lors d'une foire locale."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/UmbrellaBeach",
+   "durations": [
+    3.5
+   ],
+   "id": "113556",
+   "name": "umbrellaBeach",
+   "textDescription": "Une femme sur une plage venteuse a du mal à retenir son parapluie."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/Eyeballs",
+   "durations": [
+    2.8
+   ],
+   "id": "113563",
+   "name": "eyeballs",
+   "textDescription": "Un gros plan montre une douzaine de globes oculaires en mouvement frénétique."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/ConchShell",
+   "durations": [
+    4.5
+   ],
+   "id": "113603",
+   "name": "conchShell",
+   "textDescription": "Une femme sur une plage tient une conque à son oreille."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/Seminar",
+   "durations": [
+    3,
+    4.4,
+    2.8
+   ],
+   "id": "114404",
+   "name": "seminar",
+   "textDescription": "Une femme élégamment habillée monte sur scène jusqu'à un podium. Elle montre un grand écran derrière elle. Une photo de dents qui claquent au vent est présentée. Les membres du public hochent la tête et discutent."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/Construction",
+   "durations": [
+    4.5,
+    2.8,
+    2.4
+   ],
+   "id": "114405",
+   "name": "construction",
+   "textDescription": "Les ouvriers sur un chantier de construction discutent des plans.\nLes ouvriers coupent et martelent les matières premières.\nUne main pose une brique.\nUne maison délabrée est montrée.\nLes ouvriers se félicitent et se saluent mutuellement."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/RaceCar",
+   "durations": [
+    2.5,
+    3.2,
+    3.1
+   ],
+   "id": "114406",
+   "name": "raceCar",
+   "textDescription": "A coach speaks to a racecar driver. Race start lights change from red to green. The racecar peels out and speeds down the track. The racecar stops for service by the pit crew. The racecar speeds off and crosses the finish line. Several other racecars cross the finish line."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/LateNightOffice",
+   "durations": [
+    2.5,
+    3.5,
+    2.3
+   ],
+   "id": "114407",
+   "name": "lateNightOffice",
+   "textDescription": "L'extérieur d'un immeuble de bureaux la nuit.\nUn homme observe avec des jumelles.\nUne pièce vide avec de nombreux écrans affichant des données de cybersécurité.\nL'homme regarde à nouveau avec des jumelles.\nTrois employés de bureau dansent et font la fête sur un bureau.\nL'homme baisse ses jumelles avec incrédulité."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/PowerOutage",
+   "durations": [
+    4,
+    2,
+    2
+   ],
+   "id": "114415",
+   "name": "powerOutage",
+   "textDescription": "Un ingénieur inspecte les fils dans une salle de serveurs.\nUne paire de pinces coupe un fil bleu.\nL'horizon de la ville s'assombrit.\nLes lumières s'éteignent sur une femme qui mange du pop-corn dans son salon. \nElle lève les bras de frustration.\nL'ingénieur tape sur un ordinateur et sourit."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/Paparazzi",
+   "durations": [
+    3,
+    3.5,
+    2.5
+   ],
+   "id": "114416",
+   "name": "paparazzi",
+   "textDescription": "Des dizaines de paparazzi crient et prennent des photos. Une femme blonde glamour sort d'une limousine. Elle pose pour les caméras. Elle salue et envoie un baiser à la foule. Elle lève une récompense en or en souriant."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/Werewolf",
+   "durations": [
+    3
+   ],
+   "id": "114418",
+   "name": "werewolf",
+   "textDescription": "La silhouette d'un loup-garou hurlant au sommet d'une montagne."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/ScaryForest",
+   "durations": [
+    2,
+    3.5,
+    3.3
+   ],
+   "id": "114423",
+   "name": "scaryForest",
+   "textDescription": "Au loin, une femme court à travers une forêt dense. Un gros plan de la femme qui court tout en regardant frénétiquement autour d’elle. Deux monstres folkloriques regardent derrière du bois flotté."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/PrincessReading",
+   "durations": [
+    6
+   ],
+   "id": "114426",
+   "name": "princessReading",
+   "textDescription": "Une princesse vêtue de rose lit dans un champ herbeux."
+  },
+  {
+   "backingTrack": "VIDEO/singlePrompt/EmotionalDance",
+   "durations": [
+    4.7
+   ],
+   "id": "114434",
+   "name": "emotionalDance",
+   "textDescription": "Un employé de bureau exécute une danse interprétative assise."
+  },
+  {
+   "backingTrack": "VIDEO/threePrompt/DinoDesert",
+   "durations": [
+    5,
+    2.2,
+    3.7
+   ],
+   "id": "114447",
+   "name": "dinoDesert",
+   "textDescription": "Un homme en costume d’affaires rampe sur une dune de sable. \nUn dinosaure rugit après lui.\nL'homme redescend rapidement la dune."
+  }
+ ]
+}
