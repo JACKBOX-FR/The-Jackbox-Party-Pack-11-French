@@ -1,50 +1,34 @@
 name: Release Pack
-    
+
 on:
   push:
-     branches: [ main ]
-     
+    branches:
+      - main
+
+permissions:
+  contents: write
+
 jobs:
- retrievingVersion:
-  runs-on: ubuntu-latest
-  outputs:
-      version: ${{ steps.versionstep.outputs.version }}
-  steps:
-    - uses: actions/checkout@v3
-    - id: set_var
-      run: |
-          content=`cat ./main/jbg.config.jet`
-          # the following lines are only required for multi line json
-          content="${content//'%'/'%25'}"
-          content="${content//$'\n'/'%0A'}"
-          content="${content//$'\r'/'%0D'}"
-          # end of optional handling for multi line json
-          echo "::set-output name=packageJson::$content"
-    - run: |
-          VERSION=${{fromJson(steps.set_var.outputs.packageJson).buildVersion}}
-          echo "VERSION=${VERSION}" >> $GITHUB_ENV
-      name: Retrieve Release Version
-    - run: rm -r ./main/games/TriviaRPG
-    - run: mkdir -p outputs
-    - run: echo "${VERSION}"
-    - name: Zipping release
-      working-directory: main
-      run: |
-          zip -r ../outputs/JPP11.zip *
-    - name: Checkout to main-beta
-      uses: actions/checkout@v3
-      with:
-          ref: main-beta
-          clean: true
-    - name: Zipping beta release
-      working-directory: main
-      run: |
-          zip -r ../outputs/JPP11-beta.zip *
-    - name: Upload release onto Github
-      uses: ncipollo/release-action@v1
-      with:
-         artifacts: 'outputs/JPP11.zip'
-         token: ${{ secrets.GITHUB_TOKEN }}
-         tag: ${{ env.VERSION }}
-         prerelease: false
-         allowUpdates: true
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create ZIP archive
+        working-directory: main
+        run: |
+          mkdir -p ../outputs
+          zip -r ../outputs/JPP11.zip . -x "*.git/*"
+
+      - name: Create or update GitHub release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: outputs/JPP11.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: build-${{ github.run_number }}
+          name: Build ${{ github.run_number }}
+          prerelease: false
+          allowUpdates: false
+          replacesArtifacts: true
